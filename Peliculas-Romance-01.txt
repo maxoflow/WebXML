@@ -1,0 +1,22 @@
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+ 
+      <channel>
+    <name>          <<<<<<<<<Extrenos Peliculas HD>>>>>>>></name>
+    <thumbnail>http://4.bp.blogspot.com/-78BV_c441h4/Vcm6ilrF1DI/AAAAAAAAEa8/Rki1VAm1oDo/s1600/web.png</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-G-5Sm8j0NX4/VcntgOt3R0I/AAAAAAAAEdQ/zNwH4X78ZxA/s1600/fondo1.jpg</fanart>
+        <items>
+               
+            <item><title>[COLOR=blue]                                         <<[/COLOR][COLOR=blue]Extrenos Peliculas HD[/COLOR][COLOR=blue]>>[/COLOR]</title>   <link>http://webtutoshugo.blogspot.com.es/</link></item>                      
+ 
+ 
+ 
+ 
+ 
+                       
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Titulo</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://flashservice.xvideos.com/embedframe/18572513</link>
+                        </item>

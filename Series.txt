@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Castellano [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Latino [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] VO [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>

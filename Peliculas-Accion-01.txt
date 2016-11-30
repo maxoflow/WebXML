@@ -1,0 +1,2879 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Película</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://wallpapercave.com/wp/Qsbbfie.png</thumbnail>
+      <fanart>http://wallpapercave.com/wp/Qsbbfie.png</fanart>
+      <date>04.01.2013</date>
+      <credits>MaXoFloW.CoM</credits>
+    </channels_info>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR] Con la FMI disuelta y Ethan Hunt abandonado a su suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales altamente preparados y entrenados.</info>
+    <thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+    <fanart>http://otecnosi.com/wp-content/uploads/2015/06/Estrenos-DVD-Misi%C3%B3n-imposible-Naci%C3%B3n-Secreta-escena.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/4rqiv3xypaaz</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/0mo2h2htqhkm</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/dns66buss9c7/MI5_m1080p.avi.html</link>          
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamin.to/fvz7wthyn3uz</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://thevideo.me/7vjr6wk40xfr</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://vidzi.tv/ikoop5prdu75.html</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://streamcloud.eu/cfaqw5i1dr6h/J748_L995_MI5_m1080p.avi.html</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 8)[/COLOR]</title>        
+                <link>http://streamin.to/v2q1l4dx295o</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 9)[/COLOR]</title>        
+                <link>http://vidzi.tv/otu4vodu19p9.html</link>
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 10)[/COLOR]</title>        
+                <link>http://streamin.to/w3je0pdnamgy</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 11)[/COLOR]</title>        
+                <link>http://streamin.to/2b70dyq2cg4x</link>           
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 12)[/COLOR]</title>        
+                <link>http://vidzi.tv/yq7519j1dolb.html</link>
+               	<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/9jrvp6wted24</link>
+               	<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/25nf4fkf6j5y/OperUncHDR.Down.avi.html</link>
+              	<thumbnail>http://vidzi.tv/8yvim8pzne6k.html</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamin.to/zcp6iec36zas</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamin.to/4e7c12vor8bu</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Un grupo de elite ruso comandados por el mariscal Shaposhnikov tiene que liberar un metanero ruso que ha sido secuestrado por un grupo de piratas somalíes. Uno de los marineros, Alex Ezhov, en plena reyerta de asalto queda atrapado en una cisterna.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6sdng6j3U91ucP1ozhEjrZS4z7.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/g9xwm6qeyg61</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/01pq6l64eeb4</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/npmzqxxf5cbr/22MinHDR.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/pogvxjiaccto/22MinHDR.CASTE.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2008[/COLOR] En Francia, grupos terroristas y agencias de inteligencia se enfrentan dia a día en una guerra mercenaria en nombre de ideologías radicalmente opuestas.</info>
+    <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cwmSwCFoqe5Y9NxVpY7gXfZfx8K.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/20r0vx705203</link>
+                <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://vidzi.tv/ykbks5j5w54g.html</link>
+                <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/elbvzibqp5bh/S3cr3t0s_d3_3st4d0_HDRip.avi.html</link>
+                <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Condena máxima[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2012[/COLOR] Cuando el ex agente de operaciones encubiertas Tom Steele y su compañero Manning se asignan a desmantelar una antigua prisión, deben supervisar la llegada de dos mujeres presas misteriosas. En poco tiempo, una fuerza de élite de mercenarios asalta la cárcel en busca de los recién llegados.</info>
+    <thumbnail>http://www.descargatelocorp.com/wp-content/uploads/2013/09/condena-maxima-727x1024.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1nICjTbJ0SnEIK8PW9bZxuih4ct.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Condena máxima Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/gpp7o8kl5f2m</link>
+                <thumbnail>http://www.descargatelocorp.com/wp-content/uploads/2013/09/condena-maxima-727x1024.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Condena máxima Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/qew1dqpim3vf/HDMaxiCondena-HDrip.avi.html</link>
+                <thumbnail>http://www.descargatelocorp.com/wp-content/uploads/2013/09/condena-maxima-727x1024.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E.[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR] Se centra en el agente de la CIA Napoleon Solo y el agente de la KGB Illya Kuryakin. Obligados a apartar sus diferencias, largamente arraigadas, ambos se unen para formar un equipo que llevará a cabo una misión conjunta para poner fin a una misteriosa organización criminal internacional, que pretende desestabilizar el frágil equilibrio de poder resultante de la proliferación de armas y tecnología nuclear.</info>
+    <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+    <fanart>http://peliculastotales.com/wp-content/uploads/2015/08/sJX97HsPAdeD5bzk9TppYFsbBUY.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/4q6c9aox23ld</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/d9xyy83hxlia</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/5oxkegqqgklv/0p3r4c10n_11ncl3_m1080p.avi.html</link>         
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamin.to/33g6vyu284r0</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/e3fkxhkd9uyo/R679_L946_0p3r4c10n_11ncl3_m1080p.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/hgpbiaf1jpg1/R679_L946_0p3r4c10n_11ncl3_m1080p.avi.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://vidzi.tv/6pr5m8n7xqpm.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 8)[/COLOR]</title>        
+                <link>http://vidzi.tv/3xqgc8w3kest.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 9)[/COLOR]</title>        
+                <link>http://streamcloud.eu/jjvlna3q3i5d</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 10)[/COLOR]</title>        
+                <link>http://streamin.to/6zjo1b62uojf</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 11)[/COLOR]</title>        
+                <link>http://streamcloud.eu/odry89v39c3j/0p3r4c10n_11ncl3_HDRip.avi.html</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 12)[/COLOR]</title>
+				<link>http://streamcloud.eu/1auwez9mjxh2/F7687_M955_0p3r4c10n_11ncl3_HDRip.avi.html</link>
+               	<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 13)[/COLOR]</title>
+				<link>http://streamcloud.eu/duduzqi5mbn8/F7687_M955_0p3r4c10n_11ncl3_HDRip.avi.html</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 14)[/COLOR]</title>        
+                <link>http://streamcloud.eu/25nf4fkf6j5y/OperUncHDR.Down.avi.html</link>  
+              	<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 15)[/COLOR]</title>        
+                <link>http://streamin.to/tofjwd3386mo</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 16)[/COLOR]</title>        
+                <link>http://vidzi.tv/a0cxcqyslcvk.html</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 17)[/COLOR]</title>        
+                <link>http://streamcloud.eu/odbeli5662l2</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 18)[/COLOR]</title>        
+                <link>http://streamcloud.eu/euejtz6nd6dm/F679_K481_0p3r4c10n_11ncl3_DvDRip.avi.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 19)[/COLOR]</title>        
+                <link>http://streamcloud.eu/8yvur628i3tx/F679_K481_0p3r4c10n_11ncl3_DvDRip.avi.html</link>
+               	<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]El gran golpe[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2012[/COLOR] Popie y sus compinches viajan a Macao para un trabajo. Cuando llegan, descubren que el que está detrás del golpe no es otro que el antiguo socio de Popie.</info>
+    <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2013/05/el-gran-golpe-cartel.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/gCvZ4Gu4OgZZoHSnxsEyLmjC4nZ.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El gran golpe Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/wi5knv637aut</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2013/05/el-gran-golpe-cartel.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1997[/COLOR] En el año 2013, en Estados Unidos, no hay autopistas, ni leyes, ni esperanza en el futuro. Tras una guerra apocalíptica que ha destruido casi la civilización, los que han sobrevivido a terribles plagas, revueltas e inviernos de tres años, intentan reagruparse en poblados y llevar una vida tranquila.</info>
+    <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-5gA-Xa7XapQ/UXu-nObyrsI/AAAAAAAAHA0/v4YkwZEJ2Tg/s1600/mensajero3.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/mla8wz9ibmqt</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/k9e60a1gpupz</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/o4e8unyl4ht7/mensagero.del.futuro.DVDrip.avi.html</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/jjakjtrrvtbb/Mensajero_del_futuro_HDrip.avi.html</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]La Roca[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1996[/COLOR] Un grupo de soldados renegados roba un arma química y toma la antigua cárcel de Alcatraz con 81 turistas como rehenes. Su líder, un general del ejército muy condecorado, pide 100 millones de dólares para entregárselos a las familias de los soldados muertos en operaciones secretas llevadas a cabo por el ejército.</info>
+    <thumbnail>http://pics.filmaffinity.com/the_rock-858467513-large.jpg</thumbnail>
+    <fanart>http://4.bp.blogspot.com/-btn3_lM9BSg/T16Py084a3I/AAAAAAAABo4/4fMfrJsLy8U/s1600/la+roca+nicolas+cage.JPG</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La Roca Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/dnha7ug2hw1n/La.Roca.1996.Castellano.DVDRip.avi.html</link>
+                <thumbnail>http://pics.filmaffinity.com/the_rock-858467513-large.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La Roca Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/98iycb4d7uwu/La.Roca.1996.Castellano.DVDRip.avi.html</link>
+                <thumbnail>http://pics.filmaffinity.com/the_rock-858467513-large.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Assassin's Creed Lineage[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009[/COLOR] Es una miniserie online formada por tres cortometrajes de quince minutos cada uno y que narra los hechos sucedidos antes del videojuego "Assassin's Creed II".</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_551a9104d4a7dc2218332f303b0c2b8a.jpg</thumbnail>
+    <fanart>http://hybride.com/assets/uploads/movies_gallery/5e281-9cd7d-3.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Assassin's Creed Lineage Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/4qplpqltsoor</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_551a9104d4a7dc2218332f303b0c2b8a.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Assassin's Creed Lineage Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/i2hqx4it6c1f/AssassinsCreedLineageDVDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_551a9104d4a7dc2218332f303b0c2b8a.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A Fondo[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2008[/COLOR] Un agente de la policía judicial, pierde a su compañero y mejor amigo en el transcurso de una operación contra una red de narcotraficantes. Le trasladan entonces a un nuevo servicio, encargado de llevar a cabo infiltraciones.</info>
+    <thumbnail>http://www.todoelcine.net/images/sobipro/entries/4236/portada/A-fondo.jpg</thumbnail>
+    <fanart>http://image.toutlecine.com/photos/g/o/0/go-fast-go-fast-01-10-2008-2-g.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Fondo Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/9qt4ubbu2oo0/4_f0nd0_DvDRip.avi.html</link>
+                <thumbnail>http://www.todoelcine.net/images/sobipro/entries/4236/portada/A-fondo.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Fondo Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://vidzi.tv/lsijdfusvai6.html</link>
+                <thumbnail>http://www.todoelcine.net/images/sobipro/entries/4236/portada/A-fondo.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Spartan[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2004[/COLOR] Robert Scott, un marine que trabaja para el servicio secreto, es un hombre muy respetado en el mundo del espionaje. Cuando le encargan la misión de encontrar a Laura Newton, la hija de un alto miembro del gobierno, le asignan como compañero a un novato, que se convierte en su protegido.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3a77c073bf81cd62719933d3f563cd5e.jpg</thumbnail>
+    <fanart>http://s3.amazonaws.com/auteurs_production/images/film/spartan/w1280/spartan.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Spartan Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/ebemcdsjk9or</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3a77c073bf81cd62719933d3f563cd5e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Spartan Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/3fz6mnzirm8j/Sp4rt4n_DvDRip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3a77c073bf81cd62719933d3f563cd5e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Spartan Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/6b02xnq9xqq8/Sp4rt4n_DvDRip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3a77c073bf81cd62719933d3f563cd5e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Spartan Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/cke4fcqn38ds/Sp4rt4n_DvDRip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3a77c073bf81cd62719933d3f563cd5e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Spartan Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://thevideo.me/q21vw6d2en4d</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3a77c073bf81cd62719933d3f563cd5e.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Bullet[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Cuando la hija del Gobernador es secuestrada y luego su nieto, BULLET toma la ley en sus propias manos, y nadie va a detener su incesante búsqueda de venganza.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a3bbf5fe11cab333d6982bda091baac0.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/TdOSjGguQBg/maxresdefault.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Bullet Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/arxavinghu8u</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a3bbf5fe11cab333d6982bda091baac0.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Bullet Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/zlg76n8wsx85/Bullet_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a3bbf5fe11cab333d6982bda091baac0.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Bullet Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/07dpoizd4bn1/Bullet_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a3bbf5fe11cab333d6982bda091baac0.jpg</tumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Bullet Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/xn200q98lvxu/BULL3HDR_.caste.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a3bbf5fe11cab333d6982bda091baac0.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Push[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009[/COLOR] La División, una agencia gubernamental clandestina, tiene un oscuro fin: alterar genéticamente a personas normales para convertirlas en soldados con poderes psíquicos. Aquellos que no quieren participar o que están en contra, son eliminados.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_f94fdcf860dfe5b0f8c447ab6e8a2e91.jpg</thumbnail>
+    <fanart>https://static.justwatch.com/backdrop/276808/s1440/push</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Push Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/41ebiqmgcs62</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_f94fdcf860dfe5b0f8c447ab6e8a2e91.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Push Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/62dqv2181qio</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_f94fdcf860dfe5b0f8c447ab6e8a2e91.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Push Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/52sdas9qobw0/Push.HDR.Cast.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_f94fdcf860dfe5b0f8c447ab6e8a2e91.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Blade[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1998[/COLOR] En un mundo cohabitado en guerra por hombres y vampiros Blade es un vampiro que, al contrario que el resto, no se alimenta de humanos, y que pretende acabar con la raza de "seres superiores" que mordieron a su madre cuando estaba embarazada.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3c0a14f19404b6f0db59904d961c3e55.jpg</thumbnail>
+    <fanart>http://www.bolsamania.com/cine/wp-content/uploads/2015/10/42.png</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/ey266odowfqg</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3c0a14f19404b6f0db59904d961c3e55.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/vpbxabbctmpm/Blade_HDrip.avi.html</link>
+                <thumbnail></thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/gvwawpcc84w7/Blade_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_3c0a14f19404b6f0db59904d961c3e55.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Blade II[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2002[/COLOR] Una nueva raza de vampiros, los Reapers, surge para atacar tanto a los humanos como a los de su propia raza, causando el terror. El Consejo de la Sombra, un grupo de vampiros que teme por su supervivencia y que tiene su sede en Praga, contacta con Blade para que acabe con ellos.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a95659b4cc63642a56be14b280ab3d24.jpg</thumbnail>
+    <fanart>https://themarckoguy.files.wordpress.com/2015/09/1366x768_blade2.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade II Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/nel6k6z3qa1f</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a95659b4cc63642a56be14b280ab3d24.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade II Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/g6vo36sxrngh/Blade_2_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a95659b4cc63642a56be14b280ab3d24.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade II Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/nzucq9qwn8xd/Blade_2_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a95659b4cc63642a56be14b280ab3d24.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Blade Trinity[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2004[/COLOR] Durante años, Blade ha luchado contra los vampiros sin que el mundo supiera lo que sucedía en los bajos fondos. Pero ahora, tras caer en las redes del FBI, se ve forzado a salir a la luz del día para unir sus fuerzas con un clan de humanos cazadores de vampiros que nunca supo que existían, los Nightstalkers.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_34565399a50bdd6cc6b40c987c2dee2e.jpg</thumbnail>
+    <fanart>http://enmenterevista.com/img/blade-trinity-images.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade Trinity Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/dv6npvnre04h</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_34565399a50bdd6cc6b40c987c2dee2e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade Trinity Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/gj2nqmogue8z/Blade_3_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_34565399a50bdd6cc6b40c987c2dee2e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Blade Trinity Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/soegxfvzo633/Blade_3_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_34565399a50bdd6cc6b40c987c2dee2e.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Asalto al poder[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Un policía del Capitolio, ve rechazada su petición de entrar en el Servicio Secreto para proteger al Presidente de los Estados Unidos. Para no decepcionar a su hija, la lleva a hacer un tour por la Casa Blanca. En ese momento, un comando paramilitar fuertemente armado asalta el edificio.</info>
+    <thumbnail>http://a4.mzstatic.com/eu/r30/Video6/v4/12/84/b7/1284b7d8-cae5-7b4a-8c41-1cce5e5074ae/poster227x227.jpeg</thumbnail>
+    <fanart>http://cineycomedia.com/wp-content/uploads/2013/04/DFR_10043_R.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Asalto al poder Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/ms44w99aupt5</link>
+                <thumbnail>http://a4.mzstatic.com/eu/r30/Video6/v4/12/84/b7/1284b7d8-cae5-7b4a-8c41-1cce5e5074ae/poster227x227.jpeg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Asalto al poder Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/a7jtbrrhmuty</link>
+                <thumbnail>http://a4.mzstatic.com/eu/r30/Video6/v4/12/84/b7/1284b7d8-cae5-7b4a-8c41-1cce5e5074ae/poster227x227.jpeg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Asalto al poder Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/36z5sag5f1hk/Asalto_Al_Poder_hdrip.avi.html</link>
+                <thumbnail>http://a4.mzstatic.com/eu/r30/Video6/v4/12/84/b7/1284b7d8-cae5-7b4a-8c41-1cce5e5074ae/poster227x227.jpeg</thumbnail>
+            </item>
+        </items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Asalto al poder Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/4yxhaf9hiecd/Asalto_Al_Poder_hdrip.avi.html</link>
+                <thumbnail>http://a4.mzstatic.com/eu/r30/Video6/v4/12/84/b7/1284b7d8-cae5-7b4a-8c41-1cce5e5074ae/poster227x227.jpeg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]El Soldado de Dios[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2011[/COLOR] Sam Childers creció con un padre violento y una madre muy devota, quizá por ello su vida es una contradicción. Algunos años después, Sam se incorpora al ejército y forma parte de un equipo cuya misión consiste en recorrer las zonas más peligrosas de Sudán y de Uganda para rescatar a los niños huérfanos y a los niños-soldado. </info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_eb13f2ced787ff117003231b2c7955cb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/AmK9Qz417pOBfMJJqw0Wuf4ot4L.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El Soldado de Dios Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/e15uxkm1zy0h</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_eb13f2ced787ff117003231b2c7955cb.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El Soldado de Dios Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/ft84p7cqonj2/C810_2011_El.Soldado.De.Dios_DVDRip_ESP_LiNkMaN.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_eb13f2ced787ff117003231b2c7955cb.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Persecución extrema[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2006[/COLOR] La carrera del oficial de Marina John Triton termina cuando sufre una lesión mientras estaba de rehén en Irak. Comienza nuevamente su vida de soldado cuando un ladrón de diamantes secuestra a su mujer. El "marine" no descansará hasta cumplir la misión más importante de su vida.</info>
+    <thumbnail>http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/69/55/53/20056276.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wTyn8QK69tnOkD2Bb55idOCvL0T.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Persecución extrema Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/jrfyqcr6owoi</link>
+                <thumbnail>http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/69/55/53/20056276.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Persecución extrema Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/uby5darkpx8x</link>
+                <thumbnail>http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/69/55/53/20056276.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+	
+	<channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Tracers[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR]  Un mensajero que recorre las calles de la moderna New York montado en bicicleta. En un lugar donde el caos reina en cada cruce y el peligro para los vehículos a dos ruedas es constante, él es el mejor y el más rápido en hacer llegar los paquetes.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+    <fanart>http://metropolisjapan.com/wp-content/uploads/2015/03/1096-M-Tracers.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/geizdp2pxgei</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/e7xw3fcrqm2w</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://vidzi.tv/olhllep9265m.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://thevideo.me/ze21ytztgrap</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/yulzuupal2av/H_949_K995_Tr4c3_m1080p.Cast.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/n5lg7tjtm8vr/Trace.HDR.Down.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/0cd87jrs030d</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Tracers Latino [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/b5a39t46y0tt/Tracers_Al_Limite.2015.DVDrip..Lati.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8e1a0cee80251cf5bc0f25e56f71beb3.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+	
+	<channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Una noche para sobrevivir[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR]  Al veterano mercenario Jimmy Conlon, conocido como El Cavatumbas, lo persiguen los crímenes del pasado, pero tambien el policía que le ha seguido la pista durante 30 años. Cuando se entera de que su hijo Mike corre peligro, Jimmy tiene que elegir entre el clan criminal al que ha pertenecido siempre y su familia.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/lzduLQW.jpg</thumbnail>
+    <fanart>https://alt81.files.wordpress.com/2015/06/run-all-night-2015-cast-wallpapers.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Una noche para sobrevivir Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/gzkjw56auajr/N0ch3Sov.m1080p..avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/lzduLQW.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Una noche para sobrevivir Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/3c8f0wcjxe53/L_945_B339_Una.Noche.Para.Sobrevivir.HDRip.Esp.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/lzduLQW.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Una noche para sobrevivir Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/j818rng7e35f</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/lzduLQW.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Una noche para sobrevivir Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/oav0mgqpl9vl/N0ch3Sobr3BRLiNE.Down.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/lzduLQW.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Una noche para sobrevivir Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://thevideo.me/qx7m2t7l8ska</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/lzduLQW.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Una noche para sobrevivir Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/d83djlaw8ejg</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/lzduLQW.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+	
+	<channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR]  Jim Terrier es una espía internacional que ha sido traicionado por la propia organización para la que trabajaba, razón por la que decide dejar atrás su pasado y empezar una nueva vida casándose con su novia. Pero sus planes se truncarán cuando se dé cuenta de que sus jefes y antiguos compañeros van tras él y no pararán hasta verlo muerto.</info>
+    <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+    <fanart>http://im.ziffdavisinternational.com/ign_es/screenshot/default/galeria_2jqm.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/vqa6z8hk8mad</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/9jz1dddeuqqf</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamin.to/oxij50wvhk64</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/uaidvnzn2shh</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/aqnpz7jkdckz/D_9949_P9410_C4z44l_4s3s1n0_m1080p.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/i7pu23n94hg4/Caza_Al_Asesino_-The_Gunman_HDrip.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Caza al asesino Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://streamcloud.eu/gy2jog1n8yqa/Caza_Al_Asesino_-The_Gunman_HDrip.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/05/12/12/12/316577.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]El gran torneo[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009[/COLOR] Cada siete años un pueblo es elegido al azar para albergar una competición clandestina. 30 asesinos llegados de diferentes rincones del mundo compiten por un premio de 10 millones en efectivo. Son los mejores, y solo puede quedar uno en pie.</info>
+    <thumbnail>http://i.imgur.com/i4QY8T8.jpg</thumbnail>
+    <fanart>https://static.justwatch.com/backdrop/294442/s1440/el-gran-torneo</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El gran torneo Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/qad1c90g3mme/3GTHR.avi.html</link>
+                <thumbnail>http://i.imgur.com/i4QY8T8.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El gran torneo Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/t9q3u2fn0fxf/GranTorneoHDrip.avi.html</link>
+                <thumbnail>http://i.imgur.com/i4QY8T8.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El gran torneo Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/rn17l7nkhluo/GranTorneoHD.down.avi.html</link>
+                <thumbnail>http://i.imgur.com/i4QY8T8.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+	
+	<channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR]  La Costa de California es un lugar tranquilo en el que los días transcurren con total normalidad hasta que se desata un terremoto en la falla de San Andrés (San Andreas en inglés). La ciudad quedará totalmente destruida y desolada.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+    <fanart>http://www.cinemascomics.com/wp-content/uploads/2015/06/San-Andreas-Pelicula.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/qj98wky02x95</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/4x7f5ozbcpmz</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/7k60iretacx5/S.Andr3.m8p.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/1xtae4cyxvn5/S4n7ndr3.HDRcas.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/lipj9cc4xpni/S4n7ndr3.HD.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/6zcrasm0ndq3</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Latino [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/jg9kzvzha0tn</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]San Andrés Latino [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/euoyddkrlbj5/Terremoto_La_Falla_de_San_Andres.2015.EBrip.Lati.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_c39704e1c0ed1fee386de5fc27a6320e.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+	
+	<channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Survivor[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR]  Una mujer norteamericana trabaja en Londres para el departamento de estado de EEUU. Cuando las oficinas son bombardeadas, ella resulta ser la única superiviviente, encontrándose además en medio de una trama conspiratoria que la hace sospechosa.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f17eb1caf5c366e0ca3929dd9ab284d.jpg</thumbnail>
+    <fanart>http://www.niuss.es/wp-content/uploads/2015/04/maxresdefault.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Survivor Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/ofa3vjaf67sh</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f17eb1caf5c366e0ca3929dd9ab284d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Survivor Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/ffeofxkf54hs</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f17eb1caf5c366e0ca3929dd9ab284d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Survivor Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/dyoq2vqn8h5k/Surv1v0r.m1080p.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f17eb1caf5c366e0ca3929dd9ab284d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Survivor Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/5orjhf4ckcmt/Survivor.HDRip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f17eb1caf5c366e0ca3929dd9ab284d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Survivor Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/54hfoz0qv1ch/Surv1HDR.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f17eb1caf5c366e0ca3929dd9ab284d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Survivor Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/tbo6pu2lsnvu</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f17eb1caf5c366e0ca3929dd9ab284d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+    </channel>
+	
+	<channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Death Race 2: el origen[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2010[/COLOR]  Tendrá lugar en un futuro muy próximo, cuando la economía de Estados Unidos comienza a declinar y la delincuencia violenta inicia una espiral fuera de control. Para contener a la población penal, se crea una serie de cárceles privadas, gobernadas por bandas, asesinos a sangre fría y sociópatas.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_41d609c0e1e96b0d3dc28a70bb08e929.jpg</thumbnail>
+    <fanart>http://es.web.img3.acsta.net/medias/nmedia/18/82/49/78/19659455.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Death Race 2: el origen Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/z2l7c0r39hjb</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_41d609c0e1e96b0d3dc28a70bb08e929.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Death Race 2: el origen Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/eaj99t01dndj/Death.Race_II._HDRip.AC3_5.1_Esp.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_41d609c0e1e96b0d3dc28a70bb08e929.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]La sombra del reino[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2007[/COLOR]  Ronald Fleury, un inteligente agente especial del Gobierno, le acaban de encargar una importante misión: organizar un equipo de élite (Jennifer Garner, Chris Cooper y Jason Baterman) que deberá desplazarse a Riad para capturar al cerebro de un atentado terrorista que le costó la vida a varios compatriotas.</info>
+    <thumbnail>http://1.bp.blogspot.com/-e44MClcl81w/URFW4xe7Q9I/AAAAAAAACFE/Fq0uPLKxYQA/s1600/La_Sombra_Del_Reino.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zGP9UgLsMUZUlZwR2s6wUk0Qgp5.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La sombra del reino Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/oyxzctm1dxhc</link>
+                <thumbnail>http://1.bp.blogspot.com/-e44MClcl81w/URFW4xe7Q9I/AAAAAAAACFE/Fq0uPLKxYQA/s1600/La_Sombra_Del_Reino.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La sombra del reino Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/exzfx6vgh80p/D457_2007_L4.S0mbr4.D3l.R3in0_720p_ESP_LiNkMaN.mkv.html</link>
+                <thumbnail>http://1.bp.blogspot.com/-e44MClcl81w/URFW4xe7Q9I/AAAAAAAACFE/Fq0uPLKxYQA/s1600/La_Sombra_Del_Reino.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La sombra del reino Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/uio1icssxume/S0mbr4_R31n0_HDrip.avi.html</link>
+                <thumbnail>http://1.bp.blogspot.com/-e44MClcl81w/URFW4xe7Q9I/AAAAAAAACFE/Fq0uPLKxYQA/s1600/La_Sombra_Del_Reino.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La sombra del reino Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/gigwgajuzhuf/H_577_L_959_S0mbr4_R31n0_HDrip.Esp.avi.html</link>
+                <thumbnail>http://1.bp.blogspot.com/-e44MClcl81w/URFW4xe7Q9I/AAAAAAAACFE/Fq0uPLKxYQA/s1600/La_Sombra_Del_Reino.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Adaptación a la gran pantalla de la autobiografía del Navy SEAL Chris Kyle, un tejano con el récord de muertes como francotirador del ejército norteamericano. El marine del grupo de operaciones especiales de la Marina de Estados Unidos Chris Kyle es enviado a Irak con una sola misión: proteger a sus compañeros de ejército, se gana el apodo de “Leyenda”.</info>
+    <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+    <fanart>http://www.geekbinge.com/wp-content/uploads/2015/01/American-Sniper.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/w5lvfx7sduw4</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/dnn428k3wytc</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/1h6d6cghvgf2/El.Francotirador.HDR..cas.avi.html</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/18phmupytjvu</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/600zt41kfmab/Francotirahd.avi.html</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/687wfyw3auk0/Francotirador_LINE.Down.avi.html</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://streamcloud.eu/1t38lb2qez9c/Francotirahd.Down.avi.html</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 8)[/COLOR]</title>        
+                <link>http://streamcloud.eu/lp1tt4lakrby/El.Francotirador.DVDR.cas.avi.html</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Castellano [/COLOR][COLOR red] (Opción 9)[/COLOR]</title>        
+                <link>http://streamcloud.eu/q8oienw4yumy/El.Francotirador.DVDR.cas.avi.html</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El francotirador Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/wv4uyxjr6zac</link>
+                <thumbnail>http://i.blogs.es/0209bb/650_1000_elfrancotiradorcartelespanol/original.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Imparable[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2010[/COLOR] El destino cruza las vidas de un veterano ingeniero y la de un joven conductor cuando ambos tengan que aunar sus fuerzas para enfrentarse a una peligrosa misión.</info>
+    <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2010/10/imparable-cartel1.jpg</thumbnail>
+    <fanart>http://www.trenvista.net/wp-content/uploads/2014/04/denzel-and-pine-in-UNSTOPPABLE.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Imparable Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/hyqkxfgxjm7m</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2010/10/imparable-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Imparable Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/b0h20t6zy13v</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2010/10/imparable-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Imparable Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamin.to/xlc3jntwfu9a</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2010/10/imparable-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Imparable Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamin.to/ifhvxrf28v4q</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2010/10/imparable-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Imparable Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/qnd0yzf0ar4i/F_995_K_733_Imparable_HDRip.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2010/10/imparable-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Imparable Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/qflol0fn70ha/A234_z311_Imparable.HDR.Cast.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2010/10/imparable-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1987[/COLOR] Antiguos soldados de la guerra del Vietnam han creado una poderosa red de tráfico de droga. Dos policías reciben el encargo de esclarecer un asesinato en el que esa peligrosa organización se haya implicada.</info>
+    <thumbnail>http://es.web.img2.acsta.net/medias/nmedia/18/67/73/64/20146911.jpg</thumbnail>
+    <fanart>http://img-youpeliculas.com/images/2014/04/04/lethal-weapon.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/n2yx8es7t1wn</link>
+                <thumbnail>http://es.web.img2.acsta.net/medias/nmedia/18/67/73/64/20146911.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/f93vcn4pqxec/Arma.Letal.1_HDRip_Castellano.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/medias/nmedia/18/67/73/64/20146911.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://thevideo.me/qmv70n66pa94</link>
+                <thumbnail>http://es.web.img2.acsta.net/medias/nmedia/18/67/73/64/20146911.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 2[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1989[/COLOR] Una pareja de policías tiene como misión proteger a un individuo que va a testificar en contra de una organización de traficantes de droga. Las cosas se complican cuando uno de ellos decide iniciar la investigación por su cuenta sin comunicarlo a la comisaría.</info>
+    <thumbnail>http://image.tmdb.org/t/p/w396/5jTq3M1gr9fePrv5Afhnyi9NdTg.jpg</thumbnail>
+    <fanart>http://es.web.img2.acsta.net/pictures/14/03/05/10/14/483699.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 2 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/brum3i9wxd98</link>
+                <thumbnail>http://image.tmdb.org/t/p/w396/5jTq3M1gr9fePrv5Afhnyi9NdTg.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 2 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/uole1r1h2mw2</link>
+                <thumbnail>http://image.tmdb.org/t/p/w396/5jTq3M1gr9fePrv5Afhnyi9NdTg.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 2 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://thevideo.me/bqnb71d69mzu</link>
+                <thumbnail>http://image.tmdb.org/t/p/w396/5jTq3M1gr9fePrv5Afhnyi9NdTg.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 4[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1998[/COLOR] Cuarta entrega de la saga protagonizada por Mel Gibson en su papel de cruzado contra el mundo del crimen. En esta ocasión se enfrenta con una organización de tráfico de inmigrantes. </info>
+    <thumbnail>http://www.moviesdvdr.com/torrents_img/Arma_letal_4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/jssTFAf5MCBbZPA02vRSYSeVtHh.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 4 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/z4zu9qu11rpg</link>
+                <thumbnail>http://www.moviesdvdr.com/torrents_img/Arma_letal_4.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 4 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/z4zu9qu11rpg</link>
+                <thumbnail>http://www.moviesdvdr.com/torrents_img/Arma_letal_4.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 4 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/z7yt2bh4na1c</link>
+                <thumbnail>http://www.moviesdvdr.com/torrents_img/Arma_letal_4.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Arma Letal 4 Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://thevideo.me/2l4m5meuq32c</link>
+                <thumbnail>http://www.moviesdvdr.com/torrents_img/Arma_letal_4.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]El equipo A[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2010[/COLOR] "Me encanta que los planes salgan bien" es la frase identificativa del Coronel Hannibal Smith, el líder de "El Equipo A", una unidad especial de veteranos de la guerra de Iraq, antiguos soldados de las Fuerzas Especiales que fueron acusados de un crimen que no cometieron.</info>
+    <thumbnail>http://i290.photobucket.com/albums/ll276/LoganMeriBlog/1_zps981a4945.png</thumbnail>
+    <fanart>https://fanart.tv/fanart/movies/34544/moviebackground/the-a-team-4fe206e352109.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El equipo A Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/npjewohygpoj</link>
+                <thumbnail>http://i290.photobucket.com/albums/ll276/LoganMeriBlog/1_zps981a4945.png</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El equipo A Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/re2h7b82tub7/J_571_C_108_El.Equipo.A.2010.HDRip.Esp.avi.html</link>
+                <thumbnail>http://i290.photobucket.com/albums/ll276/LoganMeriBlog/1_zps981a4945.png</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El equipo A Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/haypfbp6as94/Equipo_hdrip.avi.html</link>
+                <thumbnail>http://i290.photobucket.com/albums/ll276/LoganMeriBlog/1_zps981a4945.png</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El equipo A Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://thevideo.me/bb9pzqe41du2</link>
+                <thumbnail>http://i290.photobucket.com/albums/ll276/LoganMeriBlog/1_zps981a4945.png</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El equipo A Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/c7o4l59dcta1/br1g4d4.4.DVDrip_latino.avi.html</link>
+                <thumbnail>http://i290.photobucket.com/albums/ll276/LoganMeriBlog/1_zps981a4945.png</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Los sustitutos[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009[/COLOR] Ambientada en un mundo futurista donde los humanos viven aislados en interacción con robots, un policía se verá forzado a abandonar su hogar por primera vez en años para una investigación. Estas máquinas perfectas acaban asumiendo sus roles vitales, de modo que la gente puede experimentar la vida a través de otro cómodamente sentados en el sofá de su casa.</info>
+    <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2009/09/los-sustitutos-cartel.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xtZvoJ3LTUx8jTsYB3anP2ROggX.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Los sustitutos Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/w62g75jtoj7c</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2009/09/los-sustitutos-cartel.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Los sustitutos Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/j2e7vukxi0c9/Los_sustitutos_HDrip.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2009/09/los-sustitutos-cartel.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Los sustitutos Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/mqubwuntsd66/Los_sustitutos_HDrip.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2009/09/los-sustitutos-cartel.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Los sustitutos Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/439ksm6rtze9/Los_sustitutos_HDrip.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2009/09/los-sustitutos-cartel.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]The Target (El objetivo)[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Yeo-hoon, un mercenario de élite retirado, lleva una vida completamente normal. Un día, presencia un asesinato. Los criminales lo atacan, lo dejan malherido y es trasladado al hospital. Se convierte entonces en el principal sospechoso. En el hospital, durante el turno de noche, un médico lo salva de los asesinos.</info>
+    <thumbnail>http://www.mubis.es/media/covers/7377/119556/the-target-el-objetivo-original.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/kSMR8Vb6RtU/maxresdefault.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]The Target (El objetivo) Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/rlctc4eog6fz</link>
+                <thumbnail>http://www.mubis.es/media/covers/7377/119556/the-target-el-objetivo-original.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]The Target (El objetivo) Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/itk2l1mlxt4z/ObjeTarg.HDR.Down.avi.html</link>
+                <thumbnail>http://www.mubis.es/media/covers/7377/119556/the-target-el-objetivo-original.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Wanted (Se busca)[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2008[/COLOR] Wesley Gibson tiene 25 años y es el zángano más desencantado y aburrido que habita en el planeta. Su jefe se mete con él sin parar, su novia no le hace caso y su vida carece de alicientes. Todos los que le conocen están convencidos de que este vago nato nunca llegará a nada.</info>
+    <thumbnail>http://www.ecartelera.com/carteles/1900/1971/001.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2mbQF4SfdbpqF8LmIxDfJ9RDqQQ.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Wanted (Se busca) Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/t22mbxgmv0kx</link>
+                <thumbnail>http://www.ecartelera.com/carteles/1900/1971/001.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Wanted (Se busca) Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/tjsxr4qtgbj6/Wanted_HDrip.avi.html</link>
+                <thumbnail>http://www.ecartelera.com/carteles/1900/1971/001.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Wanted (Se busca) Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/cf1s09pn8reg/Wanted.Se.Busca.HDRip.ESP.avi.html</link>
+                <thumbnail>http://www.ecartelera.com/carteles/1900/1971/001.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Wanted (Se busca) Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://thevideo.me/upoqr8eh4n49</link>
+                <thumbnail>http://www.ecartelera.com/carteles/1900/1971/001.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Sin City[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2005[/COLOR] Bienvenidos a Sin City, ciudad de policías corruptos, atractivas damas y vigilantes desesperados. Algunos están buscando venganza, algunos redención, y otros, ambas cosas. Un universo de héroes inverosímiles que intentan hacer lo correcto.</info>
+    <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/28/09/14/303864.jpg</thumbnail>
+    <fanart>http://www.miblogdecineytv.com/wp-content/uploads/2016/03/sin-city-bruce-willis.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sin City Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/m2zyl2aebz5t</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/28/09/14/303864.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sin City Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/531ippsxnvdk</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/28/09/14/303864.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sin City Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/cgdnmq1anyst/A221_2005_Sin.City_1080p_ESP_LiNkMaN.mkv.html</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/28/09/14/303864.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sin City Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/e1de7f8wdxyj</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/28/09/14/303864.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sin City Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/offni170qv9s/Sin_city_Ciudad_del_pecado_HDrip.avi.html</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/28/09/14/303864.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sin City Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/mp72wa9o2fe0/Sin_city_Ciudad_del_pecado_HDrip.avi.html</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/28/09/14/303864.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Braveheart[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1995[/COLOR] Está basada en la legendaria historia de Sir William Wallace, un montañés escocés que arrastra a su clan a luchar contra la tiranía del rey Eduardo I. Después del brutal asesinato de su joven esposa por los ingleses, Wallace sólo busca venganza.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b45b0eaeb699b9ef6a3c24079540b587.jpg</thumbnail>
+    <fanart>http://buzzerg.com/wp-content/uploads/8589130450419-braveheart-film-wallpaper-hd.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Braveheart Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/fr6byccas1pe/BRaveheart_720p.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b45b0eaeb699b9ef6a3c24079540b587.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Braveheart Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/0785wsaf1msd/BRaveheart_720p.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b45b0eaeb699b9ef6a3c24079540b587.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Braveheart Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/wnlxpmp6mgrc/D356_1995_Br4v3h34rt_DVDRip_ESP_LiNkMaN.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b45b0eaeb699b9ef6a3c24079540b587.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]3 dias para matar [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Un agente secreto de auténtica vocación decide dejar el trabajo que le ha dado de comer durante muchos años. La difícil y dura decisión esta tomada desde hace muchas semanas, y, tras mucho meditarlo, el agente está convencido de que es lo mejor que puede hacer, más aún si tiene en cuenta que su físico y su mente le piden un descanso a gritos.</info>
+    <thumbnail>http://cines.com/files/2014/04/poster-de-3-dias-para-matar.jpg</thumbnail>
+    <fanart>http://es.web.img3.acsta.net/pictures/14/02/14/11/40/085574.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]3 dias para matar Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/y21c5ghf2sus</link>
+                <thumbnail>http://cines.com/files/2014/04/poster-de-3-dias-para-matar.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]3 dias para matar Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/c0xesi6faycf</link>
+                <thumbnail>http://cines.com/files/2014/04/poster-de-3-dias-para-matar.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]3 dias para matar Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/595ykbof5sf1/3DiasparaMatar.MicroHD.1080p.Ac3.5.1.avi.html</link>
+                <thumbnail>http://cines.com/files/2014/04/poster-de-3-dias-para-matar.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]3 dias para matar Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/wyfac0gbpor0/3_dias_para_matar.HDRip.5.1.avi.html</link>
+                <thumbnail>http://cines.com/files/2014/04/poster-de-3-dias-para-matar.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Lucy [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Lucy es una joven obligada a traficar con droga que un día, inesperadamente, absorbe en su sistema los estupefacientes que transporta. Lo sorprendente es que en lugar de ir directa al hospital, las drogas le otorgan una serie de poderes sobrehumanos tales como telequinesis, la cancelación de dolor, y la habilidad de absorber el conocimiento de forma instantánea.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9b8fd8c984a69e883de577983dff4f40.jpg</thumbnail>
+    <fanart>http://www.hacerselacritica.com/wp-content/uploads/2014/09/lucybig.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Lucy Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/c7jd0wa8hpq0</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9b8fd8c984a69e883de577983dff4f40.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Lucy Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/sxybxafplgs3</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9b8fd8c984a69e883de577983dff4f40.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Lucy Latino [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/oxw1ywgt9p8o/Lucy.2014.lati.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9b8fd8c984a69e883de577983dff4f40.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]April Rain[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Cuando un grupo de terroristas planean atacar a los Estados Unidos desde dentro, le tocará a una unidad especial casi militar infiltrarse para neutralizar el ataque.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+    <fanart>http://hdmoviespoint.com/wp-content/uploads/2015/08/April-Rain-Movie-Dual-Audio-HD-Free-Download.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]April Rain Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/q8jkvrvtaond</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]April Rain Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/rgecj9r9z7eu/4pr1l_R41n_m1080p.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]April Rain Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/5uk72s0ollak/4pr1l_R41n_HDRi.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]April Rain Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/atm0gmc1z2z4</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]April Rain Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://vidzi.tv/xo43nk60g8p1.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]April Rain Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://vidzi.tv/xvm70s6i8j2t.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]April Rain Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://vidzi.tv/1mqeh8gb89zl.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b605bcdac87792f257440ec1b982c35d.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1982[/COLOR] John Rambo, antiguo boina verde, va a visitar a un antiguo compañero de armas y recibe la noticia de que éste ha muerto como consecuencia de los efectos de la guerra. A pocos días, la policía detiene a Rambo por vagabundo y se ensaña con él. Entonces recuerda las torturas que sufrió en Vietnan y reacciona violentamente.</info>
+    <thumbnail>http://image.tmdb.org/t/p/w396/jbQdjeoawgeH8u4pZzF6L1G8ech.jpg</thumbnail>
+    <fanart>http://i138.photobucket.com/albums/q246/lauren_83/snapshot20090228124355.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/s5cj5fm2jlbx</link>
+                <thumbnail>http://image.tmdb.org/t/p/w396/jbQdjeoawgeH8u4pZzF6L1G8ech.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/ovdim9blsoeu</link>
+                <thumbnail>http://image.tmdb.org/t/p/w396/jbQdjeoawgeH8u4pZzF6L1G8ech.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/36hout6l3rj7/xixo1985_Rambo1_First_Blood__1982___BDRIP__Spa.avi.html</link>
+                <thumbnail>http://image.tmdb.org/t/p/w396/jbQdjeoawgeH8u4pZzF6L1G8ech.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://thevideo.me/8yx960k7cscu</link>
+                <thumbnail>http://image.tmdb.org/t/p/w396/jbQdjeoawgeH8u4pZzF6L1G8ech.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Parte II[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1985[/COLOR] Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaídas en la jungla, portando únicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que sólo haga fotografías de reconocimiento.</info>
+    <thumbnail>http://peliculasyestrenos.net/wp-content/uploads/2015/10/rambo-acorralado-parte-ii-rambo-2-1985.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/77cdZUwcyMNGJW4s2fCMhD6H0vn.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Parte II Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/fpetvhiyfnio</link>
+                <thumbnail>http://peliculasyestrenos.net/wp-content/uploads/2015/10/rambo-acorralado-parte-ii-rambo-2-1985.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Parte II Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/rni5fdo3ett9</link>
+                <thumbnail>http://peliculasyestrenos.net/wp-content/uploads/2015/10/rambo-acorralado-parte-ii-rambo-2-1985.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Parte II Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/rj42dkjdfpmm/xixo1985_Rambo2_FirstBloodPartII__1985__BDRIP_Spa.avi.html</link>
+                <thumbnail>http://peliculasyestrenos.net/wp-content/uploads/2015/10/rambo-acorralado-parte-ii-rambo-2-1985.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo. Acorralado Parte II Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://thevideo.me/gp01wpl7h4fa</link>
+                <thumbnail>http://peliculasyestrenos.net/wp-content/uploads/2015/10/rambo-acorralado-parte-ii-rambo-2-1985.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Rambo IV - John Rambo[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2008[/COLOR] John Rambo, el ex-boina verde con una ajetreada vida marcada por la guerra, vive ahora una solitaria y apacible existencia en la jungla del norte de Tailandia, pescando y cazando cobras para luego venderlas. Todo cambia cuando un grupo de misioneros católicos necesita que les guíe hasta la frontera con Birmania para suministrar medicinas y alimentos a unos refugiados asediados por el ejército birmano, que ha hecho de las torturas y los asesinatos algo habitual.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/uA1HZnkcBgSXibK86cqbAC0x7VF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/q8uC4kjna8iFgGZ0hZ1CG3Fr7Fa.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo IV - John Rambo Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/he907x0ogw5t</link>
+                <thumbnail>https://image.tmdb.org/t/p/original/uA1HZnkcBgSXibK86cqbAC0x7VF.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rambo IV - John Rambo Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://thevideo.me/9cnf4956q8r6</link>
+                <thumbnail>https://image.tmdb.org/t/p/original/uA1HZnkcBgSXibK86cqbAC0x7VF.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 1[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2003[/COLOR] Uma Thurman es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill. Logra sobrevivir al ataque, aunque queda en coma. Cinco años después despierta con un trozo de metal en la cabeza y un gran deseo de venganza en su corazón.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_208598bd8577d14678d4192062334cef.jpg</thumbnail>
+    <fanart>http://www.mubis.es/media/users/10513/95067/ayuda-sabeis-de-alguna-edicion-de-kill-bill-1-y-2-sin-censura-y-en-castellano-original.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 1 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/3yicm5ieo178</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_208598bd8577d14678d4192062334cef.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 1 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/n6kspoq4crto</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_208598bd8577d14678d4192062334cef.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 1 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/rpuwzp1h26d2/Kill_Bill_Volumen_1_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_208598bd8577d14678d4192062334cef.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 2[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2004[/COLOR] prosigue su venganza e intenta acabar con el resto de la banda, en especial con su antiguo jefe, Bill, que la dio por muerta dejándola en coma.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_95317cc6697895a0a495df7928a02736.jpg</thumbnail>
+    <fanart>http://mediaccion.net/wp-content/uploads/2013/09/kill-bill-vol-1-23787-hd-wallpapers.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 2 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/9ursjzenp9zt</link>
+                <thumbnail>http://streamin.to/9ursjzenp9zt</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 2 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/hsifkl4v0htz/Kill_Bill_Volumen_2_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_95317cc6697895a0a495df7928a02736.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Kill Bill: Volumen 2 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/mj93kf11244z/Kill_Bill_Volumen_2_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_95317cc6697895a0a495df7928a02736.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Contraband[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2012[/COLOR] Hace tiempo que Chris Farraday dejó el mundo de la delincuencia, pero cuando su cuñado Andy mete la pata en un asunto de drogas encargado por su implacable jefe Tim Briggs, Chris se ve obligado a volver a hacer lo que mejor se le da, pasar contrabando, para pagar la deuda de Andy.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+    <fanart>http://cdn.collider.com/wp-content/uploads/Mark-Wahlberg-Contraband-5.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Contraband Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/xntfrfsa191m/Contraband.HDRip.Ac3.5.1.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Contraband Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/v6jhxrob51hi</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Contraband Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamin.to/jbbowaaotqwq</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Contraband Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/a9187nhrd3yn/Contraband_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Contraband Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/l39htx1txfmv/J_849_F_591_Contraband.HDRip.AC3_5.1.Cast.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Contraband Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/ibz4vrrk0jvm/Contraband__2012___HDRip_.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Contraband Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://thevideo.me/qwohq6uuk2yl</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_016a8b40b9eee606d3743af8e72c0aec.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]El Protector[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Un ex-agente de la DEA se muda con su familia a una ciudad tranquila donde tendrá que lidiar con un traficante local de meta anfetaminas.</info>
+    <thumbnail>http://www.lahiguera.net/cinemania/pelicula/6491/el_protector-cartel-5542.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/g7XIDOR1Wc78XstC7AJl6hqszT4.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El Protector Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/39mf2bfaplgd/Pr0t3ct00RHDR.Barbie.avi.html</link>
+                <thumbnail>http://www.lahiguera.net/cinemania/pelicula/6491/el_protector-cartel-5542.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Machete Kills[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Tras ser contratado por el presidente de Estados Unidos, Machete se embarca en una peligrosa misión: acabar con el líder de un cartel y un traficante de armas multimillonario y excéntrico llamado Luther Voz, quien ha ideado un plan para llevar el caos y la destrucción a todo el planeta con una potente arma espacial.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8a87811b04618426435591ab5a0585f7.jpg</thumbnail>
+    <fanart>http://www.elfarandi.com/wp-content/uploads/2015/04/Machete-Kills.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Machete Kills Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/ncdy8i37rx8i</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8a87811b04618426435591ab5a0585f7.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Machete Kills Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/nvc7x1w53tr4</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8a87811b04618426435591ab5a0585f7.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Machete Kills Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/90tn7iqclsht/Machete_kills_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8a87811b04618426435591ab5a0585f7.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Machete Kills Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamcloud.eu/2gg772pp6scz/Machete_kills_HDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8a87811b04618426435591ab5a0585f7.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Plan de escape[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] El experto en seguridad Ray Breslin prueba sus teorías poco convencionales en diseño de prisiones elaborando arriesgadas fugas de algunas de las cárceles mejor vigiladas del mundo. Tras un récord de éxitos sin precedentes, acepta un último trabajo: escapar de una cárcel secreta que alberga a algunos de los hombres más peligrosos del planeta.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_083da97d0a54bfcc9e53c3b25a34a7da.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-LcS4XIE9-nA/Up9_1Nh_D5I/AAAAAAAA_Oo/aeIeqVJouEQ/s1600/Cr%25C3%25ADtica+Plan+de+escape++Sylvester+Stallone+y+Arnold+Schwarzenagger+%25282%2529.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Plan de escape Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/osn9msuf2hr0/Pl4n.3sc4p3.DVDRip.es.mp4.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_083da97d0a54bfcc9e53c3b25a34a7da.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Street Fighter: Assassin's Fist[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Nos traslada a los primeros años de entrenamiento de los icónicos personajes, Ryu y Ken, y su vida como guerreros tradicionales en una apartada y desierta montaña de Japón. Bajo el estricto entrenamiento de su maestro, Goken, los chicos son los últimos practicantes del antiguo estilo de lucha conocido como Ansatsuken.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_696c4b1c1dd1ab3115bdbd5dee8429e6.jpg</thumbnail>
+    <fanart>http://www.frikichicken.com/wp-content/uploads/2014/06/Street-Fighter-Assassins-Fist-FRIKICHICKEN-3.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Street Fighter: Assassin's Fist Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/uok6s226zzjt</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_696c4b1c1dd1ab3115bdbd5dee8429e6.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Street Fighter: Assassin's Fist Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/cwc8z3a10kmg</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_696c4b1c1dd1ab3115bdbd5dee8429e6.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Street Fighter: Assassin's Fist Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/zz2cog6md4mk/Street_Fighter_Assassins_Fist_2014_HDrip.mkv.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_696c4b1c1dd1ab3115bdbd5dee8429e6.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Street Fighter: Assassin's Fist Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamcloud.eu/dbumxuakvs4i/Street_Fighter_Assassins_Fist_2014_HDrip.mkv.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_696c4b1c1dd1ab3115bdbd5dee8429e6.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Street Fighter: Assassin's Fist Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://streamcloud.eu/ah6g027virt8/SF.AsFist.HDR.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_696c4b1c1dd1ab3115bdbd5dee8429e6.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Sabotage[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Un equipo de élite de la DEA aprovecha una operación contra un cártel para apoderarse de un botín de varios millones de dólares; poco después, alguien empieza a eliminar a los miembros del grupo para quedarse con todo el dinero.</info>
+    <thumbnail>http://www.locopelis.com/files/uploads/9632.jpg</thumbnail>
+    <fanart>http://assets.ign.com/thumbs/userUploaded/2014/9/11/sabotage_090514_1280-1410448033357_1280w.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sabotage Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/ud5qgot9z1li</link>
+                <thumbnail>http://www.locopelis.com/files/uploads/9632.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sabotage Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/jlfio15e5w30/S4B0T4G3HDR.Barbie.avi.html</link>
+                <thumbnail>http://www.locopelis.com/files/uploads/9632.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Sabotage Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/z6x7cbk15vos/Sabotage.HDrip.caste.avi.html</link>
+                <thumbnail>http://www.locopelis.com/files/uploads/9632.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Need for Speed[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Cuenta la historia de un experto en automovilismo , el cual tiene un garage en dónde transforma coches para hacerlos más rápidos de lo que son para poder competir en carreras ilegales.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_35f820341e0610a9491993da23e92f2b.jpg</thumbnail>
+    <fanart>http://i13d.3djuegos.com/juegos/12052/need_for_speed__2015_/fotos/maestras/need_for_speed__2015_-2776804.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Need for Speed Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/kl23znbql1o5</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_35f820341e0610a9491993da23e92f2b.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Need for Speed Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/sk85aw1jgfyl/Need_for_Speed_hdrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_35f820341e0610a9491993da23e92f2b.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Need for Speed Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/1g44e0vre49b/Need.for.Speed.2014.720p.Castellano.mkv.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_35f820341e0610a9491993da23e92f2b.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Need for Speed Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/vnhy30mg53on</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_35f820341e0610a9491993da23e92f2b.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Redención[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Joey Jones es un ex soldado de las Fuerzas Especiales, vagabundo y atormentado por un trágico pasado. Harto de las injusticias que ve constantemente a su alrededor, los acontecimientos le llevan a convertirle en un “ángel vengador”. Pronto verá como su pasado se mezcla con su turbio presente y cómo sus intentos de forjar una nueva vida comienzan a desmontarse.</info>
+    <thumbnail>http://www.todo-peliculas.com/images/articles/9/9498.jpg</thumbnail>
+    <fanart>http://es.web.img2.acsta.net/medias/nmedia/18/93/80/68/20520357.jpeg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Redención Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/dqive7h5vubp</link>
+                <thumbnail>http://www.todo-peliculas.com/images/articles/9/9498.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Redención Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://thevideo.me/qoz4fjjju5za</link>
+                <thumbnail>http://www.todo-peliculas.com/images/articles/9/9498.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Redención Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/7zllgi31tp14/Redencion.DVDRip.XviD.avi.html</link>
+                <thumbnail>http://www.todo-peliculas.com/images/articles/9/9498.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Redención Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamcloud.eu/nz1c3zvgjgjs/Redencion.MicroHD.1080p.Ac3.5.1.avi.html</link>
+                <thumbnail>http://www.todo-peliculas.com/images/articles/9/9498.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Redención Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://streamin.to/dqive7h5vubp</link>
+                <thumbnail>http://www.todo-peliculas.com/images/articles/9/9498.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Los Mercenarios[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2010[/COLOR] Barney Ross es el líder de un grupo de hombres estrechamente unidos que viven al margen de la sociedad. Cuando el misterioso Sr. Church les ofrece un encargo que nadie más aceptaría, Barney y su equipo se embarcan en lo que parece ser una misión rutinaria.</info>
+    <thumbnail>https://esoslinksonmios.files.wordpress.com/2012/02/los-mercenarios.jpg</thumbnail>
+    <fanart>http://moviestorrents.net/wp-content/uploads/2013/04/The-Expendables-2010.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Los Mercenarios Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/8v5znppzsjsf/S351_879_Merce.2010.HDR.m720p.avi.html</link>
+                <thumbnail>https://esoslinksonmios.files.wordpress.com/2012/02/los-mercenarios.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Venganza  [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2008 [/COLOR]la pesadilla que se hace realidad para Bryan (Liam Neeson), un espía retirado que sólo tiene unas horas para recuperar a su hija, que ha sido secuestrada por una peligrosa banda especializada en la venta de jóvenes adolescentes.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/r3L47q_8Alg/maxresdefault.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/73wwaxdxqgim</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/wvaj2vb9yc3o</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/p234cund7pyk/C896_2008_Venganza_1080p_ESP_LiNkMaN.mkv.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamcloud.eu/emup79p9ieja/Venganza.HDRip.AC3_5.1.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://thevideo.me/6tiw3qa3cnei</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/z85qi63dtbxu/taken1_2008.dvdrip.latino.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza Latino [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/dztgqckp8f7m/taken1_2008.dvdrip.latino.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9f5f1d1a90872e449628f3382672910c.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2012 [/COLOR]Aunque ya está retirado, Bryan Mills se ve obligado a utilizar todos sus recursos y habilidades de agente de la CIA para salvar tanto la vida de su mujer y de su hija como la suya propia.</info>
+    <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+    <fanart>http://cineycomedia.com/wp-content/uploads/2012/10/Venganza-Conexi%C3%B3n-Estambul_T2-3694_LB_R.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/pfptd7pf9yb9</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/334zu8ebktj8</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamin.to/nteri61nyjub</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://thevideo.me/znlsuiyrgnso</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://streamcloud.eu/vdier5m2zfwe/Taken2.720p.CAS.mkv.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Castellano[/COLOR][COLOR red] (Opción 6)[/COLOR]</title>         
+                <link>http://streamcloud.eu/4rgws702hapj/Venganza_2_Conexion_Estambul_V.Extendida__BluRayRip__AC3_5.1_Espa__ol_Castellano__2012_.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>         
+                <link>http://streamcloud.eu/dmz9jldk9lnz/vengnz.2.dvdrip.p.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/53zuz0iet8wy/taken.2.dvdrip.latino.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Venganza 2: Conexión Estambul Latino [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/20p7ag3myp17/taken.2.dvdrip.latino.avi.html</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/10/venganza-conexion-estambul-cartel1.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]V3nganza 3[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015 [/COLOR]Tercera entrega de la trilogía iniciada en 2008 con 'Venganza' y que cuenta con una secuela en 2012 bajo el título 'Venganza: Conexión Estambul', donde Liam Neeson ('Batman Begins') vuelve a meterse en la piel de Bryan, un espía retirado que no dudará en hacer lo necesario a favor de la justicia y la supervivencia.</info>
+    <thumbnail>http://cdn.piratetorrents.net/wp-content/uploads/2015/01/Cover3.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/_8wPTtlWsZU/maxresdefault.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]V3nganza 3 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/kiwmufh4vbaa</link>
+                <thumbnail>http://cdn.piratetorrents.net/wp-content/uploads/2015/01/Cover3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]V3nganza 3 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/4ulza5hschju/Venganza_3.HDRip.avi.html</link>
+                <thumbnail>http://cdn.piratetorrents.net/wp-content/uploads/2015/01/Cover3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]V3nganza 3 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/7fe1v3wtthnl/Veng3.HDRExt.avi.html</link>
+                <thumbnail>http://cdn.piratetorrents.net/wp-content/uploads/2015/01/Cover3.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]V3nganza 3 Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://thevideo.me/h8e5n8fhseyq</link>
+                <thumbnail>http://cdn.piratetorrents.net/wp-content/uploads/2015/01/Cover3.jpg/thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2007 [/COLOR]Año 2012. Robert Neville es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en vampiros y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y busca a los muertos vivientes mientras duermen; pero durante la noche debe esconderse de ellos y esperar el amanecer.</info>
+    <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+    <fanart>http://www.theimaginativeconservative.org/wp-content/uploads/2014/11/i-am-legend.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/qxelq98l13sn</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/fe5c0u8pidfv</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+            </item>
+        </items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/kysd9kx0wb1p/xixo1985_soyleyenda07cast.avi.html</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+            </item>
+        </items>
+       <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://thevideo.me/jux2klil8fra</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+            </item>
+        </items>
+       <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://streamcloud.eu/1g3ltyj7r0il/HDSoyLeyen-HDrip.avi.html</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+            </item>
+        </items>
+       <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>         
+                <link>http://streamcloud.eu/as4xi8uwutwe/00540.SoyLeyen-HDrip.avi.html</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+            </item>
+        </items>
+       <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Soy Leyenda Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/2j1fc6vfvg7q/s0y.l3y3nd4.L4t.DVDRip.avi.html</link>
+                <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/a/a1/Soy_leyenda.jpg/revision/latest?cb=20100417165358&path-prefix=es</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2001[/COLOR] Una misteriosa banda de delincuentes se dedica a robar camiones en plena marcha desde vehículos deportivos. La policia decide infiltrar un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos.</info>
+    <thumbnail>http://www.mundomovies.com/img/fichs/683/news/big/a_todo_gas_1.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-o7JOWiCEdew/UpsdqYpP-BI/AAAAAAAACDY/nhx6cKtYkv4/s1600/fast-and-furious-2001-10-g.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/nm958mcal9lm</link>
+                <thumbnail>http://www.mundomovies.com/img/fichs/683/news/big/a_todo_gas_1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/6im243hzos07/A_todo_gas_HDRip.avi.html</link>
+                <thumbnail>http://www.mundomovies.com/img/fichs/683/news/big/a_todo_gas_1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/0fmpnshgl9hh</link>
+                <thumbnail>http://www.mundomovies.com/img/fichs/683/news/big/a_todo_gas_1.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://thevideo.me/iykod9qmaq81</link>
+                <thumbnail>http://www.mundomovies.com/img/fichs/683/news/big/a_todo_gas_1.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas 2[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2003[/COLOR] Brian O'Connor, un policía caído en desgracia, fue un adicto a la velocidad y ahora está pagando un precio por ello. Tal y como lo ven sus antiguos jefes y los altos mandos del FBI, este agente de incógnito les echó a perder una de las investigaciones más importantes que habían emprendido.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a6d588578157fffa7f54d3152c648118.jpg</thumbnail>   
+	<fanart>http://www.zeleb.es/sites/default/files/paul_walker_fue_el_unico_actor_de_la_primera_entrega_que_repitio_en_la_segunda.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas 2 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/8a1wkwt368v3</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a6d588578157fffa7f54d3152c648118.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas 2 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/d0adhgaiea0y/A_todo_gas_2_HDRip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a6d588578157fffa7f54d3152c648118.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Todo Gas 2 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://thevideo.me/0nt770mqmxd6</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_a6d588578157fffa7f54d3152c648118.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 3 Tokyo Race[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2006 [/COLOR]Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de "drift"</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_e37ac2001025821921c3257514f52add.jpg</thumbnail>
+    <fanart>http://d1ebny11bppum5.cloudfront.net/system/shots/4155/original/a-todo-gas-tokyo-race-1446569512.jpeg?1446569512</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 3 Tokyo Race Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/auprcos6isq3</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_e37ac2001025821921c3257514f52add.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 3 Tokyo Race Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/8sd3o8q925he</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_e37ac2001025821921c3257514f52add.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 3 Tokyo Race Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://thevideo.me/g9fi224he2no</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_e37ac2001025821921c3257514f52add.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 4 Aún más rápido[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009 [/COLOR]El fugitivo y ex preso Dom Toretto y el detective Brian O’Conner vuelven a encontrarse en Los Ángeles y siguen llevándose igual de mal. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerle.</info>
+    <thumbnail>http://2.bp.blogspot.com/-fkJ1axG4a7I/UwpPNm1W9_I/AAAAAAAAA4M/DRTZNCZ1d9w/s1600/FastAndFurious4_cartel.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-lzaeL4ff0AA/UwpPZL0VClI/AAAAAAAAA4U/cHv7z3vdICI/s1600/The-Fast-And-The-Furious-4-03.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 4 Aún más rápido Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/1p2ogy3wc3x1</link>
+                <thumbnail>http://2.bp.blogspot.com/-fkJ1axG4a7I/UwpPNm1W9_I/AAAAAAAAA4M/DRTZNCZ1d9w/s1600/FastAndFurious4_cartel.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 4 Aún más rápido Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/o59siy6bww6i/A_Todo_Gas_4.2009._BDRip_720p.mkv.html</link>
+                <thumbnail>http://2.bp.blogspot.com/-fkJ1axG4a7I/UwpPNm1W9_I/AAAAAAAAA4M/DRTZNCZ1d9w/s1600/FastAndFurious4_cartel.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 4 Aún más rápido Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/f3hq44ck71yq</link>
+                <thumbnail>http://2.bp.blogspot.com/-fkJ1axG4a7I/UwpPNm1W9_I/AAAAAAAAA4M/DRTZNCZ1d9w/s1600/FastAndFurious4_cartel.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 4 Aún más rápido Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://thevideo.me/a4s6l1wg168k</link>
+                <thumbnail>http://2.bp.blogspot.com/-fkJ1axG4a7I/UwpPNm1W9_I/AAAAAAAAA4M/DRTZNCZ1d9w/s1600/FastAndFurious4_cartel.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 5[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2011 [/COLOR]Desde que Brian O'Conner y Mia Toretto sacaron a Dom Toretto de la cárcel, se han visto obligados a huir y cruzar muchas fronteras para evitar a la policía. Atrapados en Río de Janeiro, una vez más tienen que darse a la fuga si quieren conservar la libertad.</info>
+    <thumbnail>http://pics.filmaffinity.com/fast_five_the_fast_and_the_furious_5-355651909-large.jpg</thumbnail>
+    <fanart>http://moviestorrents.net/wp-content/uploads/2013/03/Fast-Five-2011.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 5 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/l9p6y98zv6fu</link>
+                <thumbnail>http://pics.filmaffinity.com/fast_five_the_fast_and_the_furious_5-355651909-large.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 5 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/lj7yct088bxn</link>
+                <thumbnail>http://pics.filmaffinity.com/fast_five_the_fast_and_the_furious_5-355651909-large.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 5 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://thevideo.me/gnz9okuubfac</link>
+                <thumbnail>http://pics.filmaffinity.com/fast_five_the_fast_and_the_furious_5-355651909-large.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 6 [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013 [/COLOR]Desde que Dom y Brian destruyeron el imperio de un mafioso y se hicieron con cien millones de dólares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs ha seguido la pista por una docena de países a una banda de letales conductores mercenarios.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_0a4d709b2b0f2840d47297e38e8bfa59.jpg</thumbnail>
+    <fanart>http://www.cine365static.com/assets/img/peliculas/7884/extra/7d981-Fast-And-Furious-6-Wallpaper-HD4.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 6 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/am9gey6cfa52</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_0a4d709b2b0f2840d47297e38e8bfa59.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 6 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/avxnncxe0foz</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_0a4d709b2b0f2840d47297e38e8bfa59.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 6 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/guvy7wtspjvt</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_0a4d709b2b0f2840d47297e38e8bfa59.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 7[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015 [/COLOR]Su pasado de larga trayectoria en las carreras ilegales les perseguirá y deberán hacer frente a las circunstancias de la única forma que saben. Cuando les pongan entre la espada y la pared idearán un plan para escapar del peligro en una trepidante carrera por salvar la vida y limpiar su reputación.</info>
+    <thumbnail>http://i.imgur.com/T0JkPh8.jpg</thumbnail>
+    <fanart>http://www.fastandfurious.com/images/main_content_back.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 7 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/o84wt5an5uat</link>
+                <thumbnail>http://i.imgur.com/T0JkPh8.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 7 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/vh5kjnimgpvz</link>
+                <thumbnail>http://i.imgur.com/T0JkPh8.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 7 Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamin.to/3mqzixr69pgm</link>
+                <thumbnail>http://i.imgur.com/T0JkPh8.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 7 Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamcloud.eu/6ge2sjrfs8ix</link>
+                <thumbnail>http://i.imgur.com/T0JkPh8.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A todo gas 7 Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://thevideo.me/s6r7mr0jw5l7</link>
+                <thumbnail>http://i.imgur.com/T0JkPh8.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Rampage. Francotirador de libertad [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009 [/COLOR]La vida aburrida y monótona del pueblo donde vive le hace sentir limitado y claustrofóbico a Bill Williamson. Un día decide armarse y salir a la calle en busca de matar a cualquier persona que se cruce en su camino.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9e329acec11d555243d5b5867fdcad7c.jpg</thumbnail>
+    <fanart>https://static.justwatch.com/backdrop/284227/s1440/rampage-francotirador-de-libertad</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rampage. Francotirador de libertad Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/22d8ywf8aqny</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9e329acec11d555243d5b5867fdcad7c.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Rampage. Francotirador de libertad Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/0x6l7telkq42/Rampage_HDrip_xvid.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9e329acec11d555243d5b5867fdcad7c.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Gamer [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009 [/COLOR]En el futuro, juego y entretenimiento han evolucionado hacia un híbrido terrorífico: humanos controlan a otros humanos en juegos multi-player online a gran escala. La tecnología para el control de la mente se ha extendido completamente, y en el centro de la controversia está su creador, el multimillonario Ken Castle.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8c9af11995b2f61b39c729f2ce9a8e14.jpg</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-vxIAGPUzgds/UlFil4OU7lI/AAAAAAAAFjc/QJrTd-Hixls/s1600/gamer.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Gamer Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/nwoq689y23bs</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8c9af11995b2f61b39c729f2ce9a8e14.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Gamer Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/lg5by5ow7tgk/Gamer_HDRip.Esp.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_8c9af11995b2f61b39c729f2ce9a8e14.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 1 [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1979 [/COLOR]En un futuro posnuclear, Max Rockatansky, un policía encargado de la vigilancia de una autopista, tendrá que vérselas con unos criminales que actúan como vándalos, sembrando el pánico por las carreteras. Cuando, durante una persecución, Max acaba con Nightrider, el líder del violento grupo, el resto de la banda jura vengar su muerte.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_cc8bc7c5d2f2a5fd14aebc5968f0b77f.jpg</thumbnail>
+    <fanart>http://peliculastotales.com/wp-content/uploads/2015/08/pbCb31Hv6WtfzqQKrLOjROLy3Vs.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 1 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://vidzi.tv/g0p3p537m2uu.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_cc8bc7c5d2f2a5fd14aebc5968f0b77f.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 1 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/y2auwhzj7s6e/M4d_M4x_1_m720p.mkv.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_cc8bc7c5d2f2a5fd14aebc5968f0b77f.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 2[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1981 [/COLOR]Tras el holocausto nuclear, la gasolina se ha convertido en un bien escaso y muy codiciado. Mad Max, héroe solitario, inicia una lucha sin cuartel para ayudar a una colonia de supervivientes constantemente atacada por un grupo de violentos guerreros que intenta arrebatarle un tanque de gasolina. Max decide ayudar a los defensores del tanque utilizando un enorme camión como trampa.</info>
+    <thumbnail>http://2.bp.blogspot.com/-IP3kG9uBz3I/VXilJuKoWjI/AAAAAAAAUlk/rIcdPcHUegc/s1600/mad-max-2.jpg</thumbnail>
+    <fanart>http://d1ebny11bppum5.cloudfront.net/system/shots/847/original/mad-max-2-el-guerrero-de-la-carretera.20140730171604.jpg?1406740564</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 2 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/sd8mlf10zdcp/M4d_M4x_2_m720p.mkv.html</link>
+                <thumbnail>http://2.bp.blogspot.com/-IP3kG9uBz3I/VXilJuKoWjI/AAAAAAAAUlk/rIcdPcHUegc/s1600/mad-max-2.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 2 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://vidzi.tv/ogxd3mlsrovm.html</link>
+                <thumbnail>http://2.bp.blogspot.com/-IP3kG9uBz3I/VXilJuKoWjI/AAAAAAAAUlk/rIcdPcHUegc/s1600/mad-max-2.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 3 [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1985 [/COLOR]Tras la catástrofe nuclear, Mad Max cruza un desierto donde pierde su caravana de camellos. Llega a una ciudad donde le proponen cambiárselos a cambio de que ataque al tirano de la ciudad subterránea, un enano que fabrica gas metano con excrementos de cerdo.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b4aeb45b5a135d6d8529e794de0f7e16.jpg</thumbnail>
+    <fanart>http://elfinalde.com/wp-content/uploads/2015/12/fG5JZtI0REpQWo9jVkjDgUPyEHK.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 3 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/4ao8kozkzhb2/M4d_M4x_3_m720p.mkv.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b4aeb45b5a135d6d8529e794de0f7e16.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max 3 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://vidzi.tv/sxuh5mnd93tj.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b4aeb45b5a135d6d8529e794de0f7e16.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015 [/COLOR]Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa.</info>
+    <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+    <fanart>http://www.domingodecine.es/wp-content/uploads/2015/06/mad3.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/lu74aiax371m</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/hy4844eizvul</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/5j2ee9go0w2b/Madma4m80p..avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamcloud.eu/3anucakx1rw5/Mad.ma4x.m1080p.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://streamin.to/cgush8ygzrhw</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>         
+                <link>http://streamcloud.eu/jyfpfif6cirq/M4dM4.DVDR.CASTE.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mad Max: Furia en la carretera Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>         
+                <link>http://streamcloud.eu/u3woszs1dd54/madM4x.HDR.CASTE.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/01/07/13/50/140405.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Red [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2010[/COLOR] Frank Moses, es un agente secreto que encuentra la excusa perfecta para abandonar su retiro cuando alguien intenta asesinarle. Pero Frank es consciente de que no llegará muy lejos si no cuenta con la ayuda de sus antiguos compañeros de aventuras: Joe Matheson, Marvin Boggs y Victoria. Es hora de que estos cuatro jubilados regresen a la acción más divertida y den una lección a quienes los consideran demasiado viejos. </info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9856b1032f714bf467424e569dd2ea1e.jpg</thumbnail>
+    <fanart>http://cinergetica.com.mx/wp-content/uploads/2012/05/red-elenco-willis-freeman-malkovich.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Red Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/33k6pgnrezud</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9856b1032f714bf467424e569dd2ea1e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Red Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/y5iq764irhcv/F734_P456_Red.HDR.m720p.Cast.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_9856b1032f714bf467424e569dd2ea1e.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Red 2 [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] El agente retirado de operaciones encubiertas la CIA, Frank Moses, vuelve a reunir a su peculiar equipo de élite para emprender la búsqueda a nivel global de un dispositivo nuclear portátil desaparecido. Por el camino tendrán que enfrentarse a un ejército de implacables asesinos, despiadados terroristas y oficiales del Gobierno enloquecidos por el poder.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_13a9a9e2759b66d669d00d7cf7a7680e.jpg</thumbnail>
+    <fanart>http://elvortex.com/wp-content/uploads/2013/08/red2.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Red 2 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/a9bms4xf7y5o</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_13a9a9e2759b66d669d00d7cf7a7680e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Red 2 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamin.to/iwryayupu0ab</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_13a9a9e2759b66d669d00d7cf7a7680e.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Dolor y Dinero [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Miami, años noventa. Dos culturistas planean el secuestro de un rico empresario. En el transcurso de la operación creen que han matado a su víctima, pero no es así. Una vez recuperado, el empresario contrata a un detective privado para que localice a sus captores con el propósito de vengarse de ellos.</info>
+    <thumbnail>http://www.elseptimoarte.net/carteles/dolor_y_dinero_22185.jpg</thumbnail>
+    <fanart>http://img.rtve.es/imagenes/rtvees-ofrece-exclusiva-featurette-dolor-dinero/1376467747207.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Dolor y Dinero Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/2r4s0mw25w80/Dolor_Y_Dinero_HDrip.avi.html</link>
+                <thumbnail>http://www.elseptimoarte.net/carteles/dolor_y_dinero_22185.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]R.I.P.D. Departamento de Policía Mortal [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Nick Walker y Roy Pulsipher son dos policías especiales. Nick acaba de morir, pero es llamado para trabajar con Roy, un agente que murió hace cientos de años. Ambos forman parte del “R.I.P.D”, que se encarga de perseguir a los demonios que habitan en el mundo de los vivos y de mandarlos al infierno.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_534823381cfdf63d1f52758887439dde.jpg</thumbnail>
+    <fanart>http://img.rtve.es/v/2013676/</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]R.I.P.D. Departamento de Policía Mortal Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/1livpm9by59m</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_534823381cfdf63d1f52758887439dde.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]R.I.P.D. Departamento de Policía Mortal Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://streamcloud.eu/9w57t855h50k</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_534823381cfdf63d1f52758887439dde.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]R.I.P.D. Departamento de Policía Mortal Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamcloud.eu/9w57t855h50k</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_534823381cfdf63d1f52758887439dde.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]R.I.P.D. Departamento de Policía Mortal Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamin.to/wzy3kcmlbd13</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_534823381cfdf63d1f52758887439dde.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR]Ninguno de ellos sabe que el otro es un agente federal encubierto. Desde hace 12 meses, el agente de la DEA Bobbt Trench (Washington) y el oficial naval de inteligencia Marcus Stigman (Wahlberg) trabajan como infiltrados en una organización mafiosa que trafica con drogas.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+    <fanart>http://www.impulsegamer.com/articles/wp-content/uploads/2013/10/2_guns_movie_2013_desktop_wallpaper-HD.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/k9kjbnfcrkbp</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://thevideo.me/kck3gw6b7bee</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>         
+                <link>http://streamin.to/jp6zykxfn5fa</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>         
+                <link>http://streamcloud.eu/rq0xp65dwvit</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>         
+                <link>http://streamcloud.eu/nks8ndyjpves</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>         
+                <link>http://streamin.to/m0nihmmn6mjl</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]2 Guns Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>         
+                <link>http://thevideo.me/jtq1z0jfrdbb</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_b30d48277e291f42a6635b44bc1abf70.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Parker [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] Parker (Jason Statham) es un ladrón con un código ético muy particular: sólo roba a los ricos. Tras una operación, es traicionado por su equipo y dado por muerto. Entonces decide adoptar una nueva identidad; lo que se propone, con la ayuda de una hermosa mujer.</info>
+    <thumbnail>http://www.luisgyg.com/wp-content/uploads/2013/02/parker-film-.jpg</thumbnail>
+    <fanart>http://cinergetica.com.mx/wp-content/uploads/2012/10/parker-statham-lopez.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Parker Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/u3m1tc5uhubn</link>
+                <thumbnail>http://www.luisgyg.com/wp-content/uploads/2013/02/parker-film-.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]60 Segundos [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2000[/COLOR] Hace ya tiempo que Randall "Memphis" Raines ha dejado atrás su pasado delictivo. Sin embargo, se ve obligado a volver... cuando su hermano Kip falla al realizar un trabajo para Raymond Calitri, un famoso broker del robo de vehículos. Ahora, para salvar a su hermano, Memphis deberá reunir a su antiguo equipo para robar 50 coches de lujo en 60 segundos.</info>
+    <thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/67/60/46/20085293.jpg</thumbnail>
+    <fanart>https://tenyearsago.files.wordpress.com/2010/06/60_secondes_01.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]60 Segundos Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamcloud.eu/6m11fm288nn0/sesenta_segundos__60_segundos_By.Tap-s.avi.html</link>
+                <thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/67/60/46/20085293.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]60 Segundos Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://thevideo.me/eax039sipqwu</link>
+                <thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/67/60/46/20085293.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Invasión a la Tierra [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2011 [/COLOR]Durante años ha habido casos documentados de avistamientos de OVNIS en todo el mundo. Pero en 2011, lo que hasta ese momento eran simples avistamientos resulta una terrible realidad cuando la Tierra es atacada por fuerzas desconocidas. Mientras todos son testigos de cómo caen las grandes ciudades del mundo.</info>
+	<thumbnail>http://hdfull.tv/tthumb/172x256/movie_d207243b581ba3c6aa044ca6c1747f34.jpg</thumbnail>
+    <fanart>http://www.digitaltrends.com/wp-content/uploads/2011/02/BattleTease1.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Invasión a la Tierra Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>http://streamin.to/93nir7sh5s29</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_d207243b581ba3c6aa044ca6c1747f34.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Invasión a la Tierra Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>http://thevideo.me/uo19tqthozfq</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_d207243b581ba3c6aa044ca6c1747f34.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+</channels>

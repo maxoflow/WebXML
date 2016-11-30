@@ -1,0 +1,43 @@
+       <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Películas Comedia>>>>>>>></name>
+    <thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
+    <fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
+        <items>
+ 
+ 
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Comedia [/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+
+ 
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Pesadillas  [COLOR red]Servidor Streamin [/COLOR]</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+   <externallink>https://www.youtube.com/watch?v=MTSqlCNEbMw</externallink>
+                        </item>
+
+
+
+    
+    def __init__( self, *args, **kwargs ):
+        self.getId = kwargs.get('id')
+        
+        print "caaaasiii"
+        print self.getId
+    
+    def onInit(self):
+        self.getControl(1).setLabel("Casts")
+        import json
+        current_window = xbmc.executeJSONRPC('{"jsonrpc":"2.0","id":1,"method":"GUI.GetProperties","params":{"properties":["currentwindow"]}}')
+        window_id = json.loads(current_window)["result"]["currentwindow"]["id"]
+        print window_id
+        items = []
+        url="http://api.themoviedb.org/3/movie/347945/credits?api_key=xxxxxxxxxxxxxxxxx"
+        data = scrapertools.cachePage(url)
+        #data = jsontools.load_json(data)
+        print "ofuuuu"

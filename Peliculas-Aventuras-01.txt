@@ -1,0 +1,52 @@
+       <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Películas Aventuras>>>>>>>></name>
+    <thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
+    <fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
+        <items>
+
+
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Aventuras [/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+
+
+            <item>
+            <title>[COLOR white][COLOR blue]• [/COLOR] Canal + Estrenos [COLOR red] - Sportdevil[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/plus-partidazo.html</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png</thumbnail>
+            </item>
+                    
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://193.153.187.113:4022/udp/239.0.0.74:8208</link>
+                        </item>
+
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Syfy </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4 </link>
+                        </item>
+
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Titulo</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://streamin.to/w3l8z8e8eaoj/</link>
+                        </item>
+
+#EXTINF:-1,[COLOR orange]Películas El Gringo [/COLOR],tvg-wall="http://media.itskindacool.com/2013/03/thegringo1-1100x628.png",tvg-logo="http://cdn1.pordede.com/content/covers/mediacover-43715-4.png"
+rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4

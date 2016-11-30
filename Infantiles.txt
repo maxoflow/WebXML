@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Películas [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels> 
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Series [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>

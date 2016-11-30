@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Top 10 Semanal [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Top-10-Semanal.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Acción [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Accion-01.txt</externallink>
+</channel>
+  </channels> 
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Aventuras [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Aventuras-01.txt</externallink>
+</channel>
+  </channels> 
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Comedia [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Comedia-01.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Ciencia Ficción [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Ciencia-Ficcion-01.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Animación [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Animacion-01.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Terror [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Terror-01.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Familiar [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Familiar-01.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Suspense [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Suspense-01.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Drama [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Drama-01.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Romance [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Romance-01.txt</externallink>
+</channel>
+  </channels> 
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Variadas [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Variadas-01.txt</externallink>
+</channel>
+  </channels>

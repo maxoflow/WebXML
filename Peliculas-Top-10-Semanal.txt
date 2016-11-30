@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Película</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://wallpapercave.com/wp/Qsbbfie.png</thumbnail>
+      <fanart>http://wallpapercave.com/wp/Qsbbfie.png</fanart>
+      <date>04.01.2013</date>
+      <credits>MaXoFloW.CoM</credits>
+    </channels_info>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR] Con la FMI disuelta y Ethan Hunt abandonado a su suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales altamente preparados y entrenados.</info>
+    <thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+    <fanart>http://otecnosi.com/wp-content/uploads/2015/06/Estrenos-DVD-Misi%C3%B3n-imposible-Naci%C3%B3n-Secreta-escena.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/4rqiv3xypaaz</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/0mo2h2htqhkm</link>
+                <thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/dns66buss9c7/MI5_m1080p.avi.html</link>          
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamin.to/fvz7wthyn3uz</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://thevideo.me/7vjr6wk40xfr</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://vidzi.tv/ikoop5prdu75.html</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://streamcloud.eu/cfaqw5i1dr6h/J748_L995_MI5_m1080p.avi.html</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 8)[/COLOR]</title>        
+                <link>http://streamin.to/v2q1l4dx295o</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 9)[/COLOR]</title>        
+                <link>http://vidzi.tv/otu4vodu19p9.html</link>
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 10)[/COLOR]</title>        
+                <link>http://streamin.to/w3je0pdnamgy</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 11)[/COLOR]</title>        
+                <link>http://streamin.to/2b70dyq2cg4x</link>           
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Castellano [/COLOR][COLOR red] (Opción 12)[/COLOR]</title>        
+                <link>http://vidzi.tv/yq7519j1dolb.html</link>
+               	<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/9jrvp6wted24</link>
+               	<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/25nf4fkf6j5y/OperUncHDR.Down.avi.html</link>
+              	<thumbnail>http://vidzi.tv/8yvim8pzne6k.html</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamin.to/zcp6iec36zas</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Misión imposible: Nación secreta Latino [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamin.to/4e7c12vor8bu</link>                	
+				<thumbnail>http://es.web.img3.acsta.net/pictures/15/07/08/11/34/246578.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2014[/COLOR] Un grupo de elite ruso comandados por el mariscal Shaposhnikov tiene que liberar un metanero ruso que ha sido secuestrado por un grupo de piratas somalíes. Uno de los marineros, Alex Ezhov, en plena reyerta de asalto queda atrapado en una cisterna.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/6sdng6j3U91ucP1ozhEjrZS4z7.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/g9xwm6qeyg61</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/01pq6l64eeb4</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/npmzqxxf5cbr/22MinHDR.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]22 minutos Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/pogvxjiaccto/22MinHDR.CASTE.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2008[/COLOR] En Francia, grupos terroristas y agencias de inteligencia se enfrentan dia a día en una guerra mercenaria en nombre de ideologías radicalmente opuestas.</info>
+    <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cwmSwCFoqe5Y9NxVpY7gXfZfx8K.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/20r0vx705203</link>
+                <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://vidzi.tv/ykbks5j5w54g.html</link>
+                <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Secretos de Estado Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/elbvzibqp5bh/S3cr3t0s_d3_3st4d0_HDRip.avi.html</link>
+                <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_21508.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Condena máxima[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2012[/COLOR] Cuando el ex agente de operaciones encubiertas Tom Steele y su compañero Manning se asignan a desmantelar una antigua prisión, deben supervisar la llegada de dos mujeres presas misteriosas. En poco tiempo, una fuerza de élite de mercenarios asalta la cárcel en busca de los recién llegados.</info>
+    <thumbnail>http://www.descargatelocorp.com/wp-content/uploads/2013/09/condena-maxima-727x1024.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1nICjTbJ0SnEIK8PW9bZxuih4ct.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Condena máxima Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/gpp7o8kl5f2m</link>
+                <thumbnail>http://www.descargatelocorp.com/wp-content/uploads/2013/09/condena-maxima-727x1024.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Condena máxima Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/qew1dqpim3vf/HDMaxiCondena-HDrip.avi.html</link>
+                <thumbnail>http://www.descargatelocorp.com/wp-content/uploads/2013/09/condena-maxima-727x1024.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E.[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2015[/COLOR] Se centra en el agente de la CIA Napoleon Solo y el agente de la KGB Illya Kuryakin. Obligados a apartar sus diferencias, largamente arraigadas, ambos se unen para formar un equipo que llevará a cabo una misión conjunta para poner fin a una misteriosa organización criminal internacional, que pretende desestabilizar el frágil equilibrio de poder resultante de la proliferación de armas y tecnología nuclear.</info>
+    <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+    <fanart>http://peliculastotales.com/wp-content/uploads/2015/08/sJX97HsPAdeD5bzk9TppYFsbBUY.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/4q6c9aox23ld</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/d9xyy83hxlia</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/5oxkegqqgklv/0p3r4c10n_11ncl3_m1080p.avi.html</link>         
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamin.to/33g6vyu284r0</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 5)[/COLOR]</title>        
+                <link>http://streamcloud.eu/e3fkxhkd9uyo/R679_L946_0p3r4c10n_11ncl3_m1080p.avi.html</link>
+                <thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 6)[/COLOR]</title>        
+                <link>http://streamcloud.eu/hgpbiaf1jpg1/R679_L946_0p3r4c10n_11ncl3_m1080p.avi.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 7)[/COLOR]</title>        
+                <link>http://vidzi.tv/6pr5m8n7xqpm.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 8)[/COLOR]</title>        
+                <link>http://vidzi.tv/3xqgc8w3kest.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 9)[/COLOR]</title>        
+                <link>http://streamcloud.eu/jjvlna3q3i5d</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 10)[/COLOR]</title>        
+                <link>http://streamin.to/6zjo1b62uojf</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 11)[/COLOR]</title>        
+                <link>http://streamcloud.eu/odry89v39c3j/0p3r4c10n_11ncl3_HDRip.avi.html</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 12)[/COLOR]</title>
+				<link>http://streamcloud.eu/1auwez9mjxh2/F7687_M955_0p3r4c10n_11ncl3_HDRip.avi.html</link>
+               	<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 13)[/COLOR]</title>
+				<link>http://streamcloud.eu/duduzqi5mbn8/F7687_M955_0p3r4c10n_11ncl3_HDRip.avi.html</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 14)[/COLOR]</title>        
+                <link>http://streamcloud.eu/25nf4fkf6j5y/OperUncHDR.Down.avi.html</link>  
+              	<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 15)[/COLOR]</title>        
+                <link>http://streamin.to/tofjwd3386mo</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 16)[/COLOR]</title>        
+                <link>http://vidzi.tv/a0cxcqyslcvk.html</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 17)[/COLOR]</title>        
+                <link>http://streamcloud.eu/odbeli5662l2</link>
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 18)[/COLOR]</title>        
+                <link>http://streamcloud.eu/euejtz6nd6dm/F679_K481_0p3r4c10n_11ncl3_DvDRip.avi.html</link>                	
+				<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Operación U.N.C.L.E. Castellano [/COLOR][COLOR red] (Opción 19)[/COLOR]</title>        
+                <link>http://streamcloud.eu/8yvur628i3tx/F679_K481_0p3r4c10n_11ncl3_DvDRip.avi.html</link>
+               	<thumbnail>http://es.web.img2.acsta.net/pictures/15/02/16/15/59/446123.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]El gran golpe[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2012[/COLOR] Popie y sus compinches viajan a Macao para un trabajo. Cuando llegan, descubren que el que está detrás del golpe no es otro que el antiguo socio de Popie.</info>
+    <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2013/05/el-gran-golpe-cartel.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/gCvZ4Gu4OgZZoHSnxsEyLmjC4nZ.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]El gran golpe Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/wi5knv637aut</link>
+                <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2013/05/el-gran-golpe-cartel.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1997[/COLOR] En el año 2013, en Estados Unidos, no hay autopistas, ni leyes, ni esperanza en el futuro. Tras una guerra apocalíptica que ha destruido casi la civilización, los que han sobrevivido a terribles plagas, revueltas e inviernos de tres años, intentan reagruparse en poblados y llevar una vida tranquila.</info>
+    <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-5gA-Xa7XapQ/UXu-nObyrsI/AAAAAAAAHA0/v4YkwZEJ2Tg/s1600/mensajero3.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/mla8wz9ibmqt</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamin.to/k9e60a1gpupz</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 3)[/COLOR]</title>        
+                <link>http://streamcloud.eu/o4e8unyl4ht7/mensagero.del.futuro.DVDrip.avi.html</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Mensajero del futuro Castellano [/COLOR][COLOR red] (Opción 4)[/COLOR]</title>        
+                <link>http://streamcloud.eu/jjakjtrrvtbb/Mensajero_del_futuro_HDrip.avi.html</link>
+                <thumbnail>http://popcorn-time-movies.com/es/image/10/iwOA0A9L69Vxd6yYhJCMCmM6oWw/mensajero-del-futuro.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]La Roca[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]1996[/COLOR] Un grupo de soldados renegados roba un arma química y toma la antigua cárcel de Alcatraz con 81 turistas como rehenes. Su líder, un general del ejército muy condecorado, pide 100 millones de dólares para entregárselos a las familias de los soldados muertos en operaciones secretas llevadas a cabo por el ejército.</info>
+    <thumbnail>http://pics.filmaffinity.com/the_rock-858467513-large.jpg</thumbnail>
+    <fanart>http://4.bp.blogspot.com/-btn3_lM9BSg/T16Py084a3I/AAAAAAAABo4/4fMfrJsLy8U/s1600/la+roca+nicolas+cage.JPG</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La Roca Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/dnha7ug2hw1n/La.Roca.1996.Castellano.DVDRip.avi.html</link>
+                <thumbnail>http://pics.filmaffinity.com/the_rock-858467513-large.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]La Roca Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/98iycb4d7uwu/La.Roca.1996.Castellano.DVDRip.avi.html</link>
+                <thumbnail>http://pics.filmaffinity.com/the_rock-858467513-large.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Assassin's Creed Lineage[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2009[/COLOR] Es una miniserie online formada por tres cortometrajes de quince minutos cada uno y que narra los hechos sucedidos antes del videojuego "Assassin's Creed II".</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_551a9104d4a7dc2218332f303b0c2b8a.jpg</thumbnail>
+    <fanart>http://hybride.com/assets/uploads/movies_gallery/5e281-9cd7d-3.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Assassin's Creed Lineage Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamin.to/4qplpqltsoor</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_551a9104d4a7dc2218332f303b0c2b8a.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Assassin's Creed Lineage Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://streamcloud.eu/i2hqx4it6c1f/AssassinsCreedLineageDVDrip.avi.html</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_551a9104d4a7dc2218332f303b0c2b8a.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]A Fondo[/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2008[/COLOR] Un agente de la policía judicial, pierde a su compañero y mejor amigo en el transcurso de una operación contra una red de narcotraficantes. Le trasladan entonces a un nuevo servicio, encargado de llevar a cabo infiltraciones.</info>
+    <thumbnail>http://www.todoelcine.net/images/sobipro/entries/4236/portada/A-fondo.jpg</thumbnail>
+    <fanart>http://image.toutlecine.com/photos/g/o/0/go-fast-go-fast-01-10-2008-2-g.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Fondo Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>        
+                <link>http://streamcloud.eu/9qt4ubbu2oo0/4_f0nd0_DvDRip.avi.html</link>
+                <thumbnail>http://www.todoelcine.net/images/sobipro/entries/4236/portada/A-fondo.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]A Fondo Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>        
+                <link>http://vidzi.tv/lsijdfusvai6.html</link>
+                <thumbnail>http://www.todoelcine.net/images/sobipro/entries/4236/portada/A-fondo.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+
+</channels>

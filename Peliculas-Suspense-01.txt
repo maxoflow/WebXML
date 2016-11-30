@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://wallpapercave.com/wp/Qsbbfie.png</thumbnail>
+      <fanart>http://wallpapercave.com/wp/Qsbbfie.png</fanart>
+      <date>04.01.2013</date>
+      <credits>MaXoFloW.com</credits>
+    </channels_info>
+
+    
+    <channel>
+    <name>Parker</name>
+    <info>2013. Parker (Jason Statham) es un ladrón con un código ético muy particular: sólo roba a los ricos. Tras una operación, es traicionado por su equipo y dado por muerto. Entonces decide adoptar una nueva identidad; lo que se propone, con la ayuda de una hermosa mujer.</info>
+    <thumbnail>http://www.luisgyg.com/wp-content/uploads/2013/02/parker-film-.jpg</thumbnail>
+    <fanart>http://www.luisgyg.com/wp-content/uploads/2013/02/parker-film-.jpg</fanart>
+
+        <items>
+            <item>
+                <title>Parker Castellano(Opción 1)</title>         
+                   <externallink>https://www.youtube.com/watch?v=MTSqlCNEbMw</externallink>
+                <thumbnail>http://www.luisgyg.com/wp-content/uploads/2013/02/parker-film-.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+
+
+
+</channels>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Película</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://wallpapercave.com/wp/Qsbbfie.png</thumbnail>
+      <fanart>http://wallpapercave.com/wp/Qsbbfie.png</fanart>
+      <date>04.01.2013</date>
+      <credits>MaXoFloW.com</credits>
+    </channels_info>
+
+    <channel>
+    <name>[COLOR blue]•  [/COLOR][COLOR snow]Red 2 [/COLOR]</name>
+    <info>[COLOR blue]•  [/COLOR][COLOR snow]2013[/COLOR] El agente retirado de operaciones encubiertas la CIA, Frank Moses, vuelve a reunir a su peculiar equipo de élite para emprender la búsqueda a nivel global de un dispositivo nuclear portátil desaparecido. Por el camino tendrán que enfrentarse a un ejército de implacables asesinos, despiadados terroristas y oficiales del Gobierno enloquecidos por el poder.</info>
+    <thumbnail>http://hdfull.tv/tthumb/172x256/movie_13a9a9e2759b66d669d00d7cf7a7680e.jpg</thumbnail>
+    <fanart>http://elvortex.com/wp-content/uploads/2013/08/red2.jpg</fanart>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Red 2 Castellano [/COLOR][COLOR red] (Opción 1)[/COLOR]</title>         
+                <link>https://weshare.me/9046a1bcdfb43ed4/Louis_Theroux:_Twilight_of_the_Porn_Stars_</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_13a9a9e2759b66d669d00d7cf7a7680e.jpg</thumbnail>
+            </item>
+        </items>
+        <items>
+            <item>
+                <title>[COLOR blue]•  [/COLOR][COLOR snow]Red 2 Castellano [/COLOR][COLOR red] (Opción 2)[/COLOR]</title>         
+                <link>https://r5---sn-h5q7dnes.googlevideo.com/videoplayback?mn=sn-h5q7dnes&mm=31&key=yt6&requiressl=yes&source=youtube&mv=m&mt=1467347369&ms=au&fexp=9416891%2C9419451%2C9422596%2C9422841%2C9427395%2C9428398%2C9431012%2C9433096%2C9433380%2C9433946%2C9434428%2C9435197%2C9435526%2C9435876%2C9436606%2C9437553%2C9438479%2C9439652%2C9439849%2C9440504&sparams=dur%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&ip=88.21.81.133&lmt=1429686800452029&initcwndbps=755000&gcr=es&upn=QHOgSkfkzsU&id=o-AKeqe4oJIU3_XX-Re4ZdVjNGSZqswbq4sccYaWSnBAWS&mime=video%2Fmp4&ratebypass=yes&nh=IgpwcjAxLm1hZDA2KgkxMjcuMC4wLjE&pl=16&expire=1467369217&sver=3&dur=3802.430&signature=0CFA55155A2740429E459E68FC15FA8FDA57AE6B.3FF7DB20F3EC1057309C8C1A13CD67EA5EB92632&ipbits=0&itag=18</link>
+                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_13a9a9e2759b66d669d00d7cf7a7680e.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+
+</channels>

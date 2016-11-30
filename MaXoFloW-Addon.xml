@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    <channels_info>
+      <title>[COLOR red]MaXoFloW CinEstreno [/COLOR]</title>
+      <genre>IPTV</genre>
+      <description>Lista de canales IPTV</description>
+      <thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail>
+      <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+      <date>29.06.2015</date>
+      <credits>Gracias MaXoFloW.CoM</credits>
+    </channels_info>
+<channels>
+
+
+
+<channel>
+      <name>[COLOR cyan][/COLOR][COLOR red]                                                            MaXoFloW CinEstrenos [/COLOR]</name>
+  <thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+
+
+ 
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR gold] 1.0.0[/COLOR] 22 de Noviembre 2016[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
+  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIZyhg1FviZOV4CD1C3OmrwAvAdMqG_77Z_aKJ9bj8e8YSTo</thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+
+
+
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] TV España [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/Listas/espa.xml</externallink>
+</channel>
+  </channels>
+
+
+
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Películas [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Series [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Series.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Infantiles [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Infantiles.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Netflix [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Netflix.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Documentales [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Documentales.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Deportes [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Deportes.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Musica [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Musica.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Videos [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Videos.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Adultos [/COLOR][COLOR  red]+18  [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Adultos-18.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Listas Amigas [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Listas-Amigas.txt</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  gold]•  [/COLOR] Test [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://maxoflowcinestreno.esy.es/addon/Test.txt</externallink>
+</channel>
+  </channels>
