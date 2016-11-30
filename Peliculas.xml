@@ -5,11 +5,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Top 10 Semanal [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Top 10 Semanal [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Top-10-Semanal.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Top-10-Semanal.xml</externallink>
 </channel>
   </channels>
 
@@ -18,11 +18,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Acción [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Acción [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Accion-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Accion.xml</externallink>
 </channel>
   </channels> 
 
@@ -31,11 +31,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Aventuras [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Aventuras [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Aventuras-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Aventuras.xml</externallink>
 </channel>
   </channels> 
 
@@ -44,11 +44,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Comedia [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Comedia [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Comedia-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Comedia.xml</externallink>
 </channel>
   </channels>
 
@@ -57,11 +57,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Ciencia Ficción [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Ciencia Ficción [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Ciencia-Ficcion-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Ciencia-Ficcion.xml</externallink>
 </channel>
   </channels>
 
@@ -70,11 +70,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Animación [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Animación [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Animacion-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Animacion.xml</externallink>
 </channel>
   </channels>
 
@@ -83,11 +83,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Terror [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Terror [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Terror-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Terror.xml</externallink>
 </channel>
   </channels>
 
@@ -96,11 +96,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Familiar [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Familiar [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Familiar-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Familiar.xml</externallink>
 </channel>
   </channels>
 
@@ -109,11 +109,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Suspense [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Suspense [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Suspense-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Suspense.xml</externallink>
 </channel>
   </channels>
 
@@ -122,11 +122,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Drama [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Drama [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Drama-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Drama.xml</externallink>
 </channel>
   </channels>
 
@@ -135,11 +135,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Romance [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Romance [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Romance-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Romance.xml</externallink>
 </channel>
   </channels> 
 
@@ -148,10 +148,10 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  gold]•   [/COLOR] Variadas [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•   [/COLOR] Variadas [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas-Variadas-01.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas-Variadas.xml</externallink>
 </channel>
   </channels>
