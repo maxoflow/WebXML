@@ -15,7 +15,7 @@
 
 
 <channel>
-      <name>[COLOR gray][/COLOR][COLOR red]                                                            MaXoFloW CinEstrenos [/COLOR]</name>
+      <name>[COLOR silver][/COLOR][COLOR red]                                                            MaXoFloW CinEstrenos [/COLOR]</name>
   <thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -28,7 +28,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR gold] 1.0.0[/COLOR] 22 de Noviembre 2016[COLOR gray][COLOR  lime][/COLOR]  [/COLOR]</name>
+      <name>[COLOR silver][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR gold] 1.0.0[/COLOR] 22 de Noviembre 2016[COLOR silver][COLOR  lime][/COLOR]  [/COLOR]</name>
   <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIZyhg1FviZOV4CD1C3OmrwAvAdMqG_77Z_aKJ9bj8e8YSTo</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -39,7 +39,7 @@
 
 
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] TV España [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] TV España [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -50,7 +50,7 @@
 
 
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Películas [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Películas [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -63,7 +63,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Series [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Series [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -76,7 +76,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Infantiles [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Infantiles [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -89,7 +89,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Netflix [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Netflix [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -102,7 +102,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Documentales [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Documentales [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -115,7 +115,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Deportes [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Deportes [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -128,7 +128,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Musica [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Musica [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -141,7 +141,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Videos [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Videos [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -154,7 +154,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Adultos [/COLOR][COLOR  red]+18  [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Adultos [/COLOR][COLOR  red]+18  [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -167,7 +167,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Listas Amigas [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Listas Amigas [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
@@ -180,7 +180,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR gray][COLOR  silver]•  [/COLOR] Test [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Test [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
