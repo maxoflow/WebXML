@@ -54,7 +54,7 @@
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://maxoflowcinestreno.esy.es/addon/Peliculas.txt</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/pelis24.xml</externallink>
 </channel>
   </channels>
 
