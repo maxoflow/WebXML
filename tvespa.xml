@@ -137,6 +137,22 @@
 
 
 
+<item><title>[COLOR chartreuse]M+ #0[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]#0 - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar+-0.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>CANAL+ #0</title>
+<link>http://cdn.sstream.pw/live/canalplushd_9wgyfa8/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+ <title>[COLOR lightblue]CANAL+ #0[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+
+
 <item><title>[COLOR chartreuse]M+ Series[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Series - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fseries_aw3d82v%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar-series.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
 
 <item>
@@ -169,7 +185,6 @@
 
 <item> <title>[COLOR lightblue]Canal + XTRA[/COLOR]</title><link>rtmp://31.220.0.201/privatestream/ playpath=plxtra?keys=8SEn6tdFTznwTry61lgA4w&keyt=1460562440 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link></item>
 
-
 <item>
 <title>[COLOR lightblue]Plus Series Estrenos [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
 <link>rtmp://www1.iguide.to/iguide playpath=203cy9bnzp1kcm9  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
@@ -182,13 +197,772 @@
 
 
 
+<item><title>[COLOR chartreuse]FOX[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]FOX - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ffox_alwk17k%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fox.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+
+
+<item>
+ <title>FOX</title>
+<link>http://cdn.sstream.pw/live/fox_alwk17k/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item> <title>[COLOR lightblue]Fox[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item> 
+
+<item>
+ <title>[COLOR lightblue]FOX[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision/fox.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fox.png</thumbnail> 
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>[COLOR lightblue]Canal Fox [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
+
+<item>
+<title>CANAL FOX</title>
+<link>http://cdn.sitenow.me/live/fox_alwk17k/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]AXN[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]AXN - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Faxn_alwla94%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/axn.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>AXN</title>
+<link>http://cdn.sstream.pw/live/axn_alwla94/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item> <title>[COLOR lightblue]AXN[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item>
+
+<item>
+ <title>[COLOR lightblue]AXN[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/axn.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/axn.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR lightblue]AXN [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
+
+<item>
+<title>CANAL AXN</title>
+<link>http://cdn.sitenow.me/live/axn_alwla94/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]TNT[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]TNT - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ftnt_alwl3qm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tnt.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>[COLOR lightblue]TNT[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision/tnt.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tnt.png</thumbnail>
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>[COLOR lightblue]TNT *[/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=nh44259fy0kikqbk  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
+
+<item>
+<title>CANAL TNT</title>
+<link>http://cdn.sitenow.me/live/tnt_alwl3qm/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Comedy Central[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Comedy - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcamedycentral_aza0tov%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/comedy-central.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL COMEDY CENTRAL</title>
+<link>http://cdn.sitenow.me/live/camedycentral_aza0tov/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Calle13[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Calle13 - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcalle13_aw3fo9w%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/calle13.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>CALLE 13</title>
+<link>http://cdn.sstream.pw/live/calle13_aw3fo9w/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/2010010 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+ <title>[COLOR lightblue]CALLE 13[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/calle13.php</sportsdevil>
+<referer>http://verdirectotv.com/</referer> 
+ <thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/calle13.png</thumbnail>
+</item>
+
+<item>
+<title>CANAL CALLE13</title>
+<link>http://cdn.sitenow.me/live/calle13_aw3fo9w/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Cosmo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Cosmo - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcosmos_az4nm9g%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/cosmo.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<title>CANAL COSMOPOLITAN</title>
+<link>http://cdn.sitenow.me/live/cosmos_az4nm9g/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/2010010 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+
+
+
+<item><title>[COLOR chartreuse]AMC[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]AMC - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Famc_aw3dyqm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/amc.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>AMC</title>
+<link>http://cdn.sstream.pw/live/amc_aw3dyqm/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent> 
+</item>
+
+<item>
+ <title>[COLOR lightblue]AMC[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<fanart>http://maxoflowcinestreno.esy.es/Logos/espa/amc.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>CANAL AMC</title>
+<link>http://cdn.sitenow.me/live/amc_aw3dyqm/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+ <title>FOX LIFE</title>
+<link>http://cdn.sstream.pw/live/foxlive_au8xxzz/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/2010010 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+ <title>[COLOR lightblue]FOX LIFE[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fox-life.png</thumbnail> 
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+<title>CANAL FOX LIFE</title>
+<link>http://cdn.sitenow.me/live/foxlive_au8xxzz/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+ <title>AXN WHITE</title>
+<link>http://cdn.sstream.pw/live/canalplushd_9wgyfa8/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item> <title>[COLOR lightblue]AXN White[/COLOR]</title><link>rtmp://31.220.0.187/privatestream/ playpath=axnwh?keys=cxgesHSX0RL5EgQ_g-bVMQ&keyt=1462299702 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=axnwh&width=800&height=600</link></item>
+
+<item>
+ <title>[COLOR lightblue]AXN WHITE[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision1/axnwhite.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/axn-white.png</thumbnail>
+</item>
+
+<item>
+<title>CANAL AXN WHITE</title>
+<link>http://cdn.sitenow.me/live/axnwhite_aap5cqs/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]SyFy[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]syFy - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fsyfy_aw3eq7m%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/syfy.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>SYFY</title>
+<link>http://cdn.sstream.pw/live/syfy_aw3eq7m/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item> <title>[COLOR lightblue]Syfy[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item> 
+
+<item>
+<title>[COLOR lightblue]SYFY[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer> 
+</item>
+
+<item>
+<title>[COLOR lightblue]SyFy * [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sI9s  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 
+
+<item>
+<title>CANAL SYFY</title>
+<link>http://cdn.sitenow.me/live/syfy_aw3eq7m/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]MTV[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]MTV - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fmtv_alwkh45%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mtv.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item> <title>[COLOR lightblue]MTV España[/COLOR]</title><link>rtmp://31.220.40.59/privatestream/ playpath=mmtvv?keys=8eFI4koWQV7LkREC8Sp-lQ&keyt=1462338035 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=mmtvv&width=800&height=600</link></item>
+
+
+
+<item><title>[COLOR chartreuse]FDF[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]FDF - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ffdfhd_xrewtt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fdf.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL FDF</title>
+<link>http://cdn.sitenow.me/live/fdf_bga3kqh/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+			<item><title>[COLOR deepskyblue]NEOX [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/neox.png</thumbnail></item>
+			
+			<item><title>[COLOR deepskyblue]NEOX [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/neox.png</thumbnail></item>
+
+<item><title>[COLOR chartreuse]Neox[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Neox - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fneox_alwkw2n%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/neox.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL NEOX</title>
+<link>http://videog3-live.hds.adaptive.level3.net/hls-live/video-geoneox/_definst_/live/stream4.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+			<item><title>[COLOR deepskyblue]A3S SD[/COLOR]</title>	
+	<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+	<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/atreseries.png</thumbnail></item>	
+
+<item><title>[COLOR chartreuse]A3Series[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]A3S - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2FA3Series_11zwyox%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/atreseries.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL A3 ATRESERIES</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;amp;rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Energy[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]energy - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fenergy_azhls60%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/energy.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL ENERGY</title>
+<link>http://cdn.sitenow.me/live/energy_azhls60/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+ <title>CANAL+ ESTRENOS</title>
+ <link>http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+ <title>[COLOR lightblue]CANAL+ ESTRENOS[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusestrenos.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+<item>
+<title>[COLOR lightblue]Plus Estrenos [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>	
+
+<item>
+<title>CANAL+ESTRENOS</title>
+<link>http://cdn.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL+XTRA</title>
+<link>http://cdn.sitenow.me/live/xtra_bhsjbi8/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]M+ Accion[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Accion - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Faccion_aqtvoax%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar-accion.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>CANAL+ ACCION</title>
+<link>http://cdn.sstream.pw/live/accion_aqtvoax/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item> <title>[COLOR lightblue]Canal+ Acción[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item>
+
+<item>
+ <title>[COLOR lightblue]CANAL+ ACCION[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusaccion.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+<item>
+<title>[COLOR lightblue]Plus Accion [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
+
+<item>
+<title>CANAL+ ACCION</title>
+<link>http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/accion_bitzwzh/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]M+ Comedia[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Comedia - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcomedia_b0dqg8y%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar-cine-comedia.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>CANAL+ COMEDIA</title>
+<link>http://cdn.sstream.pw/live/comedia_aspeh87/playlist.m3u8</agent>
+</item>
+
+<item>
+ <title>[COLOR lightblue]CANAL+ COMEDIA[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+	<sportsdevil>http://cinestrenostv.tv/canales/envivo/pluscomedia.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+<item>
+<title>[COLOR lightblue]Plus comedia* [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
+
+<item>
+<title>CANAL+COMEDIA</title>
+<link>http://cdn.sitenow.me/live/comedia_az50b5a/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL+ DCINE</title>
+<link>http://cdn.sstream.pw/live/dcine_aw3g20p/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+<title>[COLOR lightblue]CANAL+ DCINE[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusdcine.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+
+
+<item>
+<title>[COLOR lightblue]Plus DCine  [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
+
+<item>
+<title>CANAL+DCINE</title>
+<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/dcine_bijdglp/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR lightblue]D CINE ESP[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine-espa%C3%B1ol.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+<item>
+<title>CANAL DCINE ESPAÑOL:NO FUNCIONA</title>
+<link>OOOOOOO</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+ <title>[COLOR lightblue]TCM[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://www.telefivegb.com/ver-canal-tcm-online-gratis-y-en-vivo-por-internet</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+ <thumbnail>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL TCM:NO FUNCIONA</title>
+<link>OOOOOO</link>
+<thumbnail></thumbnail>
+</item>
 
 
 
 
+<item><title>[COLOR chartreuse]Holywood[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Hollywood - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fholliwood_bawwczi%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/holliwood.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+ <title>HOLLYWOOD</title>
+<link>http://cdn.sstream.pw/live/hollywood_asqwbwv/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+ <title>[COLOR lightblue]HOLLYWOOD[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+ <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]Hollywood [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=g14tfn5k0uso0om  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
+
+<item>
+<title>CANAL HOLLYWOOD</title>
+<link>http://cdn.sitenow.me/live/holliwood_bawwczi/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+			<item>
+			<title>[COLOR deepskyblue]13tv[/COLOR]</title>
+			<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+			<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/13-tv.png</thumbnail></item>
+			
+<item>
+<title>CANAL 13 TV</title>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w63737912.m3u8|Referer=http://cinestrenostv.tv/canales/nacionales/13tv.php</link>
+<thumbnail></thumbnail>
+</item>
+
+		<item>
+			<title>13 TV</title>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/fr/9/9c/13tv_logo_2012.png</thumbnail>
+			<link>http://www.lasteles.com/es/player.php?auto=0&id=6254</title>
+			</link>isHost</link>: </link>true</link>
+		</item>
+
+<item>
+<title>13tv</title><thumbnail>http://1.bp.blogspot.com/-wy_aWa-BFu8/UE6PdMavkOI/AAAAAAAAEhc/gW36DmJpUfo/s1600/13tvlogonuevo.jpg</thumbnail>
+<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ=</link>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Ten[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Ten - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ften_azj987s%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/ten.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL TEN</title>
+<link>http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>PARAMOUNT CHANNEL</title>
+<link>http://cdn.sstream.pw/live/paramountchannel_113im5f/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+<title>[COLOR lightblue]PARAMOUNT CHANNEL[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://www.telefivegb.com/ver-paramount-channel-en-directo-y-gratis-online-las-24h-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+<item>
+<title>CANAL PARAMOUT CHANEL</title>
+<link>http://195.55.74.206/paramount/live/stream.m3u8?GKID=4664f43a836a11e6b76e00163e914f69</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]NatGeo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]NatGeo - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fnatgeowill_azu3urx%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/national-geographic.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item><title>[COLOR chartreuse]NatGeo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]NatGeo - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fnational_alwka53%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/national-geographic.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL NATIONAL GEOGRAFIC CHANNEL</title>
+<link>http://cdn.sitenow.me/live/natgeo_bgdq7q0/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/2010010 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL NAT GEO WILD</title>
+<link>http://cdn.sitenow.me/live/wild_aza5rz7/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item> <title>[COLOR lightblue]Historia[/COLOR]</title><link>rtmp://31.220.40.61/privatestream/ playpath=historiaa?keys=JPrKaaB-78Aum-6cbFL6-w&keyt=1462303192 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=historiaa&width=800&height=600</link></item>
+
+<item>
+<title>CANAL HISTORIA</title>
+<link>http://cdn.sitenow.me/live/historia_9dm8skt/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Discovery channel[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Discovery - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdiscoverydino_9dm3fgv%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/discovery-channel.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL DISCOVERY CHANNEL</title>
+<link>http://cdn.sitenow.me/live/discoverydino_9dm3fgv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Odisea[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Odisea - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fodisea_bawv8fu%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/odisea.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL ODISEA</title>
+<link>http://cdn.sitenow.me/live/odiseass_ab1rhro/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL A&E BE ORIGINAL</title>
+<link>http://cdn.sitenow.me/live/AE_13mz39m/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>[COLOR chartreuse]AE[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]AE - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2FAE_13mz39m%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/ae.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar><thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail></item>
+
+
+
+<item>
+<title>CANAL VIAJAR:NO FUNCIONA</title>
+<link>|Referer=</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Discovery Max[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Max - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdismax_9c7n25t%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/dmax.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL DISCOVERY MAX</title>
+<link>http://cdn.sitenow.me/live/discovery-max_1587w0r/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Cocina[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Cocina - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcocina_am9cifh%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/canal-cocina.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item></link><thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail></item>
+
+<item> <title>[COLOR lightblue]Canal cocina[/COLOR]</title><link>rtmp://31.220.40.63/privatestream/ playpath=cocinach?keys=xhU0t9d1sEYHeBpF-j7IbQ&keyt=1462304203 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=cocinach&width=800&height=600</link></item>
+
+<item>
+<title>CANAL COCINA</title>
+<link>http://cdn.sitenow.me/live/cocina_bgn7puz/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/2010010 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+			<item>
+			<title>decasa</title>
+			<link>http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8</link>
+			
+			<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/decasa.png</thumbnail></item>
+			
+			
+			
+<tem><title>[COLOR deepskyblue]Divinity [/COLOR]</title><link>http://mediasethls-lh.akamaihd.net/i/mitele/divinity_g@393139/index_500_av-p.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/divinity.png</thumbnail></item>
+
+<item><title>[COLOR chartreuse]Divinity[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Divinity - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdiniiiii_9fil4ag%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/divinity.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL DIVINITY</title>
+<link>http://cdn.sitenow.me/live/diniiiii_9fil4ag/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR deepskyblue]Nova [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8?sd=10&rebase=on</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/nova.png</thumbnail></item>
+
+<item><title>[COLOR deepskyblue]Nova [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/nova.png</thumbnail></item>			
+
+			
+<item>
+ <title>NOVA</title>  
+<link>http://cdn.sstream.pw/live/nova2_acolsfq/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+
+<item>
+<title>CANAL NOVA</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+
+			<item><title>[COLOR coral]NOVA-neox[/COLOR]</title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8?hd=10&rebase=on</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+			
+			
+			<item><title>[COLOR deepskyblue]MEGA HD[/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mega.png</thumbnail></item>
+			
+			<item><title>[COLOR deepskyblue]Mega [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mega.png</thumbnail></item>
+			
+<item><title>[COLOR chartreuse]Mega[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Mega - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fmegatdt_9o35160%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mega.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL MEGA</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR chartreuse]Be Mad[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]BeMad - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fbemad_azhj93f%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/be-mad.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item>
+<title>CANAL BEMAD</title>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL DISNEY JUNIOR</title>
+<link>http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL NICK JUNIOR</title>
+<link>http://cdn.sitenow.me/live/nick_azej7zj/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL BOING</title>
+<link>http://cdn.sitenow.me/live/boing_aaquham/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+            <item>
+            <title>Canarias NET</title>
+            <thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tvcanaria.png</thumbnail>
+            <link>rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx</link>
+                </item>
+				
+                <item>
+                        <title>Canarias NET</title>
+                        <thumbnail>http://images.wikia.com/logopedia/images/c/c5/Televisi%C3%B3n_Canaria_Net_logo.png</thumbnail>
+                        <link>rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx</link>
+                </item>
+
+			<item>
+			<title>CANAL TV CANARIAS [COLOR gray](rtvc)[/COLOR]</title>
+			<link>rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/enDirecto.aspx?canal=tv</link>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
+			
+			
+			
 			<item><title>[COLOR coral]TINDAYATV[/COLOR]</title><link>http://flash3.todostreaming.es/tindayatv/livestream/playlist.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tindaya-tv.png</thumbnail></item>
 
+                <item>
+                        <title>Tindaya TV</title>
+                        <thumbnail>http://2.bp.blogspot.com/-oy1jItp-JBE/VTPF6klwEzI/AAAAAAAAE8w/3qoIAtuLjTs/s1600/Tindaya-TV.gif</thumbnail>
+                        <link>http://188.165.135.22/tindayatv/livestream/playlist.m3u8</link>
+                </item>
+
+
+
+
+			
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>CANAL PLAY BOY TV</title>
+<link>http://cdn.sitenow.me/live/playboy_13t2qf3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CANAL VENUS</title>
+<link>http://cdn.sitenow.me/live/venus_157y379/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CANAL HUSTLER TV</title>
+<link>http://cdn.sitenow.me/live/hustlertv_9c7o2m2/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CANAL REDLIGHT</title>
+<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CANAL HOT</title>
+<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
 	
+
+
+<item>
+<title>BEIN SPORTS LA LIGA OPCION 1</title>
+<link>http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
  
 <item>
 <title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR]</title>       
@@ -213,16 +987,10 @@
 	
 
 
-			<item><title>[COLOR deepskyblue]A3S SD[/COLOR]</title>
-	
-	<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
-	<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/atreseries.png</thumbnail></item>	
+
 			
 			
-			<item>
-			<title>[COLOR deepskyblue]13tv[/COLOR]</title>
-			<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-			<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/13-tv.png</thumbnail></item>
+
 			
 			
 			<item>
@@ -243,18 +1011,13 @@
 
 			
 			
-			<item><title>[COLOR deepskyblue]NEOX [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/neox.png</thumbnail></item>
-			
-			<item><title>[COLOR deepskyblue]NEOX [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/neox.png</thumbnail></item>
-			
-			<item><title>[COLOR deepskyblue]Mega [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mega.png</thumbnail></item>
-			
-<tem><title>[COLOR deepskyblue]Divinity [/COLOR]</title><link>http://mediasethls-lh.akamaihd.net/i/mitele/divinity_g@393139/index_500_av-p.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/divinity.png</thumbnail></item>
 
-<item><title>[COLOR deepskyblue]Nova [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8?sd=10&rebase=on</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/nova.png</thumbnail></item>
+			
 
-<item><title>[COLOR deepskyblue]Nova [/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/nova.png</thumbnail></item>			
-			<item><title>[COLOR deepskyblue]MEGA HD[/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mega.png</thumbnail></item>
+			
+
+
+
 	
  
 <item><title>[COLOR deepskyblue]euroNews[/COLOR]</title><link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/euronews.png</thumbnail></item>
@@ -262,40 +1025,38 @@
  
 
 
-<item><title>[COLOR chartreuse]M+ #0[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]#0 - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar+-0.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]M+ Comedia[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Comedia - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcomedia_b0dqg8y%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar-cine-comedia.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]M+ Accion[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Accion - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Faccion_aqtvoax%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar-accion.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
 
 
 
 
 
-<item><title>[COLOR chartreuse]Cosmo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Cosmo - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcosmos_az4nm9g%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/cosmo.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Divinity[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Divinity - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdiniiiii_9fil4ag%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/divinity.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Energy[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]energy - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fenergy_azhls60%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/energy.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Be Mad[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]BeMad - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fbemad_azhj93f%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/be-mad.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]A3Series[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]A3S - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2FA3Series_11zwyox%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/atreseries.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Ten[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Ten - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ften_azj987s%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/ten.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]MTV[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]MTV - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fmtv_alwkh45%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mtv.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Neox[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Neox - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fneox_alwkw2n%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/neox.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Mega[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Mega - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fmegatdt_9o35160%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/mega.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]FDF[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]FDF - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ffdfhd_xrewtt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fdf.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Holywood[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Hollywood - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fholliwood_bawwczi%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/holliwood.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]AMC[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]AMC - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Famc_aw3dyqm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/amc.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]SyFy[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]syFy - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fsyfy_aw3eq7m%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/syfy.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Calle13[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Calle13 - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcalle13_aw3fo9w%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/calle13.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]AXN[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]AXN - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Faxn_alwla94%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/axn.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]TNT[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]TNT - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ftnt_alwl3qm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tnt.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]FOX[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]FOX - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ffox_alwk17k%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fox.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Comedy Central[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Comedy - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcamedycentral_aza0tov%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/comedy-central.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Cocina[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Cocina - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcocina_am9cifh%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/canal-cocina.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item></link><thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail></item>
-<item><title>[COLOR chartreuse]Odisea[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Odisea - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fodisea_bawv8fu%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/odisea.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item><title>[COLOR chartreuse]Caza y Pezca[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Caza y pesca - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcazaypesca_bawvnvf%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/caza-y-pesca.jpg</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]NatGeo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]NatGeo - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fnatgeowill_azu3urx%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/national-geographic.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Discovery Max[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Max - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdismax_9c7n25t%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/dmax.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]Discovery channel[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Discovery - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdiscoverydino_9dm3fgv%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/discovery-channel.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]NatGeo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]NatGeo - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fnational_alwka53%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/national-geographic.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-<item><title>[COLOR chartreuse]AE[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]AE - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2FAE_13mz39m%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/ae.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar><thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail></item>
+
+
+
+
  
  
  
@@ -306,135 +1067,49 @@
 <!--
 
 
-<item>
- <title>NOVA</title>  
-<link>http://cdn.sstream.pw/live/nova2_acolsfq/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-<item>
- <title>CANAL+ #0</title>
-<link>http://cdn.sstream.pw/live/canalplushd_9wgyfa8/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-
-<item>
- <title>CANAL+ ESTRENOS</title>
-<link>http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-
-<item>
- <title>CANAL+ ACCION</title>
-<link>http://cdn.sstream.pw/live/accion_aqtvoax/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-<item>
-<title>CANAL+ DCINE</title>
-<link>http://cdn.sstream.pw/live/dcine_aw3g20p/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-<item>
- <title>CANAL+ COMEDIA</title>
-<link>http://cdn.sstream.pw/live/comedia_aspeh87/playlist.m3u8</agent>
-
-</item>
-
-
-
-
-<item>
-<title>SYFY</title>
-<link>http://cdn.sstream.pw/live/syfy_aw3eq7m/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-
-<item>
-<title>PARAMOUNT CHANNEL</title>
-<link>http://cdn.sstream.pw/live/paramountchannel_113im5f/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
 
 
 
 
 
 
-<item>
- <title>HOLLYWOOD</title>
-<link>http://cdn.sstream.pw/live/hollywood_asqwbwv/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-<item>
- <title>AXN</title>
-<link>http://cdn.sstream.pw/live/axn_alwla94/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-<item>
- <title>AXN WHITE</title>
-<link>http://cdn.sstream.pw/live/canalplushd_9wgyfa8/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-
-<item>
- <title>FOX</title>
-<link>http://cdn.sstream.pw/live/fox_alwk17k/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-
-<item>
- <title>FOX LIFE</title>
-<link>http://cdn.sstream.pw/live/foxlive_au8xxzz/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-
-<item>
- <title>AMC</title>
-<link>http://cdn.sstream.pw/live/amc_aw3dyqm/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
- 
-</item>
 
 
 
 
-<item>
- <title>CALLE 13</title>
-<link>http://cdn.sstream.pw/live/calle13_aw3fo9w/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -454,7 +1129,7 @@
 
 
 
-<item> <title>[COLOR lightblue]Canal+ Acción[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item>
+
 
 
 
@@ -503,34 +1178,30 @@
 	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Digital[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
 
 
-<item> <title>[COLOR lightblue]Fox[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item> 
-
-
-
-
-<item> <title>[COLOR lightblue]AXN[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item>
-
-
-
-<item> <title>[COLOR lightblue]AXN White[/COLOR]</title><link>rtmp://31.220.0.187/privatestream/ playpath=axnwh?keys=cxgesHSX0RL5EgQ_g-bVMQ&keyt=1462299702 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=axnwh&width=800&height=600</link></item>
 
 
 
 
 
-<item> <title>[COLOR lightblue]Syfy[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item> 
-
-
-<item> <title>[COLOR lightblue]Canal cocina[/COLOR]</title><link>rtmp://31.220.40.63/privatestream/ playpath=cocinach?keys=xhU0t9d1sEYHeBpF-j7IbQ&keyt=1462304203 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=cocinach&width=800&height=600</link></item>
-
-
-
-<item> <title>[COLOR lightblue]Historia[/COLOR]</title><link>rtmp://31.220.40.61/privatestream/ playpath=historiaa?keys=JPrKaaB-78Aum-6cbFL6-w&keyt=1462303192 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=historiaa&width=800&height=600</link></item>
 
 
 
 
-<item> <title>[COLOR lightblue]MTV España[/COLOR]</title><link>rtmp://31.220.40.59/privatestream/ playpath=mmtvv?keys=8eFI4koWQV7LkREC8Sp-lQ&keyt=1462338035 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=mmtvv&width=800&height=600</link></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -566,52 +1237,27 @@
 	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Sportsdevil Requerido [/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
 
 
-<item>
- <title>[COLOR lightblue]CANAL+ #0[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
 
 
 
 
-<item>
- <title>[COLOR lightblue]CANAL+ ESTRENOS[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusestrenos.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
+
+
 
 
 
  
 
 
-<item>
- <title>[COLOR lightblue]CANAL+ ACCION[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusaccion.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
+>
 
 
 
-<item>
-<title>[COLOR lightblue]CANAL+ DCINE[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusdcine.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
 
 
 
-<item>
- <title>[COLOR lightblue]CANAL+ COMEDIA[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-	<sportsdevil>http://cinestrenostv.tv/canales/envivo/pluscomedia.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
+
+
 
 
 
@@ -632,129 +1278,42 @@
 
 
 
-<item>
-<title>[COLOR lightblue]D CINE ESP[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine-espa%C3%B1ol.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
-
-
-
-<item>
-<title>[COLOR lightblue]SYFY[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
 
 
 
 
 
-<item>
-<title>[COLOR lightblue]PARAMOUNT CHANNEL[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://www.telefivegb.com/ver-paramount-channel-en-directo-y-gratis-online-las-24h-en-vivo/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
-</item>
 
 
 
 
 
-<item>
- <title>[COLOR lightblue]HOLLYWOOD[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
- <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
-</item>
-
-
-<item>
- <title>[COLOR lightblue]TCM[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://www.telefivegb.com/ver-canal-tcm-online-gratis-y-en-vivo-por-internet</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- 
- <thumbnail>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</thumbnail>
-</item>
-
-
-
-<item>
- <title>[COLOR lightblue]AXN[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/axn.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/axn.png</thumbnail>
- 
-</item>
-
-
-
-
-<item>
- <title>[COLOR lightblue]AXN WHITE[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/emision1/axnwhite.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/axn-white.png</thumbnail>
- 
-</item>
-
-
-
-<item>
- <title>[COLOR lightblue]FOX[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/emision/fox.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fox.png</thumbnail>
- 
- <thumbnail></thumbnail> 
-</item>
 
 
 
 
 
-<item>
- <title>[COLOR lightblue]FOX LIFE[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/fox-life.png</thumbnail>
- 
- <thumbnail></thumbnail> 
-</item>
-
-<item>
- <title>[COLOR lightblue]TNT[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/emision/tnt.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tnt.png</thumbnail>
- 
- <thumbnail></thumbnail> 
-</item>
-
-
-
-<item>
- <title>[COLOR lightblue]AMC[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
-<referer>http://verdirectotv.com/</referer>
- 
-<fanart>http://maxoflowcinestreno.esy.es/Logos/espa/amc.png</fanart>
- <thumbnail></thumbnail> 
-</item>
 
 
 
 
-<item>
- <title>[COLOR lightblue]CALLE 13[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/calle13.php</sportsdevil>
-<referer>http://verdirectotv.com/</referer>
- 
- <thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/calle13.png</thumbnail>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -859,34 +1418,16 @@
 
 
 
-<item>
-<title>[COLOR lightblue]Plus Estrenos [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>	
 
-<item>
-<title>[COLOR lightblue]Plus Accion [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-<item>
-<title>[COLOR lightblue]Plus comedia* [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-<item>
-<title>[COLOR lightblue]Plus DCine  [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-<item>
-<title>[COLOR lightblue]Hollywood [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=g14tfn5k0uso0om  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-<item>
-<title>[COLOR lightblue]Canal Fox [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-<item>
-<title>[COLOR lightblue]TNT *[/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=nh44259fy0kikqbk  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-<item>
-<title>[COLOR lightblue]AXN [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-<item>
-<title>[COLOR lightblue]SyFy * [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sI9s  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 	
+
+
+
+
+
+
+
+
+	
 			
 
  
@@ -915,112 +1456,29 @@
 <link>http://185.39.9.162/live/plus0_b0xk990/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>CANAL+ESTRENOS</title>
-<link>http://cdn.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL+ ACCION</title>
-<link>http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/accion_bitzwzh/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL+COMEDIA</title>
-<link>http://cdn.sitenow.me/live/comedia_az50b5a/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL+DCINE</title>
-<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/dcine_bijdglp/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL+XTRA</title>
-<link>http://cdn.sitenow.me/live/xtra_bhsjbi8/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL DCINE ESPAÑOL:NO FUNCIONA</title>
-<link>OOOOOOO</link>
-<thumbnail></thumbnail>
-</item>
+
+
+
+
+
+
 
 <item>
-<title>CANAL HOLLYWOOD</title>
-<link>http://cdn.sitenow.me/live/holliwood_bawwczi/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
+
 </item>
-<item>
-<title>CANAL COSMOPOLITAN</title>
-<link>http://cdn.sitenow.me/live/cosmos_az4nm9g/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL AMC</title>
-<link>http://cdn.sitenow.me/live/amc_aw3dyqm/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL PARAMOUT CHANEL</title>
-<link>http://195.55.74.206/paramount/live/stream.m3u8?GKID=4664f43a836a11e6b76e00163e914f69</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL COMEDY CENTRAL</title>
-<link>http://cdn.sitenow.me/live/camedycentral_aza0tov/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL AXN WHITE</title>
-<link>http://cdn.sitenow.me/live/axnwhite_aap5cqs/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL AXN</title>
-<link>http://cdn.sitenow.me/live/axn_alwla94/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL FOX LIFE</title>
-<link>http://cdn.sitenow.me/live/foxlive_au8xxzz/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL FOX</title>
-<link>http://cdn.sitenow.me/live/fox_alwk17k/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL SYFY</title>
-<link>http://cdn.sitenow.me/live/syfy_aw3eq7m/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL CALLE13</title>
-<link>http://cdn.sitenow.me/live/calle13_aw3fo9w/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
+
+
+
+
+
+
 <item>
 <title>CANAL+TOROS</title>
 <link>http://cdn.sitenow.me/live/toros_9frbv56/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>CANAL TNT</title>
-<link>http://cdn.sitenow.me/live/tnt_alwl3qm/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL TCM:NO FUNCIONA</title>
-<link>OOOOOO</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BEIN SPORTS LA LIGA OPCION 1</title>
-<link>http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
+
+
 <item>
 <title>BEIN SPORTS LA LIGA OPCION 2</title>
 <link>http://cdn.sitenow.me/live/verliga_bbsglgi/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
@@ -1166,103 +1624,25 @@
 <link>http://cdn.sitenow.me/live/cazaypesca_bawvnvf/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>CANAL HISTORIA</title>
-<link>http://cdn.sitenow.me/live/historia_9dm8skt/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL ODISEA</title>
-<link>http://cdn.sitenow.me/live/odiseass_ab1rhro/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL VIAJAR:NO FUNCIONA</title>
-<link>|Referer=</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL DISCOVERY CHANNEL</title>
-<link>http://cdn.sitenow.me/live/discoverydino_9dm3fgv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL NATIONAL GEOGRAFIC CHANNEL</title>
-<link>http://cdn.sitenow.me/live/natgeo_bgdq7q0/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL NAT GEO WILD</title>
-<link>http://cdn.sitenow.me/live/wild_aza5rz7/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL DISCOVERY MAX</title>
-<link>http://cdn.sitenow.me/live/discovery-max_1587w0r/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL COCINA</title>
-<link>http://cdn.sitenow.me/live/cocina_bgn7puz/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL A&E BE ORIGINAL</title>
-<link>http://cdn.sitenow.me/live/AE_13mz39m/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>CANAL A3 ATRESERIES</title>
-<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;amp;rebase=on</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL MEGA</title>
-<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL NEOX</title>
-<link>http://videog3-live.hds.adaptive.level3.net/hls-live/video-geoneox/_definst_/live/stream4.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL NOVA</title>
-<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&amp;rebase=on</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL DIVINITY</title>
-<link>http://cdn.sitenow.me/live/diniiiii_9fil4ag/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL ENERGY</title>
-<link>http://cdn.sitenow.me/live/energy_azhls60/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL FDF</title>
-<link>http://cdn.sitenow.me/live/fdf_bga3kqh/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>CANAL BEMAD</title>
-<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL TEN</title>
-<link>http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL 13 TV</title>
-<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w63737912.m3u8|Referer=http://cinestrenostv.tv/canales/nacionales/13tv.php</link>
-<thumbnail></thumbnail>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 <title>CANAL INTERCONOMIA</title>
 <link>http://edge3.adnstream.com:81/hls/intereconomia.m3u8|Referer=http://biophobia.tv/nacionales/intereconomiaonline.php</link>
@@ -1278,51 +1658,15 @@
 <link>http://media3.crtvg.es/live/tvge_2/chunklist_w1706595984.m3u8|Referer=http://cinestrenostv.tv/canales/autonomicos/galiciatv.php</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>CANAL BOING</title>
-<link>http://cdn.sitenow.me/live/boing_aaquham/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL NICK JUNIOR</title>
-<link>http://cdn.sitenow.me/live/nick_azej7zj/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL DISNEY JUNIOR</title>
-<link>http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
+
+
+
 <item>
 <title>CANAL SUPER3</title>
 <link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b798000_DVR.m3u8|Referer=http://lacasadeltikitaka.me/MultiTV/Dibujos/super3.php</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>CANAL PLAY BOY TV</title>
-<link>http://cdn.sitenow.me/live/playboy_13t2qf3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL VENUS</title>
-<link>http://cdn.sitenow.me/live/venus_157y379/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL HUSTLER TV</title>
-<link>http://cdn.sitenow.me/live/hustlertv_9c7o2m2/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL REDLIGHT</title>
-<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL HOT</title>
-<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
+
  
  
  
@@ -1345,11 +1689,7 @@
 
 			
 
-			<item>
-			<title>decasa</title>
-			<link>http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8</link>
-			
-			<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/decasa.png</thumbnail></item>
+
 			
 	
 	
@@ -1366,11 +1706,7 @@
 			<item>
 			<title>Tribu TV</title>
 			<link>http://tribotv-ch01-live-cdn1-hls.streaming.overon.es/tribotv/channel01/tribotv/bitrate_3.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tribu-tv.png</thumbnail></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-            <item>
-            <title>Canarias NET</title>
-            <thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tvcanaria.png</thumbnail>
-            <link>rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx</link>
-                </item>
+
 			
 			
 			
@@ -1422,12 +1758,7 @@
                         <thumbnail>http://www.revistaelobservador.com/images/stories/envios_15/marzo/10tv.jpg</thumbnail>
                         <link>rtmp://87.106.220.67/live/myStream_2</link>
                 </item>
-		<item>
-			<title>13 TV</title>
-			<thumbnail>http://upload.wikimedia.org/wikipedia/fr/9/9c/13tv_logo_2012.png</thumbnail>
-			<link>http://www.lasteles.com/es/player.php?auto=0&id=6254</title>
-			</link>isHost</link>: </link>true</link>
-		</item>
+
 		<item>
 			<title>25 TV</title>
 			<thumbnail>http://4.bp.blogspot.com/-BrJQU1sZmD4/VUPnI2iLeDI/AAAAAAAAFMM/ApDsQVo7POo/s1600/25%2Btvjpg.gif</thumbnail>
@@ -1575,11 +1906,7 @@
                         <thumbnail>http://4.bp.blogspot.com/-x6fAWM1k7OE/VYSaU90Vy3I/AAAAAAAAFn8/S34jUUZAXjE/s1600/torrevision2.gif</thumbnail>
                         <link>http://212-123.livestream.com:8080/livestreamiphone/2614936_1848989_89cc1514_1_198@300538/chunklist.m3u8</link>
                 </item>
-                <item>
-                        <title>Canarias NET</title>
-                        <thumbnail>http://images.wikia.com/logopedia/images/c/c5/Televisi%C3%B3n_Canaria_Net_logo.png</thumbnail>
-                        <link>rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx</link>
-                </item>
+
                 <item>
                         <title>Cancionero Tv</title>
                         <thumbnail>http://www.cancionero.es/tv/images/fondo.jpg</thumbnail>
@@ -2015,11 +2342,7 @@
                         <thumbnail>http://www.aldeasinfantiles.es/getattachment/Que-esta-pasando/sala-de-prensa/aldeas-en-los-medios/logo_tg7-(1).png</thumbnail>
                         <link>http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8</link>
                 </item>
-                <item>
-                        <title>Tindaya TV</title>
-                        <thumbnail>http://2.bp.blogspot.com/-oy1jItp-JBE/VTPF6klwEzI/AAAAAAAAE8w/3qoIAtuLjTs/s1600/Tindaya-TV.gif</thumbnail>
-                        <link>http://188.165.135.22/tindayatv/livestream/playlist.m3u8</link>
-                </item>
+
                 <item>
                         <title>TV3</title>
                         <thumbnail>http://4.bp.blogspot.com/-xvZtVTL3uCc/VP_YI2cMqQI/AAAAAAAADf8/jjXMQ7sDmjw/s1600/tv3.jpg</thumbnail>
@@ -2227,10 +2550,7 @@
 			 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
 			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
 
-			<item>
-			<title>CANAL TV CANARIAS [COLOR gray](aporte David)[/COLOR]</title>
-			<link>rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/enDirecto.aspx?canal=tv</link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
+
 
 			<item>
 			<title>CANAL EXTREMADURA [COLOR gray](aporte David)[/COLOR]</title>
@@ -2255,7 +2575,7 @@
 			
 
 			<item><title>[COLOR coral]TELEDEPORTE[/COLOR]</title><link>http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195373/index_4128_av-p.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]NOVA-neox[/COLOR]</title><link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8?hd=10&rebase=on</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
 			<item><title>[COLOR coral]HOGARUTIL[/COLOR]</title><link>http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]24H[/COLOR]</title><link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
@@ -2522,10 +2842,7 @@
 <title>Teledeporte</title><thumbnail>http://www.formulatv.com/fotos/a/76000/76431/t9rujn4whi8z8o1bgt4cb74ae3754ac_logo-teledeporte_p.png</thumbnail>
 <link>http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8</link>
 </item>
-<item>
-<title>13tv</title><thumbnail>http://1.bp.blogspot.com/-wy_aWa-BFu8/UE6PdMavkOI/AAAAAAAAEhc/gW36DmJpUfo/s1600/13tvlogonuevo.jpg</thumbnail>
-<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ=</link>
-</item>
+
 <item>
 <title>24h (rtve.es)</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png</thumbnail>
 <link>http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8</link>
