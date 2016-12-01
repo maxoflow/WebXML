@@ -22,6 +22,12 @@
         <thumbnail>http://horebgualan.org/wp-content/uploads/2016/01/programacion_tv-600x400.png</thumbnail>
         <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
         </item>
+		
+		
+		
+	<item><title>                           </title><link>http://ignora.me</link></item>
+	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]TDT[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
+
 
 
 			<item>
@@ -137,6 +143,32 @@
 
 
 
+<item>
+<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR]</title>       
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=Gran Hermano 17  &amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcinestrenostvgh17_bfo6ov9%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
+<thumbnail> </thumbnail>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 m Safari/537.36</agent>
+<cookieJar></cookieJar>
+</item>
+
+  <item>
+<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR][COLOR gray][I] Sportsdevil[/I][/COLOR]</title> 
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil><referer>http://www.oranline.com/</referer>
+ </item> 
+
+ <item>
+<title>GRAN HERMANO 17</title>
+<link>http://cdn.sitenow.me/live/cinestrenostvgh17_bfo6ov9/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+	<item><title>                           </title><link>http://ignora.me</link></item>
+	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Movistar +[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
+
+
+
 <item><title>[COLOR chartreuse]M+ #0[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]#0 - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar+-0.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
 
 <item>
@@ -149,6 +181,12 @@
  <title>[COLOR lightblue]CANAL+ #0[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
+</item>
+
+<item>
+<title>CANAL+0</title>
+<link>http://185.39.9.162/live/plus0_b0xk990/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -850,6 +888,11 @@
 
 
 
+	<item><title>                           </title><link>http://ignora.me</link></item>
+	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Infantiles[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
+
+
+
 <item>
 <title>CANAL DISNEY JUNIOR</title>
 <link>http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
@@ -901,98 +944,6 @@
 
 
 
-
-			
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>CANAL PLAY BOY TV</title>
-<link>http://cdn.sitenow.me/live/playboy_13t2qf3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL VENUS</title>
-<link>http://cdn.sitenow.me/live/venus_157y379/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL HUSTLER TV</title>
-<link>http://cdn.sitenow.me/live/hustlertv_9c7o2m2/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL REDLIGHT</title>
-<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL HOT</title>
-<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-	
-
-
-<item>
-<title>BEIN SPORTS LA LIGA OPCION 1</title>
-<link>http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-
- 
-<item>
-<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR]</title>       
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=Gran Hermano 17  &amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcinestrenostvgh17_bfo6ov9%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
-<thumbnail> </thumbnail>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 m Safari/537.36</agent>
-<cookieJar></cookieJar>
-</item>
-	
-	 
-  <item>
-<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR][COLOR gray][I] Sportsdevil[/I][/COLOR]</title> 
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil><referer>http://www.oranline.com/</referer>
- </item> 
-	
-	
-	<tem><title>[COLOR deepskyblue]Bilbao Ajedrez[/COLOR]</title>
-	
-	<link>rtmp://stream02.linaresdigital.com/sic/ playpath=retransmision swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf pageUrl=http://www.sichess.com/bilbao16/comen_bilbao.php</link>
-	<thumbnail></thumbnail></item>
-	
-	
-
-
-
-			
-			
-
-			
-			
 			<item>
 			<title>[COLOR deepskyblue]24 Horas[/COLOR]</title>
 			<link>http://hlslive.rtve.es/24H_LV3_IPH/master.m3u8</link>
@@ -1007,340 +958,485 @@
 			<title>[COLOR deepskyblue]24 Horas[/COLOR]</title>
 			<link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8</link>
 			<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/24h.png</thumbnail></item>
-			
 
-			
-			
+			<item><title>[COLOR coral]24H[/COLOR]</title><link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
-			
+			<item><title>[COLOR coral]24HORAS[/COLOR]</title><link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
+<item>
+<title>24h (rtve.es)</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png</thumbnail>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8</link>
+</item>
+
+
+
+<item><title>[COLOR deepskyblue]euroNews[/COLOR]</title><link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/euronews.png</thumbnail></item>
+
+
+
+<item>
+<title>CANAL INTERCONOMIA</title>
+<link>http://edge3.adnstream.com:81/hls/intereconomia.m3u8|Referer=http://biophobia.tv/nacionales/intereconomiaonline.php</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>libertad digi  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://stream-09.vty.dailymotion.com/32/dm/1/xnm032/live.isml/evenm3u8(live-1446769719)/live-audio=128000-video=496000.m3u8</link></item> 
+
+		<item>
+			<title>Libertad Digital</title>
+			<thumbnail>http://especiales.libertaddigital.com/debate-subida-iva/img/logo.png</thumbnail>
+			<link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
+		</item>
+
+			<item>
+			<title>LIBERTAD DIGITAL TV (HD) </title>
+			<link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+<item>
+<title>Libertad Digital</title><thumbnail>http://especiales.libertaddigital.com/debate-subida-iva/img/logo.png</thumbnail>
+<link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
+</item>
+
+
+
+	<item><title>                           </title><link>http://ignora.me</link></item>
+	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Locales[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
+
+
+
+                <item>
+                        <title>Telemadrid</title>
+                        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/9c/Telemadrid.gif</thumbnail>
+                        <link>rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1</link>
+                </item>
+
+			<item><title>[COLOR coral]TELEMADRID[/COLOR]</title><link>http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+
+
+		<item>
+			<title>La Otra</title>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/LaOtra-Logo-2014.png/245px-LaOtra-Logo-2014.png</thumbnail>
+			<link>rtmp://laotralivefs.fplive.net:1935/laotralive-live/stream1</link>
+		</item>
+
+<item>
+<title>La Otra</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/LaOtra-Logo-2014.png/245px-LaOtra-Logo-2014.png</thumbnail>
+<link>rtmp://laotralivefs.fplive.net/laotralive-live?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=/stream1?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=</link>
+</item>
+
+
+
+                <item>
+                        <title>ETB SAT</title>
+                        <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6yCfua9ODv5_aADPL1UybIKYrVBgLDRn5_rkb_SxXz4QXqrZRyA</title>
+                        <link>http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8</link>
+                </item>
+				
+<item>
+<title>ETB SAT</title><thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6yCfua9ODv5_aADPL1UybIKYrVBgLDRn5_rkb_SxXz4QXqrZRyA<referer>
+<link>http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&lineUpId=&pubId=102076681001&playerId=3255438695001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,235&r=ALLBH&g=XRIFBBMKQYKI</link>
+</item>
 			
+<item><title>etb sat  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&lineUpId=&pubId=102076681001&playerId=3255438696001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN[/url] 17,0,0,134&r=DGGGX&g=PIYPTRDVTAIH</link></item>  
+
+			<item><title>[COLOR coral]ETB[/COLOR]</title><link>rtmp://cp70268.live.edgefcs.net/live/eitb-ETBSat@5219</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+				
+<item><title>eitb  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8?</link></item>     
+
+
+
+                <item>
+                        <title>TV3</title>
+                        <thumbnail>http://4.bp.blogspot.com/-xvZtVTL3uCc/VP_YI2cMqQI/AAAAAAAADf8/jjXMQ7sDmjw/s1600/tv3.jpg</thumbnail>
+                        <link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8?DVR</link>
+                </item>
+
+			<item><title>[COLOR coral]TV3[/COLOR]</title><link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8 </link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+                <item>
+                        <title>TV3 CAT</title>
+                        <thumbnail>http://1.bp.blogspot.com/-ySeGWLqgavQ/VEiCuOQTtFI/AAAAAAAABw8/6KAyaNAhRJk/s320/1283424208592.jpg</thumbnail>
+                        <link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
+                </item>
+			
+			<item>
+			<title>TV3 Catalan</title>
+			<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/tv3.jpg</thumbnail></item>
+
+			<item>
+			<title>TV3cat (HD) </title>
+			<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+			<item>
+			<title>CANAL TV3 CATALAN [COLOR gray](aporte David)[/COLOR]</title>
+			 <link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+			<item><title>[COLOR coral]TV3CAT[/COLOR]</title><link>http://tv3catnogeo-live.hls.adaptive.level3.net/tv3/tv3cat/tv3cat/tv3cat.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+<item>
+<title>TV3 CAT</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/5/51/Tv3_logo2005.jpg</thumbnail>
+<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
+</item>
+
+
+
+                <item>
+                        <title>8 TV Andalucía</title>
+                        <thumbnail>http://www.audiovisual451.com/wp-content/uploads/8tv-Andalucia-logo.jpeg</title>
+                        <link>http://cls.todostreaming.eu/unatv/live/chunklist.m3u8</link>
+                </item>
+				
+				
+
+                <item>
+                        <title>8 TV Barcelona</title>
+                        <thumbnail>http://3.bp.blogspot.com/-rF0Ldmtco1Y/VTIZEPpa4RI/AAAAAAAAE38/IglIiyq2nfQ/s1600/8TV%2Bbarcelona.png</thumbnail>
+                        <link>rtmp://91.121.143.193:1935/liverepeater/8TV/8aldia-directe</link>
+                </item>
+				
+			<item>
+			<title>CANAL 8TV CATALAN </title>
+			 <link>rtmp://streaming.8tv.cat:1935/8TV?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId= playpath=8aldia-directe?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20141117.1347/federatedVideoUI/BrightcovePlayer.swf?uid=1423598267178 live=1 pageUrl=http://www.8tv.cat/directe/</link>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+<item><title>8tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1665894152.m3u8</link></item>     
+
+<item><title>8tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8</link></item>  
+
+
+
+                <item>
+                        <title>3/24</title>
+                        <thumbnail>http://1.bp.blogspot.com/-zYwswRom3oY/VP_Z0__IxJI/AAAAAAAADgI/JPVTj9uzYx8/s1600/3-24_logo2014.png</thumbnail>
+                        <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8?DVR</link>
+                </item>
+
+<item><title>3/24  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link></item> 
+
+
+
+
+		<item>
+			<title>La Xarxa TV</title>
+			<thumbnail>http://1.bp.blogspot.com/-QK7LCW7YPbA/VWYf96FC8tI/AAAAAAAAFZ8/blU5xAzjozo/s1600/laxarxa-quadrat_1.png</thumbnail>
+			<link>rtmp://video-streaming.laxarxa.com/xal1/directe</link>
+		</item>
+
+ <item><title>valles oriental  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://video-streaming.laxarxa.com:1935/ocasional5/directe/.m3u8</link></item>     
+
+		<item>
+			<title>Vallès Oriental</title>
+			<thumbnail>http://4.bp.blogspot.com/-8XkCN3EM6nA/VTOj31jyBpI/AAAAAAAAE7I/774C8-QlrGo/s1600/tv%2Bvalles%2Boriental.gif</thumbnail>
+			<link>rtmp://video-streaming.laxarxa.com/ocasional5/directe</link>
+		</item>
+
+<item><title>votv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://video-streaming.laxarxa.com/ocasional5/directe</link></item>  
+
+
+
+                <item>
+                        <title>Canal Sur Andalucía</title>
+                        <thumbnail>http://www.satexpat.com/img/cha/es/andaluciaTV_95x75.gif</thumbnail>
+                        <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+                </item>
+				
+			<item>
+			<title>Canal Sur Andalucia (SD) </title>
+			<link>http://195.10.10.213/rtva/andaluciatelevisionh264.flv?GKID=ac47d694410111e4bf3d00163e914f69</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+                <item>
+                        <title>Canal Sur TV</title>
+                        <thumbnail>http://1.bp.blogspot.com/-o6IuwYhqHoU/VWQ_a02jgII/AAAAAAAAFZs/sFOXHdJEUJw/s1600/canal_sur_tv.png</thumbnail>
+                        <link>http://195.55.74.203/rtva/eventos.flv</link>
+                </item>
+				
+			<item>
+			<title>Canal Sur</title>
+			<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/canalsur.jpg</thumbnail></item>
+			
+			<item>
+			<title>CANAL SUR [COLOR gray](aporte David)[/COLOR]</title>
+			 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
+			
+<item>
+<title>Canal Sur 1</title><thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYX0ltAAsoJUSmWRkvrqgGOntwE5tgVz1d6yUZ9LqLp33ic50Q<referer>
+<link>http://195.10.10.225/rtva/champions.flv</link>
+</item>
+
+
+
+                <item>
+                        <title>Andalucía TV</title>
+                        <thumbnail>http://2.bp.blogspot.com/-FKautDJt_Ls/VWQ9eAbXHwI/AAAAAAAAFZg/DoWM3CQahyw/s1600/ATV_Andalucia_Television.png</thumbnail>
+                        <link>http://195.55.74.208/rtva/champions.flv</link>
+                </item>
+				
+			<item><title>[COLOR coral]ANDALUCIATV[/COLOR]</title><link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+<item><title>andalucia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u</link></item>  
+
+<item>
+<title>Andalucia TV</title><thumbnail>http://gmkfreelogos.com/logos/A/img/Andalucia_Television.gif<referer>
+<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+</item>
+			
+			
+			
+			<item><title>[COLOR coral]ANDALUCIATV2[/COLOR]</title><link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+
+
+<item>
+<title>CANAL GALEGA TV</title>
+<link>http://media3.crtvg.es/live/tvge_2/chunklist_w1706595984.m3u8|Referer=http://cinestrenostv.tv/canales/autonomicos/galiciatv.php</link>
+<thumbnail></thumbnail>
+</item>
+
+			<item>
+			<title>CANAL TELVISIO DE GALICIA  [COLOR gray](aporte David)[/COLOR]</title>
+			<link>http://media3.crtvg.es/live/tvge/playlist.m3u8 </link>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+			<item><title>[COLOR coral]TVGALICIA[/COLOR]</title><link>http://media3.crtvg.es/live/tvga/hasbahca.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+<item>
+<title>Galicia TV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png</thumbnail>
+<link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
+</item>
+
+			<item><title>[COLOR coral]GALICIA[/COLOR]</title><link>http://media3.crtvg.es/live/tvge/sota.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+                <item>
+                        <title>Galicia TV América</title>
+                        <thumbnail>http://1.bp.blogspot.com/-LEsNU8oOnH4/UZev6GSNiNI/AAAAAAAAEHU/HBpft8oPiiA/s320/TV+Galicia.jpg</thumbnail>
+                        <link>http://media3.crtvg.es:80/live/_definst_/tvga_2/playlist.m3u8</link>
+                </item>
+
+                <item>
+                        <title>Galicia TV Europa</title>
+                        <thumbnail>http://1.bp.blogspot.com/-LEsNU8oOnH4/UZev6GSNiNI/AAAAAAAAEHU/HBpft8oPiiA/s320/TV+Galicia.jpg</thumbnail>
+                        <link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
+                </item>
+				
+			<item>
+			<title>TVG Galicia America </title>
+			<link>http://media3.crtvg.es/live/tvga/playlist.m3u8</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+
+
+                <item>
+                        <title>IB3 Balears</title>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png</thumbnail>
+                        <link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3</link>
+                </item>
+				
+			<item><title>[COLOR coral]IB3[/COLOR]</title><link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+			<item><title>[COLOR coral]BALEARESTV[/COLOR]</title><link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+<item>
+<title>IB3</title><thumbnail>http://www.nobadis.es/wp-content/uploads/2012/05/nobadis-mallorca-ib-3-logo.jpg</thumbnail>
+<link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://ib3cdn.s3.amazonaws.com/player/player.swf live=1</link>
+</item>
+
+
+
+                <item>
+                        <title>Aragón TV</title>
+                        <thumbnail>http://www.tobesolutions.com/clientes/aragon-television/images/logo.png</thumbnail>
+                        <link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link>
+               
+                </item>
+				
+			<item>
+			<title>Aragon TV </title>
+			<link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+			
+			<item><title>[COLOR coral]ARAGONTV[/COLOR]</title><link>http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8 </link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+			<item><title>[COLOR coral]ARAGON[/COLOR]</title><link>http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+			<item><title>[COLOR coral]ARAGONTV[/COLOR]</title><link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+
+
+                <item>
+                        <title>7 HD TV Región de Murcia</title>
+                        <thumbnail>http://4.bp.blogspot.com/-hBnJ1jVXSMg/VW3yBroe0HI/AAAAAAAAFgQ/NGlG3PFmYrY/s1600/7-television-region-mucia...jpg</thumbnail>
+                        <link>rtmp://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv</link>
+                </item>
+
+<item><title>7murcia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/.m3u8</link></item>
+
+
+
+                <item>
+                        <title>TeleAsturias</title>
+                        <thumbnail>http://3.bp.blogspot.com/-_jZIDL0v2_g/VTIP3G6aP4I/AAAAAAAAE3g/y4dTRj7bv4w/s1600/teleasturias-2004-720-copia.gif</thumbnail>
+                        <link>rtmp://149.11.34.6:1935/live//teleasturias.stream</link>
+                </item>
+
+			<item><title>[COLOR coral]ASTURIAS[/COLOR]</title><link>rtmp://149.11.34.6:1935/live//teleasturias.stream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+			<item><title>[COLOR coral]ASTURIAS[/COLOR]</title><link>rtmp://149.11.34.6/live/teleasturias.stream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+                <item>
+                        <title>Asturias 7</title>
+                        <thumbnail>http://www.rtpa.es/fotos/10/06/121275553780_TPAlogo09.jpg</thumbnail>
+                        <link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+                </item>
+
+			<item><title>[COLOR coral]TP7ASTURIAS[/COLOR]</title><link>http://195.10.10.209/rtpa/tv.flv?GKID=2b1a6294f48f11e3bcc100163ea2c744</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+<item><title>asturias7´  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link></item>     
+
+</item>
+<item>
+<title>Asturias 7</title><thumbnail>http://blog.galaxy-innovations.es/wp-content/uploads/2011/10/RTPA_logo.svg_.png</thumbnail>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+</item>
+
+
+
+                <item>
+                        <title>Canal Extremadura</title>
+                        <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9kH2zyArid4KIawXKsBVI6C80c1YrZY_VLePhZxMuMXuvqGJy</title>
+                        <link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+                </item>			
+
+			<item>
+			<title>Canal Extremadura </title>
+			<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+			<thumbnail></thumbnail>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+			<item>
+			<title>CANAL EXTREMADURA [COLOR gray](aporte David)[/COLOR]</title>
+			<link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo</link>
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+<item><title>extremadura  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link></item>         
+
+<item>
+<title>Canal Extremadura</title><thumbnail>http://llerena.org/archivos/fotos/actualidad/logo%20Canal%20Extremadura%20Tv.jpg</thumbnail>
+<link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo</link>
+</item>
+
+
+
+                <item>
+                        <title>Castilla y León TV</title>
+                        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_CyLTV.svg/305px-Logo_CyLTV.svg.png</thumbnail>
+                        <link>rtmp://cdn.s5.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698ext</link>
+                </item>
+
+<item>
+<title>Castilla y León TV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_CyLTV.svg/305px-Logo_CyLTV.svg.png</thumbnail>
+<link>rtmp://cdn.s10.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698ext</link>
+</item>
+
+			<item><title>[COLOR coral]CASTILLA[/COLOR]</title><link>http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+                <item>
+                        <title>Castilla-La Mancha TV</title>
+                        <thumbnail>https://yt3.ggpht.com/-DSfVb7sZ4Q8/AAAAAAAAAAI/AAAAAAAAAAA/SKNsxZbWqb8/s900-c-k-no/photo.jpg</thumbnail>
+                        <link>http://195.55.74.210/rtvcm/live.flv</link>
+                </item>
+
+
+
+		<item>
+			<title>Mediterráneo TV</title>
+			<thumbnail>http://1.bp.blogspot.com/-98itA1qi42U/VT-o00Lp7DI/AAAAAAAAFKQ/E0zPcXzW9RI/s1600/Mediterr%C3%A1neo%2BTV.gif</thumbnail>
+			<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8</link>
+		</item>
+
+			<item><title>[COLOR coral]MEDITERRANEO[/COLOR]</title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/DVR_b600000_w555613878.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+<item><title>TV Mediterreneo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8</link></item>   
+
+
+
+	<item><title>                           </title><link>http://ignora.me</link></item>
+	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Adultos[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
+
+
+
+<item>
+<title>CANAL PLAY BOY TV</title>
+<link>http://cdn.sitenow.me/live/playboy_13t2qf3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL VENUS</title>
+<link>http://cdn.sitenow.me/live/venus_157y379/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL HUSTLER TV</title>
+<link>http://cdn.sitenow.me/live/hustlertv_9c7o2m2/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL REDLIGHT</title>
+<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>CANAL HOT</title>
+<link>http://cdn.sitenow.me/live/hot_asn3cnv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
 	
- 
-<item><title>[COLOR deepskyblue]euroNews[/COLOR]</title><link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/euronews.png</thumbnail></item>
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<item>
+<title>BEIN SPORTS LA LIGA OPCION 1</title>
+<link>http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+	
+	<tem><title>[COLOR deepskyblue]Bilbao Ajedrez[/COLOR]</title>
+	
+	<link>rtmp://stream02.linaresdigital.com/sic/ playpath=retransmision swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf pageUrl=http://www.sichess.com/bilbao16/comen_bilbao.php</link>
+	<thumbnail></thumbnail></item>
 
 <item><title>[COLOR chartreuse]Caza y Pezca[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Caza y pesca - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcazaypesca_bawvnvf%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/caza-y-pesca.jpg</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
 
-
-
-
- 
- 
- 
-
-
-
-
-<!--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--->
-
-
-
-
-
-
-
-
-	<item><title>                           </title><link>http://ignora.me</link></item>
-	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Movistar Plus[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<item><title>                           </title><link>http://ignora.me</link></item>
-	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Digital[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- #################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################### -->
-	
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- #################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################### -->
-
-
-
-
-	<item><title>                           </title><link>http://ignora.me</link></item>
-	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Sportsdevil Requerido [/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
->
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- #################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################### -->
-		
-		
-		
-		
-		
-		
 		
 
 <item>
@@ -1370,105 +1466,15 @@
 <page>http://cinestrenostv.tv/canales/emision1/cazaypesca.html</page>
 <referer>http://cinestrenostv.tv/</referer>
 </regex>
- 
 </item>
-
-
-
-
-
-
-
-
-
-
-		
-			
-			
-			
-			
-	
-			
-			
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<!--
-	
 	
 <item>
 <title>[COLOR lightblue]Plus 1*[/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
 <link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68II swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>	
-
-
-
-
-
-
-
-
-
-
-
-
-	
-			
-
- 
--->
  
  
  
 <item><sportsdevil>http://canales.telefivegb.com/cazaypesca.php</sportsdevil><referer>http://cinestrenostv.tv</referer><title>[COLOR skyblue][ strenos.Tv][/COLOR]  ver caza y pesca  </title><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/caza-y-pesca.jpg</thumbnail><info>ver caza y pesca  </info> </item>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <item>
-<title>GRAN HERMANO 17</title>
-<link>http://cdn.sitenow.me/live/cinestrenostvgh17_bfo6ov9/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CANAL+0</title>
-<link>http://185.39.9.162/live/plus0_b0xk990/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-
-
-
-<item>
-
-</item>
-
-
-
 
 
 
@@ -1625,41 +1631,11 @@
 <thumbnail></thumbnail>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>CANAL INTERCONOMIA</title>
-<link>http://edge3.adnstream.com:81/hls/intereconomia.m3u8|Referer=http://biophobia.tv/nacionales/intereconomiaonline.php</link>
-<thumbnail></thumbnail>
-</item>
 <item>
 <title>CANAL TELEDEPORTE</title>
 <link>http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>CANAL GALEGA TV</title>
-<link>http://media3.crtvg.es/live/tvge_2/chunklist_w1706595984.m3u8|Referer=http://cinestrenostv.tv/canales/autonomicos/galiciatv.php</link>
-<thumbnail></thumbnail>
-</item>
-
-
 
 <item>
 <title>CANAL SUPER3</title>
@@ -1667,92 +1643,27 @@
 <thumbnail></thumbnail>
 </item>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
-
-			
-
-
-			
-	
-	
 	<item>
         <title>Hogar Util</title>
         <link>http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN 11,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB</link>
         <thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/hogarutil.png</thumbnail></item>
-		
-		
+
 
 		
-			
-			
 			<item>
 			<title>Tribu TV</title>
-			<link>http://tribotv-ch01-live-cdn1-hls.streaming.overon.es/tribotv/channel01/tribotv/bitrate_3.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tribu-tv.png</thumbnail></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-
-			
-			
-			
-			
-			 
-			
-			
-
-			 
-			
-			
-			
-			
-			
+			<link>http://tribotv-ch01-live-cdn1-hls.streaming.overon.es/tribotv/channel01/tribotv/bitrate_3.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tribu-tv.png</thumbnail></item>
 			
 			
 			
 			<item>
 			<title>[COLOR cyan]###### Locales #####[/COLOR]</title>
 			<link>http://tribotv-ch01-live-cdn1-hls.streaming.overon.es/tribotv/channel01/tribotv/bitrate_3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-			
-			
-			
 
 
-                <item>
-                        <title>3/24</title>
-                        <thumbnail>http://1.bp.blogspot.com/-zYwswRom3oY/VP_Z0__IxJI/AAAAAAAADgI/JPVTj9uzYx8/s1600/3-24_logo2014.png</thumbnail>
-                        <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8?DVR</link>
-                </item>
-                <item>
-                        <title>7 HD TV Región de Murcia</title>
-                        <thumbnail>http://4.bp.blogspot.com/-hBnJ1jVXSMg/VW3yBroe0HI/AAAAAAAAFgQ/NGlG3PFmYrY/s1600/7-television-region-mucia...jpg</thumbnail>
-                        <link>rtmp://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv</link>
-                </item>
-                <item>
-                        <title>8 TV Andalucía</title>
-                        <thumbnail>http://www.audiovisual451.com/wp-content/uploads/8tv-Andalucia-logo.jpeg</title>
-                        <link>http://cls.todostreaming.eu/unatv/live/chunklist.m3u8</link>
-                </item>
-                <item>
-                        <title>8 TV Barcelona</title>
-                        <thumbnail>http://3.bp.blogspot.com/-rF0Ldmtco1Y/VTIZEPpa4RI/AAAAAAAAE38/IglIiyq2nfQ/s1600/8TV%2Bbarcelona.png</thumbnail>
-                        <link>rtmp://91.121.143.193:1935/liverepeater/8TV/8aldia-directe</link>
-                </item>
+
                 <item>
                         <title>10 TV</title>
                         <thumbnail>http://www.revistaelobservador.com/images/stories/envios_15/marzo/10tv.jpg</thumbnail>
@@ -1795,11 +1706,7 @@
                         <thumbnail>http://4.bp.blogspot.com/-1L_Sf7_peAg/VTqRkLO5nBI/AAAAAAAAFFs/0Gl8DOvkcKI/s1600/alfa-tv.png</thumbnail>
                         <link>rtmp://streamer1.streamhost.org/salive/GMIalfah</link>
                 </item>
-                <item>
-                        <title>Andalucía TV</title>
-                        <thumbnail>http://2.bp.blogspot.com/-FKautDJt_Ls/VWQ9eAbXHwI/AAAAAAAAFZg/DoWM3CQahyw/s1600/ATV_Andalucia_Television.png</thumbnail>
-                        <link>http://195.55.74.208/rtva/champions.flv</link>
-                </item>
+
                 <item>
                         <title>Andorra TV</title>
                         <thumbnail>http://www.inakirubio.com/wp-content/uploads/2014/07/AndorraTV_logo2005-300x226.png</thumbnail>
@@ -1810,17 +1717,8 @@
                         <thumbnail>http://4.bp.blogspot.com/-8Qma9HwpCgc/VTM3rU5rAOI/AAAAAAAAE4o/r6R2DlGB9jk/s1600/ANTAQUIRA-TV.png</thumbnail>
                         <link>rtmp://37.187.108.127:554/las4esquinas/radiostation.stream1</link>
                 </item>
-                <item>
-                        <title>Aragón TV</title>
-                        <thumbnail>http://www.tobesolutions.com/clientes/aragon-television/images/logo.png</thumbnail>
-                        <link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link>
-               
-                </item>
-                <item>
-                        <title>Asturias 7</title>
-                        <thumbnail>http://www.rtpa.es/fotos/10/06/121275553780_TPAlogo09.jpg</thumbnail>
-                        <link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
-                </item>
+
+
                 <item>
                         <title>Atalaya TV</title>
                         <thumbnail>http://atalayatv.com/img/slide/logo.png</thumbnail>
@@ -1881,26 +1779,13 @@
 			<thumbnail>http://www.architoledo.org/Player/CanalDiocesano300.png</thumbnail>
 			<link>rtmp://178.32.53.254/rtvd/livestream</link>
 		</item>
-                <item>
-                        <title>Canal Extremadura</title>
-                        <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9kH2zyArid4KIawXKsBVI6C80c1YrZY_VLePhZxMuMXuvqGJy</title>
-                        <link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
-                </item>
+
                 <item>
                         <title>Canal Parlamento</title>
                         <thumbnail>http://3.bp.blogspot.com/-5RT0WbUnMQA/VUPlEgHscxI/AAAAAAAAFL4/6QrU3WpoIJ8/s1600/Canal%2BParlamento.gif</thumbnail>
                         <link>http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8</link>
                 </item>
-                <item>
-                        <title>Canal Sur Andalucía</title>
-                        <thumbnail>http://www.satexpat.com/img/cha/es/andaluciaTV_95x75.gif</thumbnail>
-                        <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
-                </item>
-                <item>
-                        <title>Canal Sur TV</title>
-                        <thumbnail>http://1.bp.blogspot.com/-o6IuwYhqHoU/VWQ_a02jgII/AAAAAAAAFZs/sFOXHdJEUJw/s1600/canal_sur_tv.png</thumbnail>
-                        <link>http://195.55.74.203/rtva/eventos.flv</link>
-                </item>
+
                 <item>
                         <title>Canal Torrevisión</title>
                         <thumbnail>http://4.bp.blogspot.com/-x6fAWM1k7OE/VYSaU90Vy3I/AAAAAAAAFn8/S34jUUZAXjE/s1600/torrevision2.gif</thumbnail>
@@ -1912,16 +1797,7 @@
                         <thumbnail>http://www.cancionero.es/tv/images/fondo.jpg</thumbnail>
                         <link>rtmp://89.140.99.41/live/livestream</link>
                 </item>
-                <item>
-                        <title>Castilla-La Mancha TV</title>
-                        <thumbnail>https://yt3.ggpht.com/-DSfVb7sZ4Q8/AAAAAAAAAAI/AAAAAAAAAAA/SKNsxZbWqb8/s900-c-k-no/photo.jpg</thumbnail>
-                        <link>http://195.55.74.210/rtvcm/live.flv</link>
-                </item>
-                <item>
-                        <title>Castilla y León TV</title>
-                        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_CyLTV.svg/305px-Logo_CyLTV.svg.png</thumbnail>
-                        <link>rtmp://cdn.s5.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698ext</link>
-                </item>
+
 		<item>
 			<title>Cetelmon TV</title>
 			<thumbnail>https://pbs.twimg.com/profile_images/1366072507/Logotipo_Cetelmon_400x400.jpg</thumbnail>
@@ -1987,26 +1863,13 @@
                         <thumbnail>http://3.bp.blogspot.com/-AkCWWy-_ucI/VTP2BXM_fSI/AAAAAAAAE-k/Li5wTahwUuo/s1600/erlo-telebista-logo.png</thumbnail>
                         <link>rtmp://streaming5.streamteca.com/live/470QB</link>
                 </item>
-                <item>
-                        <title>ETB SAT</title>
-                        <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6yCfua9ODv5_aADPL1UybIKYrVBgLDRn5_rkb_SxXz4QXqrZRyA</title>
-                        <link>http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8</link>
-                </item>
+
                 <item>
                         <title>Fuengirola TV</title>
                         <thumbnail>http://2.bp.blogspot.com/-9F-sljesRbg/VSBSuA1RFAI/AAAAAAAAEUI/Eni_P1HMrOM/s1600/Fuengirola%2BTV.gif</thumbnail>
                         <link>http://flash3.todostreaming.es/nerja/livestream/playlist.m3u8</link>
                 </item>
-                <item>
-                        <title>Galicia TV Europa</title>
-                        <thumbnail>http://1.bp.blogspot.com/-LEsNU8oOnH4/UZev6GSNiNI/AAAAAAAAEHU/HBpft8oPiiA/s320/TV+Galicia.jpg</thumbnail>
-                        <link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
-                </item>
-                <item>
-                        <title>Galicia TV América</title>
-                        <thumbnail>http://1.bp.blogspot.com/-LEsNU8oOnH4/UZev6GSNiNI/AAAAAAAAEHU/HBpft8oPiiA/s320/TV+Galicia.jpg</thumbnail>
-                        <link>http://media3.crtvg.es:80/live/_definst_/tvga_2/playlist.m3u8</link>
-                </item>
+
                 <item>
                         <title>GOIERRI TB</title>
                         <thumbnail>http://1.bp.blogspot.com/-JKMctOiOQ50/VW85Bc_njfI/AAAAAAAAFjU/P9WKSUx-HxU/s1600/goitb.jpg</thumbnail>
@@ -2027,11 +1890,7 @@
                         <thumbnail>http://img.webme.com/pic/e/eric-cast/huesca.gif</thumbnail>
                         <link>rtmp://streaming2.radiohuesca.com/live/huescatv</link>
                 </item>
-                <item>
-                        <title>IB3 Balears</title>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png</thumbnail>
-                        <link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3</link>
-                </item>
+
 		<item>
 			<title>Imás TV</title>
 			<thumbnail>http://www.miciudadreal.es/wp-content/uploads/2013/12/imastv.jpg</thumbnail>
@@ -2062,16 +1921,8 @@
                         <thumbnail>http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png</thumbnail>
                         <link>rtmp://62.210.141.18:1935/directo playpath=lancelot.television swfUrl=http://www.lancelot.tv/directo/player.swf live=1 pageUrl=http://www.lancelot.tv/directo/</link>
                 </item>
-		<item>
-			<title>La Otra</title>
-			<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/LaOtra-Logo-2014.png/245px-LaOtra-Logo-2014.png</thumbnail>
-			<link>rtmp://laotralivefs.fplive.net:1935/laotralive-live/stream1</link>
-		</item>
-		<item>
-			<title>La Xarxa TV</title>
-			<thumbnail>http://1.bp.blogspot.com/-QK7LCW7YPbA/VWYf96FC8tI/AAAAAAAAFZ8/blU5xAzjozo/s1600/laxarxa-quadrat_1.png</thumbnail>
-			<link>rtmp://video-streaming.laxarxa.com/xal1/directe</link>
-		</item>
+
+
 		<item>
 			<title>Lebrija TV</title>
 			<thumbnail>https://pbs.twimg.com/profile_images/3086109443/760024bcac759f7ec8e77a902de67ce9_400x400.png</thumbnail>
@@ -2082,11 +1933,7 @@
 			<thumbnail>http://tecavicas.es/wp-content/uploads/2013/03/levante_tv_1.jpg</thumbnail>
 			<link>rtmp://teledifusion.tv/levantetvlive/levantetvlive</link>
 		</item>
-		<item>
-			<title>Libertad Digital</title>
-			<thumbnail>http://especiales.libertaddigital.com/debate-subida-iva/img/logo.png</thumbnail>
-			<link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
-		</item>
+
 		<item>
 			<title>LOCALIA TV ONTINYENT</title>
 			<thumbnail>http://1.bp.blogspot.com/-c65M0zvHxBs/VW4ZBNcuauI/AAAAAAAAFhU/kg03su00VgU/s1600/LOC%25C3%2580LIA%2BONTINYENT.jpeg</title>
@@ -2122,11 +1969,7 @@
 			<thumbnail>http://www.martv.tv/images/logo.png</thumbnail>
 			<link>http://streaminggalicia.com:1935/martv/canal1/playlist.m3u8</link>
 		</item>
-		<item>
-			<title>Mediterráneo TV</title>
-			<thumbnail>http://1.bp.blogspot.com/-98itA1qi42U/VT-o00Lp7DI/AAAAAAAAFKQ/E0zPcXzW9RI/s1600/Mediterr%C3%A1neo%2BTV.gif</thumbnail>
-			<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8</link>
-		</item>
+
 		<item>
 			<title>Mijas 3.40 TV</title>
 			<thumbnail>http://2.bp.blogspot.com/-EG-osEjxK7c/VTPKlXj6WVI/AAAAAAAAE88/uMIWxrZ6Unk/s1600/mijastv.png</thumbnail>
@@ -2287,11 +2130,7 @@
                         <thumbnail>https://pbs.twimg.com/profile_images/645214282305638400/rmFcYdC2.jpg</thumbnail>
                         <link>rtmp://streaming6.streamteca.com/live/WXPHL</link>
                 </item>
-                <item>
-                        <title>TeleAsturias</title>
-                        <thumbnail>http://3.bp.blogspot.com/-_jZIDL0v2_g/VTIP3G6aP4I/AAAAAAAAE3g/y4dTRj7bv4w/s1600/teleasturias-2004-720-copia.gif</thumbnail>
-                        <link>rtmp://149.11.34.6:1935/live//teleasturias.stream</link>
-                </item>
+
                 <item>
                         <title>TeleBahía</title>
                         <thumbnail>http://2.bp.blogspot.com/-Y4likzLmnZ4/VTOeRTePN_I/AAAAAAAAE6w/5qnnNXDqTFY/s1600/Tele-Bahia-TV.gif</thumbnail>
@@ -2312,11 +2151,7 @@
                         <thumbnail>http://www.operasionesespesiales.com/Imatges/logos/lo_teleelx.png</thumbnail>
                         <link>rtmp://teledifusion.tv/teleelx/teleelxlive</link>
                 </item>
-                <item>
-                        <title>Telemadrid</title>
-                        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/9c/Telemadrid.gif</thumbnail>
-                        <link>rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1</link>
-                </item>
+
                 <item>
                         <title>Telemiño</title>
                         <thumbnail>http://2.bp.blogspot.com/-7k-b6T3KHAo/VUPwavPyDEI/AAAAAAAAFMo/XmtdQyAlofs/s1600/telemi%C3%B1o.png</thumbnail>
@@ -2343,16 +2178,7 @@
                         <link>http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8</link>
                 </item>
 
-                <item>
-                        <title>TV3</title>
-                        <thumbnail>http://4.bp.blogspot.com/-xvZtVTL3uCc/VP_YI2cMqQI/AAAAAAAADf8/jjXMQ7sDmjw/s1600/tv3.jpg</thumbnail>
-                        <link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8?DVR</link>
-                </item>
-                <item>
-                        <title>TV3 CAT</title>
-                        <thumbnail>http://1.bp.blogspot.com/-ySeGWLqgavQ/VEiCuOQTtFI/AAAAAAAABw8/6KAyaNAhRJk/s320/1283424208592.jpg</thumbnail>
-                        <link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
-                </item>
+
 		<item>
 			<title>TV4 La Vall</title>
 			<thumbnail>http://2.bp.blogspot.com/-ypRAK6XEhQM/VE2aaolxvQI/AAAAAAAAB7s/ySCKuUmVY2U/s320/logo-Blue.png</thumbnail>
@@ -2428,11 +2254,7 @@
 			<thumbnail>http://www.lavozdeutrera.com/wp/wp-content/uploads/z-uvitel.jpg</thumbnail>
 			<link>http://iphone-streaming.ustream.tv/uhls/17796772/streams/live/iphone/playlist.m3u8</link>
 		</item>
-		<item>
-			<title>Vallès Oriental</title>
-			<thumbnail>http://4.bp.blogspot.com/-8XkCN3EM6nA/VTOj31jyBpI/AAAAAAAAE7I/774C8-QlrGo/s1600/tv%2Bvalles%2Boriental.gif</thumbnail>
-			<link>rtmp://video-streaming.laxarxa.com/ocasional5/directe</link>
-		</item>
+
 		<item>
 			<title>Vallès Visió</title>
 			<thumbnail>http://2.bp.blogspot.com/-txf2FWCJnmw/TxZf2zM-FkI/AAAAAAAASN0/pqYKrd6haTo/s200/valles%2Bvisio.jpg</thumbnail>
@@ -2447,59 +2269,9 @@
 			<title>Zaragoza TV</title>
 			<thumbnail>http://tv.ztv.es/common/img/logo.png</thumbnail>
 			<link>http://streaming.enetres.net/CD9843D3A4014583ACED8D757D30EAE5022/smil:live.smil/master.m3u8</link>
-		</item>
+		</item>	
 
 
-		
-			
-
-			
-			<item>
-			<title>Canal Sur</title>
-			<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/canalsur.jpg</thumbnail></item>
-			
-			<item>
-			<title>TV3 Catalan</title>
-			<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/tv3.jpg</thumbnail></item>
-			
-		
-			
-			
-			
-			
-			<item>
-			<title>LIBERTAD DIGITAL TV (HD) </title>
-			<link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-			<item>
-			<title>TV3cat (HD) </title>
-			<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-			<item>
-			<title>Canal Extremadura </title>
-			<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-			<item>
-			<title>TVG Galicia America </title>
-			<link>http://media3.crtvg.es/live/tvga/playlist.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-			<item>
-			<title>Canal Sur Andalucia (SD) </title>
-			<link>http://195.10.10.213/rtva/andaluciatelevisionh264.flv?GKID=ac47d694410111e4bf3d00163e914f69</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			
 			<item>
 			<title>Hallo TV </title>
@@ -2507,64 +2279,17 @@
 			<thumbnail></thumbnail>
 			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			
-			
-			<item>
-			<title>Aragon TV </title>
-			<link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-						
-
-			<item>
-			<title>CANAL TV3 CATALAN [COLOR gray](aporte David)[/COLOR]</title>
-			 <link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-
-			<item>
-			<title>CANAL 8TV CATALAN </title>
-			 <link>rtmp://streaming.8tv.cat:1935/8TV?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId= playpath=8aldia-directe?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20141117.1347/federatedVideoUI/BrightcovePlayer.swf?uid=1423598267178 live=1 pageUrl=http://www.8tv.cat/directe/</link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
 
 			<item>
 			<title>AUTONOMICA [COLOR gray](aporte David)[/COLOR]</title>
 			<link>rtmp://94.23.54.177/8TV playpath=8aldia-directe swfUrl=http://css01.mundodeportivo.com/imagenes/players/player.swf live=1 pageUrl=http://narrowcast.lavanguardia.com</link>
 			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
 
-			<item>
-			<title>CANAL TELVISIO DE GALICIA  [COLOR gray](aporte David)[/COLOR]</title>
-			<link>http://media3.crtvg.es/live/tvge/playlist.m3u8 </link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
 
 			<item>
 			<title>CANAL TELEVISION DE MELILLA [COLOR gray](aporte David)[/COLOR]</title>
 			 <link>rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html</link>
 			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-
-			<item>
-			<title>CANAL SUR [COLOR gray](aporte David)[/COLOR]</title>
-			 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
-
-
-
-			<item>
-			<title>CANAL EXTREMADURA [COLOR gray](aporte David)[/COLOR]</title>
-			<link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo</link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-
-			
-			
-			
-			
-
-
-
 			
 			
 			
@@ -2577,10 +2302,7 @@
 			<item><title>[COLOR coral]TELEDEPORTE[/COLOR]</title><link>http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195373/index_4128_av-p.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
 			<item><title>[COLOR coral]HOGARUTIL[/COLOR]</title><link>http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]24H[/COLOR]</title><link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
-			<item><title>[COLOR coral]ANDALUCIATV[/COLOR]</title><link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]ANDALUCIATV2[/COLOR]</title><link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]RADIO105[/COLOR]</title><link>rtmp://fms.105.net/live/105Test1</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
 			<item><title>[COLOR coral]ELCORREOTV[/COLOR]</title><link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
@@ -2599,13 +2321,9 @@
 			<item><title>[COLOR coral]TELE BILBAO[/COLOR]</title><link>rtmp://149.11.34.6:1935/live/telebilbao.stream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]TELE BILBAO 2[/COLOR]</title><link>rtmp://149.11.34.6/live/telebilbao.stream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]MALAGA[/COLOR]</title><link>mms://canallocal.ptvtelecom.com/PTV-MALAGA</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]CASTILLA[/COLOR]</title><link>http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]ETB[/COLOR]</title><link>rtmp://cp70268.live.edgefcs.net/live/eitb-ETBSat@5219</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
 			<item><title>[COLOR coral]CYL[/COLOR]</title><link>rtmp://cdn.s10.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698ext</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]IB3[/COLOR]</title><link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]ARAGON[/COLOR]</title><link>http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]MEDITERRANEO[/COLOR]</title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/DVR_b600000_w555613878.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]ASTURIAS[/COLOR]</title><link>rtmp://149.11.34.6:1935/live//teleasturias.stream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
 			<item><title>[COLOR coral]TOLEDO[/COLOR]</title><link>http://flash3.todostreaming.es/edesco/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]ANDORRA[/COLOR]</title><link>rtmp://194.158.80.31/live/web</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]MIRATV[/COLOR]</title><link>rtmp://tulip.wowzacontrol.com:1935/8150/8150</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
@@ -2615,69 +2333,44 @@
 			<item><title>[COLOR coral]HUELVACOSTA[/COLOR]</title><link>http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]ELDIATV[/COLOR]</title><link>rtmp://teledifusion.tv:1935/dia/dia</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]MELILLA[/COLOR]</title><link>http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]TP7ASTURIAS[/COLOR]</title><link>http://195.10.10.209/rtpa/tv.flv?GKID=2b1a6294f48f11e3bcc100163ea2c744</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
 			<item><title>[COLOR coral]RIBERA[/COLOR]</title><link>http://flash3.todostreaming.es/ribera/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]TV4[/COLOR]</title><link>http://flash3.todostreaming.es/15o8376r/mystream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]CADIZ[/COLOR]</title><link>http://flash3.todostreaming.es/unatv2/live/playlist.m3u8 </link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]24HORAS[/COLOR]</title><link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
-			<item><title>[COLOR coral]ARAGONTV[/COLOR]</title><link>http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8 </link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]DIOCESANO[/COLOR]</title><link>rtmp://flash3.todostreaming.es/edesco/livestream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]DIRECTOTV[/COLOR]</title><link>rtmp://87.106.183.39/live/myStream_2</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]ONDACEROTV[/COLOR]</title><link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live//stream-eventos6_1</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]HUELVATV[/COLOR]</title><link>http://flash3.todostreaming.es/huelvatv/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]BALEARESTV[/COLOR]</title><link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
 			<item><title>[COLOR coral]IBIZATV[/COLOR]</title><link>rm3u8p://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
 			<item><title>[COLOR coral]ELCORREOTV[/COLOR]</title><link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]RTPATV[/COLOR]</title><link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]SEVILLATV[/COLOR]</title><link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]RIOJATV[/COLOR]</title><link>mms://87.106.208.121/stv</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]TELEMADRID[/COLOR]</title><link>http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]TV3CAT[/COLOR]</title><link>http://tv3catnogeo-live.hls.adaptive.level3.net/tv3/tv3cat/tv3cat/tv3cat.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]TVGALICIA[/COLOR]</title><link>http://media3.crtvg.es/live/tvga/hasbahca.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
 			<item><title>[COLOR coral]EXTREMADURATV[/COLOR]</title><link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live//stream1</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]TELEDEPORTE[/COLOR]</title><link>http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8 </link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]TV3[/COLOR]</title><link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8 </link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]ARAGONTV[/COLOR]</title><link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]GALICIA[/COLOR]</title><link>http://media3.crtvg.es/live/tvge/sota.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
 			<item><title>[COLOR coral]FERROL[/COLOR]</title><link>rm3u8p://streaming.arsenet.com/tvf</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]ASTURIAS[/COLOR]</title><link>rtmp://149.11.34.6/live/teleasturias.stream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			
-			
-			
-			
-
-
-
-
-
-
-
-
-
-
 
 <item><title>gerona  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://tvgirona.dnssw.net:1935/live/Icontouch/.m3u8</link></item>     
 <item><title>canal33  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b548000.m3u8</link></item>
-<item><title>3/24  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link></item>     
-<item><title>8tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1665894152.m3u8</link></item>     
-<item><title>8tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8</link></item>     
+    
+   
 <item><title>btv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://flv-high.barcelonatv.stream.flumotion.com/barcelonatv/barcelonatv-high.flv.m3u?token=f12014e223e045d3a6a5f3620c7f39f5563c07c4563d5980</link></item>     
 <item><title>tvg  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://media3.crtvg.es/live/tvge_2/playlist.m3u8</link></item>     
-<item><title>eitb  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8?</link></item>     
+
 <item><title>olcadiz  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cloud1.cdnstreamserver.com/olcadiz/livestream1/.m3u8</link></item>     
-<item><title>andalucia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u</link></item>     
-<item><title>extremadura  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link></item>     <item><title>libertad digi  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://stream-09.vty.dailymotion.com/32/dm/1/xnm032/live.isml/evenm3u8(live-1446769719)/live-audio=128000-video=496000.m3u8</link></item>     
-<item><title>7murcia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/.m3u8</link></item>     
+
 <item><title>costa  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls2.todostreaming.eu/azahara/lepevision/chunklist.m3u8</link></item>     
 <item><title>el dia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/dia/dia/.m3u8</link></item>     
 <item><title>cas/mancha  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link></item>     
 <item><title>mirame  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cast.streamingconnect.tv:1935/2015mirame/2015mirame/.m3u8</link></item>     
 <item><title>navarra  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://live2.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/.m3u8</link></item>     
 <item><title>levante  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/levantetvlive/levantetvlive/.m3u8</link></item>     
-<item><title>asturias7´  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link></item>     
+
 <item><title>huelva  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/huelvatv/livestream/.m3u8</link></item>     
 
 <item><title>amaica  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://212.142.237.206:1935/hlive/osoa</link></item>
@@ -2700,10 +2393,6 @@
 <item><title>alcoia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://92.222.37.18:1935/hls?u=G99t&p=T99g/tvaxa?u=G99t&p=T99g</link></item> 
 <item><title>correo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8</link></item>     
 
-
-
-
-
 <item><title>correo opc2  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link></item>     
 <item><title>sevilla cf  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/master.m3u8</link></item>     
 <item><title>r madrid  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link></item>    
@@ -2717,7 +2406,6 @@
  <item><title>teleelx  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/teleelx/teleelxlive/chunklist_w2011426277.m3u8</link></item>    
  <item><title>valencia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8</link></item>     
  <item><title>mola  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cdns724ste1010.multistream.net/molatv1live/amlst:live/.m3u8</link></item>     
- <item><title>valles oriental  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://video-streaming.laxarxa.com:1935/ocasional5/directe/.m3u8</link></item>     
  <item><title>catilla la mancha  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cast.streamingconnect.tv:1935/laregional/laregional/.m3u8</link></item>     
  <item><title>intercomarcal  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://37.187.225.46:1935/hls?u=Gy9T&p=Y0xG/tvixa?u=Gy9T&p=Y0xG 
  <item><title>101  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</link></item>     
@@ -2737,41 +2425,29 @@
 <item><title>Estepona   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://37.187.108.127:554/esteponatv/radiostation.stream</link></item>  
  <item><title>Costa del Sol TV Fuengirola   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://flash0.80385-live0.dna.qbrick.com/80385-live0/costa</link></item>  
  <item><title>c7   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/smil:live.smil/master.m3u8</link></item>    
-<item><title>TV Mediterreneo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8</link></item>     
+  
 <item><title>ANDORRA TV  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link></item>     
 <item><title>tvcs castellon  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8</link></item>     
 <item><title>tv comarcal  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://iphone-streaming.ustream.tv/uhls/17652616/streams/live/iphone/playlist.m3u8</link></item>   
 
-
-  
 <item><title>stv rioja  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>mms://www.riojasintonia.com/stv</link></item>  
-<item><title>etb sat  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&lineUpId=&pubId=102076681001&playerId=3255438696001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN[/url] 17,0,0,134&r=DGGGX&g=PIYPTRDVTAIH</link></item>  
+
 <item><title>Erlo Telebista   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://streaming4.streamteca.com/live/470QB</link></item>  
 <item><title>teledonosti  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://brightcove.fc.llnwd.net:443/brightcove/047?videoId=374610760001&lineUpId=&pubId=85688294001&playerId=292369646001&affiliateId=/live-directo-diariovasco?videoId=374610760001&lineUpId=&pubId=85688294001&playerId=292369646001&affiliateId=</link></item>  
 <item><title>navarra  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext</link></item>  
 <item><title>canal 8  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://iphone-streaming.ustream.tv/uhls/18640089/streams/live/iphone/playlist.m3u8</link></item>     
 
-
-
 <item><title>Lux Mallorca  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://fl1.viastreaming.net/canal37/livestream</link></item>  
-<item><title>votv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://video-streaming.laxarxa.com/ocasional5/directe</link></item>  
+
 <item><title>CT valles  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://iphone-streaming.ustream.tv/uhls/14420271/streams/live/iphone/playlist.m3u8</link></item>     
 <item><title>toledo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u</link></item>     
 <item><title>RTV Marbella   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link></item>     
 <item><title>Onda Azul  malaga  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8</link></item>     
-<item><title>onda cadiz  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://livestream-f.akamaihd.net/5491293_2409671_9ab4410a_1_678@99886?v=3.6.0&fp=WIN%2019,0,0,226&r=TKERF&g=HCUFJTTUFLNI</link></item>  
-
-
-		
-		
-		
+<item><title>onda cadiz  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://livestream-f.akamaihd.net/5491293_2409671_9ab4410a_1_678@99886?v=3.6.0&fp=WIN%2019,0,0,226&r=TKERF&g=HCUFJTTUFLNI</link></item>  		
 		
 		<item>
 <title>News</title>
-<link>http://www.dailymotion.com/cdn/live/video/events(live_src-1449598552)/live_src-audio=65536-video=460800.m3u8</link></item>  
-		
-	
-	
+<link>http://www.dailymotion.com/cdn/live/video/events(live_src-1449598552)/live_src-audio=65536-video=460800.m3u8</link></item>	
 		
 		<item>
 <title>News</title>
@@ -2794,42 +2470,6 @@
 </regex>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-		   
-		   
-		   
-		   
-		   
-		   
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
 <title>Sevilla FC</title><thumbnail>http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png</thumbnail>
 <link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc</link>
@@ -2844,17 +2484,10 @@
 </item>
 
 <item>
-<title>24h (rtve.es)</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png</thumbnail>
-<link>http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8</link>
-</item>
-<item>
 <title>Intereconomia</title><thumbnail>http://www.inmomatica.com/diario/wp-content/uploads/2010/02/logo-intereconomia-285x300.jpg</thumbnail>
 <link>http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8</link>
 </item>
-<item>
-<title>Libertad Digital</title><thumbnail>http://especiales.libertaddigital.com/debate-subida-iva/img/logo.png</thumbnail>
-<link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
-</item>
+
 <item>
 <title>RT Noticias</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png</thumbnail>
 <link>http://odna.octoshape.net/f3f5m2v4/cds/ch2_320p/chunklist.m3u8</link>
@@ -2862,46 +2495,7 @@
 <item>
 <title>HispanTV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg</thumbnail>
 <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh</link>
-</item>
-<item>
-<title>Asturias 7</title><thumbnail>http://blog.galaxy-innovations.es/wp-content/uploads/2011/10/RTPA_logo.svg_.png</thumbnail>
-<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
-</item>
-<item>
-<title>Andalucia TV</title><thumbnail>http://gmkfreelogos.com/logos/A/img/Andalucia_Television.gif<referer>
-<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
-</item>
-<item>
-<title>Canal Sur 1</title><thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYX0ltAAsoJUSmWRkvrqgGOntwE5tgVz1d6yUZ9LqLp33ic50Q<referer>
-<link>http://195.10.10.225/rtva/champions.flv</link>
-</item>
-<item>
-<title>Castilla y León TV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_CyLTV.svg/305px-Logo_CyLTV.svg.png</thumbnail>
-<link>rtmp://cdn.s10.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698ext</link>
-</item>
-<item>
 
-<item>
-<title>Canal Extremadura</title><thumbnail>http://llerena.org/archivos/fotos/actualidad/logo%20Canal%20Extremadura%20Tv.jpg</thumbnail>
-<link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo</link>
-</item>
-<item>
-<title>Galicia TV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png</thumbnail>
-<link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
-</item>
-<item>
-<title>ETB SAT</title><thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6yCfua9ODv5_aADPL1UybIKYrVBgLDRn5_rkb_SxXz4QXqrZRyA<referer>
-<link>http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&lineUpId=&pubId=102076681001&playerId=3255438695001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,235&r=ALLBH&g=XRIFBBMKQYKI</link>
-</item>
-<item>
-<title>IB3</title><thumbnail>http://www.nobadis.es/wp-content/uploads/2012/05/nobadis-mallorca-ib-3-logo.jpg</thumbnail>
-<link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://ib3cdn.s3.amazonaws.com/player/player.swf live=1</link>
-</item>
-<item>
-<title>TV3 CAT</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/5/51/Tv3_logo2005.jpg</thumbnail>
-<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
-</item>
-<item>
 <title>Ceuta TV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Logo_Ceuta_Televisi%C3%B3n.png/200px-Logo_Ceuta_Televisi%C3%B3n.png</thumbnail>
 <link>rtmp://teledifusion.tv/anguloceuta playpath=anguloceuta swfUrl=http://www.ceutatv.com/player.swf live=1 pageUrl=http://www.ceutatv.com/index_directo.html</link>
 </item>
@@ -3063,10 +2657,7 @@
 <title>Lancelot TV</title><thumbnail>http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png</thumbnail>
 <link>rtmp://62.210.141.18:1935/directo playpath=lancelot.television swfUrl=http://www.lancelot.tv/directo/player.swf live=1 pageUrl=http://www.lancelot.tv/directo/</link>
 </item>
-<item>
-<title>La Otra</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/LaOtra-Logo-2014.png/245px-LaOtra-Logo-2014.png</thumbnail>
-<link>rtmp://laotralivefs.fplive.net/laotralive-live?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=/stream1?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=</link>
-</item>
+
 <item>
 <title>101 TV</title><thumbnail>https://pbs.twimg.com/profile_images/514721607021903872/_1CRMteJ.png</thumbnail>
 <link>http://cls.todostreaming.eu/101tv/livestream/playlist.m3u8</link>
@@ -3112,9 +2703,7 @@
 		<item>
 <title>El Correo (Sevilla)</title><thumbnail>http://elcostal.org/wp-content/uploads/2014/03/El-correo-tv-fondo-rojo.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/21047/21047/8.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=AdryanList</link>
-</item>		   
-		   
-		   
+</item>		   		   
 
 <item>
 <title>Eventos</title>
