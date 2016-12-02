@@ -1143,6 +1143,8 @@
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8</link>
 </item>
 
+<item><title>r madrid  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link></item> 
+
 <item>
 <title>CANAL BARSA</title>
 <link>http://cdn.sitenow.me/live/barca_av8kza6/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
@@ -1923,101 +1925,39 @@
 
 			<item><title>[COLOR coral]ELCORREOTV[/COLOR]</title><link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
-
-			<item><title>[COLOR coral]HUELVACOSTA[/COLOR]</title><link>http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]ELDIATV[/COLOR]</title><link>rtmp://teledifusion.tv:1935/dia/dia</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]MELILLA[/COLOR]</title><link>http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
-			<item><title>[COLOR coral]RIBERA[/COLOR]</title><link>http://flash3.todostreaming.es/ribera/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]TV4[/COLOR]</title><link>http://flash3.todostreaming.es/15o8376r/mystream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]CADIZ[/COLOR]</title><link>http://flash3.todostreaming.es/unatv2/live/playlist.m3u8 </link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			<item><title>[COLOR coral]DIOCESANO[/COLOR]</title><link>rtmp://flash3.todostreaming.es/edesco/livestream</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			<item><title>[COLOR coral]DIRECTOTV[/COLOR]</title><link>rtmp://87.106.183.39/live/myStream_2</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]ONDACEROTV[/COLOR]</title><link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live//stream-eventos6_1</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]HUELVATV[/COLOR]</title><link>http://flash3.todostreaming.es/huelvatv/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			<item><title>[COLOR coral]IBIZATV[/COLOR]</title><link>rm3u8p://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			<item><title>[COLOR coral]ELCORREOTV[/COLOR]</title><link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			<item><title>[COLOR coral]RTPATV[/COLOR]</title><link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			<item><title>[COLOR coral]RIOJATV[/COLOR]</title><link>mms://87.106.208.121/stv</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			<item><title>[COLOR coral]EXTREMADURATV[/COLOR]</title><link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live//stream1</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-
-			<item><title>[COLOR coral]FERROL[/COLOR]</title><link>rm3u8p://streaming.arsenet.com/tvf</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
 <item><title>gerona  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://tvgirona.dnssw.net:1935/live/Icontouch/.m3u8</link></item>     
-<item><title>canal33  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b548000.m3u8</link></item>
-    
-   
-<item><title>btv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://flv-high.barcelonatv.stream.flumotion.com/barcelonatv/barcelonatv-high.flv.m3u?token=f12014e223e045d3a6a5f3620c7f39f5563c07c4563d5980</link></item>     
-<item><title>tvg  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://media3.crtvg.es/live/tvge_2/playlist.m3u8</link></item>     
+<item><title>canal33  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b548000.m3u8</link></item>  
 
 <item><title>olcadiz  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cloud1.cdnstreamserver.com/olcadiz/livestream1/.m3u8</link></item>     
-
-<item><title>costa  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls2.todostreaming.eu/azahara/lepevision/chunklist.m3u8</link></item>     
-<item><title>el dia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/dia/dia/.m3u8</link></item>     
-<item><title>cas/mancha  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link></item>     
-<item><title>mirame  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cast.streamingconnect.tv:1935/2015mirame/2015mirame/.m3u8</link></item>     
+<item><title>cas/mancha  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link></item>        
 <item><title>navarra  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://live2.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/.m3u8</link></item>     
 <item><title>levante  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/levantetvlive/levantetvlive/.m3u8</link></item>     
-
-<item><title>huelva  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/huelvatv/livestream/.m3u8</link></item>     
-
 <item><title>amaica  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://212.142.237.206:1935/hlive/osoa</link></item>
-<item><title>ceuta  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://stream.inmusa.es:1935/tvmelilla/live/.m3u8</link></item>     
-
 <item><title>popular melilla  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://streaming4.streamteca.com/live/fd56e63737574f49b1a17383e9dfe735</link></item>
 <item><title>informacion tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8</link></item>     
 <item><title>tvbadalona  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8</link></item>     
-<item><title>huesca  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://streaming2.radiohuesca.com/live/huescatv</link></item>
 <item><title>cantabria  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls2.todostreaming.eu/ptvcantabria/livestream/.m3u8</link></item>     
 <item><title>ondaluz malaga  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/chunklist_w1760720521.m3u8</link></item>     
-<item><title>ondaluz sevilla  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8</link></item>     
-<item><title>Ondaluz Ronda   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.elitehd-audiovisuales.com/olronda/livestream1/playlist.m3u8</link></item>     
+<item><title>ondaluz sevilla  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8</link></item>         
 <item><title>marbella  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.provideo.es/marbellatv/livestream/.m3u8</link></item>     
 <item><title>ribera  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/ribera/livestream/chunklist_w1043483975.m3u8</link></item>     
-<item><title>mijas  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/mijastv/mijastvlive/chunklist_w640166626.m3u8</link></item>    
-<item><title>Mijas    [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://teledifusion.tv/mijastv/mijastvlive</link></item>
 <item><title>terrasa valles  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/.m3u8</link></item>     
-<item><title>onda jaen  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://46.39.192.63/jaen/jaen1.stream_origp </link></item>
-<item><title>alcoia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://92.222.37.18:1935/hls?u=G99t&p=T99g/tvaxa?u=G99t&p=T99g</link></item> 
-<item><title>correo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8</link></item>     
-
-<item><title>correo opc2  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link></item>     
-
-<item><title>r madrid  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link></item>    
- <item><title>ceuta  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1832133890.m3u8</link></item>     
- <item><title>kiss  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://m3u8t.es.flash.glb.ipercast.net/m3u8t.es-live/live/chunklist_w.m3u8</link></item>     
- <item><title>vall uxo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/15o8376r/mystream/chunklist_w1661249081.m3u8</link></item>     
- <item><title>imas  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/imastv/livestream/.m3u8</link></item>     
- <item><title>lebtija  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://212.104.160.156:1935/live/lebrijatv2/.m3u8</link></item>     
- <item><title>10  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://87.106.220.67:1935/live/myStream.smil/.m3u8</link></item>     
- <item><title>hellin  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://iphone-streaming.ustream.tv/uhls/18923318/streams/live/iphone/playlist.m3u8</link></item>     
- <item><title>teleelx  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/teleelx/teleelxlive/chunklist_w2011426277.m3u8</link></item>    
- <item><title>valencia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8</link></item>     
- <item><title>mola  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cdns724ste1010.multistream.net/molatv1live/amlst:live/.m3u8</link></item>     
+ <item><title>ceuta  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1832133890.m3u8</link></item>          
+ <item><title>vall uxo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/15o8376r/mystream/chunklist_w1661249081.m3u8</link></item>        
+ <item><title>lebtija  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://212.104.160.156:1935/live/lebrijatv2/.m3u8</link></item>      
+ <item><title>valencia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8</link></item>      
  <item><title>catilla la mancha  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cast.streamingconnect.tv:1935/laregional/laregional/.m3u8</link></item>     
- <item><title>intercomarcal  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://37.187.225.46:1935/hls?u=Gy9T&p=Y0xG/tvixa?u=Gy9T&p=Y0xG 
  <item><title>101  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</link></item>     
-<item><title>c25  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/tvbarbastro/livestream/.m3u8</link></item>     
-<item><title>costa sol  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://flash0.80385-live0.dna.qbrick.com:1935/80385-live0/costa/.m3u8</link></item>     
-<item><title>san roque  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/sanroque/mystream/chunklist_w1141799126.m3u8</link></item>     
-<item><title>diocesano  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://178.32.53.254/rtvd/livestream/chunklist_w571792732.m3u8</link></item>     
-<item><title>25 tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cdns724ste1010.multistream.net/25televisiolive/amlst:25tv/.m3u8</link></item>    
- <item><title>casrellon  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/.m3u8</link></item>     
+<item><title>c25  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/tvbarbastro/livestream/.m3u8</link></item>            
+ <item><title>castellon  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/.m3u8</link></item>     
  <item><title>el mundo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link></item>     
- <item><title>travel  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://87.106.219.140:1935/live/myStream_2/.m3u8</link></item>     
- <item><title>condavision  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8</link></item>     
- <item><title>Canal Costa Lepe   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8</link></item>     
  <item><title>huelva  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/huelvatv/livestream/playlist.m3u8</link></item>     
  <item><title>45  Andujar   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://servers10.com/canal45tv/canal45tv</link></item>  
- <item><title>Onda Jaen RTV  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8</link></item>     
-<item><title>Estepona   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://37.187.108.127:554/esteponatv/radiostation.stream</link></item>  
- <item><title>Costa del Sol TV Fuengirola   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://flash0.80385-live0.dna.qbrick.com/80385-live0/costa</link></item>  
  <item><title>c7   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/smil:live.smil/master.m3u8</link></item>    
   
 <item><title>ANDORRA TV  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link></item>     
