@@ -1684,88 +1684,12 @@
 
 <item><title>TV Mediterreneo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8</link></item>   
 
-
-	<tem><title>[COLOR deepskyblue]Bilbao Ajedrez[/COLOR]</title>
-	
-	<link>rtmp://stream02.linaresdigital.com/sic/ playpath=retransmision swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf pageUrl=http://www.sichess.com/bilbao16/comen_bilbao.php</link>
-	<thumbnail></thumbnail></item>
-
-
-	
-<item>
-<title>[COLOR lightblue]Plus 1*[/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68II swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>	
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>CANAL SUPER3</title>
-<link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b798000_DVR.m3u8|Referer=http://lacasadeltikitaka.me/MultiTV/Dibujos/super3.php</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-
-
-		
-			<item>
-			<title>Tribu TV</title>
-			<link>http://tribotv-ch01-live-cdn1-hls.streaming.overon.es/tribotv/channel01/tribotv/bitrate_3.m3u8</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tribu-tv.png</thumbnail></item>
-			
-			
-			
-			<item>
-			<title>[COLOR cyan]###### Locales #####[/COLOR]</title>
-			<link>http://tribotv-ch01-live-cdn1-hls.streaming.overon.es/tribotv/channel01/tribotv/bitrate_3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-
-
-                <item>
-                        <title>10 TV</title>
-                        <thumbnail>http://www.revistaelobservador.com/images/stories/envios_15/marzo/10tv.jpg</thumbnail>
-                        <link>rtmp://87.106.220.67/live/myStream_2</link>
-                </item>
-
-		<item>
-			<title>25 TV</title>
-			<thumbnail>http://4.bp.blogspot.com/-BrJQU1sZmD4/VUPnI2iLeDI/AAAAAAAAFMM/ApDsQVo7POo/s1600/25%2Btvjpg.gif</thumbnail>
-			<link>http://cdns724ste1010.multistream.net/25televisiolive/amlst:25tv/master.m3u8</title>
-			</link>isHost</link>: </link>true</link>
-		</item>
-                <item>
-                        <title>28 Kanala</title>
-                        <thumbnail>http://i.vimeocdn.com/portrait/6839672_300x300.jpg</thumbnail>
-                        <link>rtmp://streaming6.streamteca.com/live/9LPGB</link>
-                </item>
                 <item>
                         <title>101 TV</title>
                         <thumbnail>http://3.bp.blogspot.com/-DNUX-xfVXfI/Vc71rwS3AGI/AAAAAAAAF7Y/oqOtu7yB8LA/s1600/101%2BTV.png</thumbnail>
                         <link>http://cls.todostreaming.eu/101tv/livestream2/playlist.m3u8</link>
                 </item>
-                <item>
-                        <title>A1 TV España</title>
-                        <thumbnail>http://2.bp.blogspot.com/-F2__71E41ws/VV2XlC02K9I/AAAAAAAAFWs/ln1C2p27DTY/s1600/a1_Logo_Espana_1_6t2453bs.png</thumbnail>
-                        <link>rtmp://176.9.45.202:22222/live/alfaesp2</link>
-                </item>
-                <item>
-                        <title>A1 TV Internacional</title>
-                        <thumbnail>http://4.bp.blogspot.com/-dMKekpegLhA/VV2Xt9xHXrI/AAAAAAAAFW0/I9GMzFYXzXk/s1600/a1_Logo_International_1_r22d5t5s.png</thumbnail>
-                        <link>rtmp://176.9.45.202:22222/live/a1internacionalitd</link>
-                </item>
+
                 <item>
                         <title>ALCARRIA TV</title>
                         <thumbnail>http://2.bp.blogspot.com/-6Ytheva6018/VW8s66LgRmI/AAAAAAAAFi4/JcOYwNjnUwU/s1600/Alcarria%2BTV.jpg</thumbnail>
@@ -1782,43 +1706,13 @@
                         <thumbnail>http://www.inakirubio.com/wp-content/uploads/2014/07/AndorraTV_logo2005-300x226.png</thumbnail>
                         <link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link>
                 </item>
-                <item>
-                        <title>Antaquira TV</title>
-                        <thumbnail>http://4.bp.blogspot.com/-8Qma9HwpCgc/VTM3rU5rAOI/AAAAAAAAE4o/r6R2DlGB9jk/s1600/ANTAQUIRA-TV.png</thumbnail>
-                        <link>rtmp://37.187.108.127:554/las4esquinas/radiostation.stream1</link>
-                </item>
 
-
-                <item>
-                        <title>Atalaya TV</title>
-                        <thumbnail>http://atalayatv.com/img/slide/logo.png</thumbnail>
-                        <link>rtmp://94.76.185.13/live/livestream</link>
-                </item>
-                <item>
-                        <title>Barcelona TV</title>
-                        <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ5I3AU5k8BsuDnITzmyWeVRSmHI40ydqiVH7VDVZcD4hYpgQg</title>
-                        <link>http://195.10.10.224/barcelonatv/barcelonatv-high.flv</link>
-                </item>
-                <item>
-                        <title>Benidorm TV</title>
-                        <thumbnail>http://cdn.webstatics.net/podcast/podcastimage_294699.gif</thumbnail>
-                        <link>rtmp://46.137.102.103:1935/live/_definst_/cam1.sdp</link>
-                </item>
-                <item>
-                        <title>BOUS TV</title>
-                        <thumbnail>http://3.bp.blogspot.com/-GKYOrWjxsXM/VW4lC2_7QyI/AAAAAAAAFiQ/XrppBWQBgJk/s1600/BOUS%2BTV.jpg</thumbnail>
-                        <link>http://iphone-streaming.ustream.tv/ustreamVideo/18640851/streams/live/playlist.m3u8</link>
-                </item>
                 <item>
                         <title>Canal 7 TELEVALENCIA</title>
                         <thumbnail>http://2.bp.blogspot.com/-Z3oHpCEDm4Q/VW4O-FmBKoI/AAAAAAAAFg0/DLI7ryJYHcU/s1600/CANAL-7-VALENCIA.jpg</thumbnail>
                         <link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/smil:live.smil/master.m3u8</link>
                 </item>
-                <item>
-                        <title>Canal 13 DIGITAL</title>
-                        <thumbnail>http://3.bp.blogspot.com/-TkQ2i3gkKHY/VW8065sKI0I/AAAAAAAAFjI/FjkDTv0p944/s1600/Canal%2B13%2BDigital.jpg</thumbnail>
-                        <link>http://wm.mad.interhost.com:80/OjosSolidariosTv/playlist.m3u8</link>
-                </item>
+
                 <item>
                         <title>Canal 25 Barbastro</title>
                         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrC_Py_3o0kqhIFRVGxaDIrxuuz_g4gB5Gt57K7f-0INDxEx99sQ</title>
@@ -1834,21 +1728,7 @@
                         <thumbnail>http://1.bp.blogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif</thumbnail>
                         <link>http://servers10.com:1935/canal45tv/canal45tv/playlist.m3u8</link>
                 </item>
-		<item>
-			<title>Canal Blau</title>
-			<thumbnail>http://3.bp.blogspot.com/-h2HmXxown4c/VP_dMaMEsrI/AAAAAAAADgg/m8TBsjEsVrc/s1600/CANAL-BLAU.jpg</thumbnail>
-			<link>http://sjc-uhls-proxy105.ustream.tv/watch/playlist.m3u8?cid=14339579&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=ES&geocity=Tremp&userId=315511440&connectionId=null_315511440&ts=1416745970&ip=176.84.24.88&cdn=uhs_akamai&sgn=ab72541d91b06b9388e9e9b77d19b215c8627471</link>
-		</item>
-		<item>
-			<title>Canal Costa</title>
-			<thumbnail>http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png</thumbnail>
-			<link>http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8</link>
-		</item>
-		<item>
-			<title>Canal Diocesano</title>
-			<thumbnail>http://www.architoledo.org/Player/CanalDiocesano300.png</thumbnail>
-			<link>rtmp://178.32.53.254/rtvd/livestream</link>
-		</item>
+
 
                 <item>
                         <title>Canal Parlamento</title>
