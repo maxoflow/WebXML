@@ -77,7 +77,7 @@
 <thumbnail></thumbnail>
 </item>
   <item>
-<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR] [COLOR gray][I] Opcion 3[/I][/COLOR][COLOR gray][I] Sportsdevil[/I][/COLOR]</title> 
+<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR] [COLOR gray][I] Opcion 3[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title> 
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil><referer>http://www.oranline.com/</referer>
  </item> 
 
@@ -85,19 +85,16 @@
 	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Movistar +[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
 
 <item><title>[COLOR chartreuse]M+ #0[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]#0 - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar+-0.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-
 <item>
  <title>CANAL+ #0</title>
 <link>http://cdn.sstream.pw/live/canalplushd_9wgyfa8/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 </item>
-
 <item>
  <title>[COLOR lightblue]CANAL+ #0[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 </item>
-
 <item>
 <title>CANAL+0</title>
 <link>http://185.39.9.162/live/plus0_b0xk990/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
