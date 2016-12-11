@@ -14,9 +14,14 @@
         <thumbnail>http://horebgualan.org/wp-content/uploads/2016/01/programacion_tv-600x400.png</thumbnail>
         <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
         </item>
-
-	<item><title>                           </title><link></link></item>
-	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Locales[/COLOR]  ----[/COLOR] </title><link>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</link></item>
+		
+        <item>
+        <title>[COLOR yellow]       Locales         [COLOR red] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
+        <link>ignoreme</link>
+        <jsonrpc>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</jsonrpc>
+        <thumbnail>http://horebgualan.org/wp-content/uploads/2016/01/programacion_tv-600x400.png</thumbnail>
+        <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+        </item>
 
 	<item><title>                           </title><link></link></item>
 	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]TDT[/COLOR]  ----[/COLOR] </title><link></link></item>
