@@ -20,7 +20,7 @@
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/tvespa.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Movistar.xml</externallink>
 </channel>
   </channels>
   
@@ -29,7 +29,16 @@
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/tvespa.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-TDT.xml</externallink>
+</channel>
+  </channels>
+  
+<channel>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Infantiles [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles.xml</externallink>
 </channel>
   </channels>
   
@@ -38,7 +47,7 @@
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/tvespa.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Deportes.xml</externallink>
 </channel>
   </channels>
   
@@ -47,7 +56,7 @@
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/tvespa.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
 </channel>
   </channels>
   
@@ -56,6 +65,6 @@
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/tvespa.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Adultos.xml</externallink>
 </channel>
   </channels>
