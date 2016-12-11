@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<channels>
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Movistar+ [/COLOR]</name>
   <thumbnail></thumbnail>
@@ -8,7 +8,8 @@
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Movistar.xml</externallink>
 </channel>
   </channels>
-  
+
+<channels>
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] TDT [/COLOR]</name>
   <thumbnail></thumbnail>
@@ -17,7 +18,8 @@
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-TDT.xml</externallink>
 </channel>
   </channels>
-  
+
+<channels>
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Infantiles [/COLOR]</name>
   <thumbnail></thumbnail>
@@ -26,7 +28,8 @@
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles.xml</externallink>
 </channel>
   </channels>
-  
+
+<channels>
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Deportes [/COLOR]</name>
   <thumbnail></thumbnail>
@@ -35,7 +38,8 @@
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Deportes.xml</externallink>
 </channel>
   </channels>
-  
+
+<channels>
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Locales [/COLOR]</name>
   <thumbnail></thumbnail>
@@ -44,7 +48,8 @@
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
 </channel>
   </channels>
-  
+
+<channels>
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Adultos [/COLOR]</name>
   <thumbnail></thumbnail>
@@ -53,7 +58,8 @@
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Adultos.xml</externallink>
 </channel>
   </channels>
-  
+
+<channels>
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Programación TV [/COLOR]</name>
   <thumbnail></thumbnail>
