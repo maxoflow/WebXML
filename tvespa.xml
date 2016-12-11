@@ -358,7 +358,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<item><title>[COLOR deepskyblue]Discovery Channel SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Discovery Channel[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdiscoverydino_9dm3fgv%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/discovery-channel.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item><title>[COLOR deepskyblue]Discovery Channel SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Discovery Channel[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdiscoverydino_9dm3fgv%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/discovery-channel.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
 <item>
 <title>[COLOR deepskyblue]Discovery Channel SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
 <link>http://cdn.sitenow.me/live/discoverydino_9dm3fgv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
@@ -396,6 +396,11 @@
 			<item><title>[COLOR deepskyblue]Hogar Util SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 			
 <item><title>[COLOR deepskyblue]euroNews SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/euronews.png</thumbnail></item>
+
+
+    <channel>
+
+
 
 	<item><title>                           </title><link>http://ignora.me</link></item>
 	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Infantiles[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
@@ -453,6 +458,9 @@
 <link></link>
 <thumbnail></thumbnail>
 </item>
+
+    </channel>
+	
 
 	<item><title>                           </title><link>http://ignora.me</link></item>
 	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]Deportes[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
