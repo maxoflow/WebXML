@@ -39,25 +39,13 @@
 
 
 <channel>
-      <name>[COLOR silver][COLOR  white]•  [/COLOR] TV España [/COLOR]</name>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] TV Online [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/tvespa.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV.xml</externallink>
 </channel>
   </channels>
-  
-
-
-<channel>
-      <name>[COLOR silver][COLOR  white]•  [/COLOR] TV Local [/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
-</channel>
-  </channels>
-
 
 
 
