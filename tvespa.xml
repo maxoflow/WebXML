@@ -92,6 +92,33 @@
 <thumbnail></thumbnail>
 </item>
 
+<item><title>[COLOR deepskyblue]Ten SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Ten[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ften_azj987s%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/ten.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]Ten SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+</item>
+
+			<item>
+			<title>[COLOR deepskyblue]13 TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+			<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+			<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/13-tv.png</thumbnail></item>
+<item>
+<title>[COLOR deepskyblue]13 TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w63737912.m3u8|Referer=http://cinestrenostv.tv/canales/nacionales/13tv.php</link>
+<thumbnail></thumbnail>
+</item>
+		<item>
+			<title>[COLOR deepskyblue]13 TV SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/fr/9/9c/13tv_logo_2012.png</thumbnail>
+			<link>http://www.lasteles.com/es/player.php?auto=0&id=6254</title>
+			</link>isHost</link>: </link>true</link>
+		</item>
+<item>
+<title>[COLOR deepskyblue]13 TV SD [/COLOR] [COLOR gray][I] Opción 4[/I][/COLOR]</title><thumbnail>http://1.bp.blogspot.com/-wy_aWa-BFu8/UE6PdMavkOI/AAAAAAAAEhc/gW36DmJpUfo/s1600/13tvlogonuevo.jpg</thumbnail>
+<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ=</link>
+</item>
+
 <item>
 <title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>       
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=Gran Hermano 17  &amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcinestrenostvgh17_bfo6ov9%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
@@ -209,217 +236,70 @@
 <item> <title>[COLOR deepskyblue]MTV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>rtmp://31.220.40.59/privatestream/ playpath=mmtvv?keys=8eFI4koWQV7LkREC8Sp-lQ&keyt=1462338035 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=mmtvv&width=800&height=600</link></item>
 
 <item>
- <title>CANAL+ ESTRENOS</title>
- <link>http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
-<item>
- <title>[COLOR lightblue]CANAL+ ESTRENOS[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+ <title>[COLOR deepskyblue]Movistar Estrenos SD  [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/plusestrenos.html</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 </item>
-<item>
-<title>[COLOR lightblue]Plus Estrenos [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>	
-<item>
-<title>CANAL+ESTRENOS</title>
+<title>[COLOR deepskyblue]Movistar Estrenos SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
 <link>http://cdn.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>CANAL+XTRA</title>
+<title>[COLOR deepskyblue]Movistar Xtra SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 <link>http://cdn.sitenow.me/live/xtra_bhsjbi8/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
 
-
-
-<item><title>[COLOR chartreuse]M+ Accion[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Accion - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Faccion_aqtvoax%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar-accion.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-
 <item>
- <title>CANAL+ ACCION</title>
-<link>http://cdn.sstream.pw/live/accion_aqtvoax/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
-
-<item> <title>[COLOR lightblue]Canal+ Acción[/COLOR]</title><link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link></item>
-
-<item>
- <title>[COLOR lightblue]CANAL+ ACCION[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+ <title>[COLOR deepskyblue]Movistar Acción SD  [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/plusaccion.html</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 </item>
-
 <item>
-<title>[COLOR lightblue]Plus Accion [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-
-<item>
-<title>CANAL+ ACCION</title>
+<title>[COLOR deepskyblue]Movistar Acción SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
 <link>http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/accion_bitzwzh/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
 
-
-
-<item><title>[COLOR chartreuse]M+ Comedia[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Comedia - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcomedia_b0dqg8y%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar-cine-comedia.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-
 <item>
- <title>CANAL+ COMEDIA</title>
+ <title>[COLOR deepskyblue]Movistar Comedia SD  [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title>
 <link>http://cdn.sstream.pw/live/comedia_aspeh87/playlist.m3u8</agent>
 </item>
-
 <item>
- <title>[COLOR lightblue]CANAL+ COMEDIA[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-	<sportsdevil>http://cinestrenostv.tv/canales/envivo/pluscomedia.html</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-</item>
-
-<item>
-<title>[COLOR lightblue]Plus comedia* [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-
-<item>
-<title>CANAL+COMEDIA</title>
+<title>[COLOR deepskyblue]Movistar Acción SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
 <link>http://cdn.sitenow.me/live/comedia_az50b5a/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
 
-
-
 <item>
-<title>CANAL+ DCINE</title>
-<link>http://cdn.sstream.pw/live/dcine_aw3g20p/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
-
-<item>
-<title>[COLOR lightblue]CANAL+ DCINE[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<title>[COLOR deepskyblue]Movistar DCine SD  [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/plusdcine.html</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 </item>
 
 
-
 <item>
-<title>[COLOR lightblue]Plus DCine  [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-
-<item>
-<title>CANAL+DCINE</title>
-<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/dcine_bijdglp/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR lightblue]D CINE ESP[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine-espa%C3%B1ol.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-</item>
-
-<item>
-<title>CANAL DCINE ESPAÑOL:NO FUNCIONA</title>
+<title>[COLOR deepskyblue]Movistar Cine Español SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 <link>OOOOOOO</link>
 <thumbnail></thumbnail>
 </item>
 
-
-
 <item>
- <title>[COLOR lightblue]TCM[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://www.telefivegb.com/ver-canal-tcm-online-gratis-y-en-vivo-por-internet</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
- <thumbnail>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</thumbnail>
-</item>
-
-<item>
-<title>CANAL TCM:NO FUNCIONA</title>
+<title>[COLOR deepskyblue]TCM SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 <link>OOOOOO</link>
 <thumbnail></thumbnail>
 </item>
 
-
-
-
-<item><title>[COLOR chartreuse]Holywood[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Hollywood - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fholliwood_bawwczi%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/holliwood.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-
 <item>
- <title>HOLLYWOOD</title>
-<link>http://cdn.sstream.pw/live/hollywood_asqwbwv/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
-
-<item>
- <title>[COLOR lightblue]HOLLYWOOD[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+ <title>[COLOR deepskyblue]HOLLYWOOD SD  [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
  <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lightblue]Hollywood [/COLOR]   [COLOR gray][I]iguide[/I][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=g14tfn5k0uso0om  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item>
-
-<item>
-<title>CANAL HOLLYWOOD</title>
-<link>http://cdn.sitenow.me/live/holliwood_bawwczi/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-			<item>
-			<title>[COLOR deepskyblue]13tv[/COLOR]</title>
-			<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-			<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/13-tv.png</thumbnail></item>
-			
-<item>
-<title>CANAL 13 TV</title>
-<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w63737912.m3u8|Referer=http://cinestrenostv.tv/canales/nacionales/13tv.php</link>
-<thumbnail></thumbnail>
-</item>
-
-		<item>
-			<title>13 TV</title>
-			<thumbnail>http://upload.wikimedia.org/wikipedia/fr/9/9c/13tv_logo_2012.png</thumbnail>
-			<link>http://www.lasteles.com/es/player.php?auto=0&id=6254</title>
-			</link>isHost</link>: </link>true</link>
-		</item>
-
-<item>
-<title>13tv</title><thumbnail>http://1.bp.blogspot.com/-wy_aWa-BFu8/UE6PdMavkOI/AAAAAAAAEhc/gW36DmJpUfo/s1600/13tvlogonuevo.jpg</thumbnail>
-<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ=</link>
-</item>
-
-
-
-<item><title>[COLOR chartreuse]Ten[/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Ten - Adryanlist[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ften_azj987s%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/ten.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
-
-<item>
-<title>CANAL TEN</title>
-<link>http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title>PARAMOUNT CHANNEL</title>
-<link>http://cdn.sstream.pw/live/paramountchannel_113im5f/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
-
-<item>
-<title>[COLOR lightblue]PARAMOUNT CHANNEL[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
-<sportsdevil>http://www.telefivegb.com/ver-paramount-channel-en-directo-y-gratis-online-las-24h-en-vivo/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-</item>
-
-<item>
-<title>CANAL PARAMOUT CHANEL</title>
+<title>[COLOR deepskyblue]PARAMOUNT CHANNEL SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 <link>http://195.55.74.206/paramount/live/stream.m3u8?GKID=4664f43a836a11e6b76e00163e914f69</link>
 <thumbnail></thumbnail>
 </item>
