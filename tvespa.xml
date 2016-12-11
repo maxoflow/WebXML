@@ -15,23 +15,6 @@
         <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
         </item>
 
-
-      <name>[COLOR silver][COLOR  white]•  [/COLOR] TV Local [/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
-
-  
-  
-        <item>
-        <title>[COLOR yellow]       Locales         [/COLOR]</title>
-        <link>ignoreme</link>
-        <jsonrpc>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</jsonrpc>
-        <thumbnail>http://horebgualan.org/wp-content/uploads/2016/01/programacion_tv-600x400.png</thumbnail>
-        <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
-        </item>
-
 	<item><title>                           </title><link></link></item>
 	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]TDT[/COLOR]  ----[/COLOR] </title><link></link></item>
 
