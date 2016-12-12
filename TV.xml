@@ -699,14 +699,10 @@
 		</item>
 
                 <item>
-                        <title>ETB SAT</title>
+                        <title>[COLOR deepskyblue]ETB SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6yCfua9ODv5_aADPL1UybIKYrVBgLDRn5_rkb_SxXz4QXqrZRyA</title>
                         <link>http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8</link>
                 </item>
-<item>
-<title>[COLOR deepskyblue]ETB SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6yCfua9ODv5_aADPL1UybIKYrVBgLDRn5_rkb_SxXz4QXqrZRyA<referer>
-<link>http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&lineUpId=&pubId=102076681001&playerId=3255438695001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,235&r=ALLBH&g=XRIFBBMKQYKI</link>
-</item>
 
 <item><title>[COLOR deepskyblue]eitb SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8?</link></item>     
 
@@ -724,162 +720,62 @@
                 </item>
 
                 <item>
-                        <title>[COLOR deepskyblue]8 TV Andalucia SD - No Funciona [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+                        <title>[COLOR deepskyblue]8 TV Andalucia SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://www.audiovisual451.com/wp-content/uploads/8tv-Andalucia-logo.jpeg</title>
                         <link>http://cls.todostreaming.eu/unatv/live/chunklist.m3u8</link>
                 </item>
 
                 <item>
-                        <title>[COLOR deepskyblue]8 TV Barcelona SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+                        <title>[COLOR deepskyblue]8TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://3.bp.blogspot.com/-rF0Ldmtco1Y/VTIZEPpa4RI/AAAAAAAAE38/IglIiyq2nfQ/s1600/8TV%2Bbarcelona.png</thumbnail>
                         <link>rtmp://91.121.143.193:1935/liverepeater/8TV/8aldia-directe</link>
                 </item>
 			<item>
-			<title>CANAL 8TV CATALAN </title>
+			<title>[COLOR deepskyblue]8TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
 			 <link>rtmp://streaming.8tv.cat:1935/8TV?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId= playpath=8aldia-directe?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20141117.1347/federatedVideoUI/BrightcovePlayer.swf?uid=1423598267178 live=1 pageUrl=http://www.8tv.cat/directe/</link>
 			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-<item><title>8tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1665894152.m3u8</link></item>     
-
-<item><title>8tv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8</link></item>  
+<item><title>[COLOR deepskyblue]8TV SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1665894152.m3u8</link></item>     
 
                 <item>
-                        <title>3/24</title>
+                        <title>[COLOR deepskyblue]3/24 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://1.bp.blogspot.com/-zYwswRom3oY/VP_Z0__IxJI/AAAAAAAADgI/JPVTj9uzYx8/s1600/3-24_logo2014.png</thumbnail>
                         <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8?DVR</link>
                 </item>
-<item><title>3/24  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link></item> 
+<item><title>[COLOR deepskyblue]3/24 SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link></item> 
 
 		<item>
-			<title>La Xarxa TV</title>
+			<title>[COLOR deepskyblue]la xarxa SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://1.bp.blogspot.com/-QK7LCW7YPbA/VWYf96FC8tI/AAAAAAAAFZ8/blU5xAzjozo/s1600/laxarxa-quadrat_1.png</thumbnail>
 			<link>rtmp://video-streaming.laxarxa.com/xal1/directe</link>
 		</item>
 
- <item><title>valles oriental  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://video-streaming.laxarxa.com:1935/ocasional5/directe/.m3u8</link></item>     
-
-		<item>
-			<title>Vallès Oriental</title>
-			<thumbnail>http://4.bp.blogspot.com/-8XkCN3EM6nA/VTOj31jyBpI/AAAAAAAAE7I/774C8-QlrGo/s1600/tv%2Bvalles%2Boriental.gif</thumbnail>
-			<link>rtmp://video-streaming.laxarxa.com/ocasional5/directe</link>
-		</item>
-
-<item><title>votv  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://video-streaming.laxarxa.com/ocasional5/directe</link></item>  
-
-
-
                 <item>
-                        <title>Canal Sur Andalucía</title>
+                        <title>[COLOR deepskyblue]Sur Ancalucía SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://www.satexpat.com/img/cha/es/andaluciaTV_95x75.gif</thumbnail>
                         <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
                 </item>
-				
 			<item>
-			<title>Canal Sur Andalucia (SD) </title>
-			<link>http://195.10.10.213/rtva/andaluciatelevisionh264.flv?GKID=ac47d694410111e4bf3d00163e914f69</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-                <item>
-                        <title>Canal Sur TV</title>
-                        <thumbnail>http://1.bp.blogspot.com/-o6IuwYhqHoU/VWQ_a02jgII/AAAAAAAAFZs/sFOXHdJEUJw/s1600/canal_sur_tv.png</thumbnail>
-                        <link>http://195.55.74.203/rtva/eventos.flv</link>
-                </item>
-				
-			<item>
-			<title>Canal Sur</title>
-			<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/canalsur.jpg</thumbnail></item>
-			
-			<item>
-			<title>CANAL SUR [COLOR gray](aporte David)[/COLOR]</title>
+			<title>[COLOR deepskyblue]Sur Ancalucía SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
 			 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
 			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
-			
-<item>
-<title>Canal Sur 1</title><thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYX0ltAAsoJUSmWRkvrqgGOntwE5tgVz1d6yUZ9LqLp33ic50Q<referer>
-<link>http://195.10.10.225/rtva/champions.flv</link>
-</item>
-
-
-
-                <item>
-                        <title>Andalucía TV</title>
-                        <thumbnail>http://2.bp.blogspot.com/-FKautDJt_Ls/VWQ9eAbXHwI/AAAAAAAAFZg/DoWM3CQahyw/s1600/ATV_Andalucia_Television.png</thumbnail>
-                        <link>http://195.55.74.208/rtva/champions.flv</link>
-                </item>
-				
-			<item><title>[COLOR coral]ANDALUCIATV[/COLOR]</title><link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-<item><title>andalucia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u</link></item>  
 
 <item>
-<title>Andalucia TV</title><thumbnail>http://gmkfreelogos.com/logos/A/img/Andalucia_Television.gif<referer>
-<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
-</item>
-			
-			
-			
-			<item><title>[COLOR coral]ANDALUCIATV2[/COLOR]</title><link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-
-
-<item>
-<title>CANAL GALEGA TV</title>
+<title>[COLOR deepskyblue]Galicía TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 <link>http://media3.crtvg.es/live/tvge_2/chunklist_w1706595984.m3u8|Referer=http://cinestrenostv.tv/canales/autonomicos/galiciatv.php</link>
 <thumbnail></thumbnail>
 </item>
 
-			<item>
-			<title>CANAL TELVISIO DE GALICIA  [COLOR gray](aporte David)[/COLOR]</title>
-			<link>http://media3.crtvg.es/live/tvge/playlist.m3u8 </link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
-			<item><title>[COLOR coral]TVGALICIA[/COLOR]</title><link>http://media3.crtvg.es/live/tvga/hasbahca.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
+			<item><title>[COLOR deepskyblue]Galicía TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://media3.crtvg.es/live/tvga/hasbahca.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>	
 <item>
-<title>Galicia TV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png</thumbnail>
+<title>[COLOR deepskyblue]Galicía TV SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png</thumbnail>
 <link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
 </item>
-
 			<item><title>[COLOR coral]GALICIA[/COLOR]</title><link>http://media3.crtvg.es/live/tvge/sota.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-			
                 <item>
-                        <title>Galicia TV América</title>
+                        <title>[COLOR deepskyblue]Galicía TV SD [/COLOR] [COLOR gray][I] Opción 4[/I][/COLOR]</title>
                         <thumbnail>http://1.bp.blogspot.com/-LEsNU8oOnH4/UZev6GSNiNI/AAAAAAAAEHU/HBpft8oPiiA/s320/TV+Galicia.jpg</thumbnail>
                         <link>http://media3.crtvg.es:80/live/_definst_/tvga_2/playlist.m3u8</link>
                 </item>
-
-                <item>
-                        <title>Galicia TV Europa</title>
-                        <thumbnail>http://1.bp.blogspot.com/-LEsNU8oOnH4/UZev6GSNiNI/AAAAAAAAEHU/HBpft8oPiiA/s320/TV+Galicia.jpg</thumbnail>
-                        <link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
-                </item>
-				
-			<item>
-			<title>TVG Galicia America </title>
-			<link>http://media3.crtvg.es/live/tvga/playlist.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-
-
-                <item>
-                        <title>IB3 Balears</title>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png</thumbnail>
-                        <link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3</link>
-                </item>
-				
-			<item><title>[COLOR coral]IB3[/COLOR]</title><link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			<item><title>[COLOR coral]BALEARESTV[/COLOR]</title><link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-<item>
-<title>IB3</title><thumbnail>http://www.nobadis.es/wp-content/uploads/2012/05/nobadis-mallorca-ib-3-logo.jpg</thumbnail>
-<link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://ib3cdn.s3.amazonaws.com/player/player.swf live=1</link>
-</item>
-
-
 
                 <item>
                         <title>Aragón TV</title>
