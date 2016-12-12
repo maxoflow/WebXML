@@ -16,14 +16,25 @@
     <name>[COLOR deepskyblue]TDT[/COLOR]</name>
     <info></info>
     <thumbnail></thumbnail>
+
         <items>
             <item>
-                <title>[COLOR deepskyblue]La 1[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+                <title>[COLOR deepskyblue]La 1 SD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]La 1[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ftve1_b0bqgib%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
-                <thumbnail>http://hdfull.tv/tthumb/172x256/movie_97c71442ad30b85deb5c2343cfd816fd.jpg</thumbnail>
+                <thumbnail>https://lh3.googleusercontent.com/fVBTTHJLBaS-fGWdTXVmK7Ec4UzaBRKjB2iGNLf6q7aRDGdg5uIJCqb7P6_yrOQdsZ7neC3P9L7WF8LAWABDB3WcgAjvf7GPk6_auwogNHW-OessvK06XOHAEWlzNBh5sM1mZtrhymweq_DigB-fydaluIrIqjKzrf8rYvw28bz422HuV8JN4wF6ELAwS6PQ5NmVnwZRKQDicIP-9ADQAHTWyKUdglEORFNso1IGMqrLiIu2RXAEnlHLss5rlCG43FhGUOwIQO1A_-Nop6C8YtdRIR9hHIGH93YyDrbu5med68wXB6GY_r_x8Se1LQg2GIUdWpq_YvvyGVVr15DFt4iu2U1DQevaRzOM_wm9k-zuMOjEzChhn8XCRozw7RyWwLEwuZvmyefuXOp-chd8lG3UVhpQ9mC_pW-dXTkaswoZwlFsge3OqQSGTEx7kJYnNKsn9Oe3U86H2AIKNSRCqbZv8q3t_5DNPhmyI_exnIXm4LYaofkB1fblO5QaLc1PNBuTQnkP3OOOnohAS4BzLdx5hNHLOOddir9S_zjQIWm_5Jlz8cZU8Fq4JdimAkNU2NzWZfNhC5Df8KG9JzJYTLpEM0AZG5QYT8Nc1jX0o4zD_t7Y-iZDa2arDddXnlW9TYKQT8cpVKTIOeBbiBOXrZpietADIT3_V79V91EIDA=w125-h111-no</thumbnail>
             </item>
         </items>
+
+        <items>
+            <item>
+                <title>[COLOR deepskyblue]La 1 SD[/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+                <link>http://cdn.sitenow.me/live/tve1_bghlsu9/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+                <thumbnail>https://lh3.googleusercontent.com/fVBTTHJLBaS-fGWdTXVmK7Ec4UzaBRKjB2iGNLf6q7aRDGdg5uIJCqb7P6_yrOQdsZ7neC3P9L7WF8LAWABDB3WcgAjvf7GPk6_auwogNHW-OessvK06XOHAEWlzNBh5sM1mZtrhymweq_DigB-fydaluIrIqjKzrf8rYvw28bz422HuV8JN4wF6ELAwS6PQ5NmVnwZRKQDicIP-9ADQAHTWyKUdglEORFNso1IGMqrLiIu2RXAEnlHLss5rlCG43FhGUOwIQO1A_-Nop6C8YtdRIR9hHIGH93YyDrbu5med68wXB6GY_r_x8Se1LQg2GIUdWpq_YvvyGVVr15DFt4iu2U1DQevaRzOM_wm9k-zuMOjEzChhn8XCRozw7RyWwLEwuZvmyefuXOp-chd8lG3UVhpQ9mC_pW-dXTkaswoZwlFsge3OqQSGTEx7kJYnNKsn9Oe3U86H2AIKNSRCqbZv8q3t_5DNPhmyI_exnIXm4LYaofkB1fblO5QaLc1PNBuTQnkP3OOOnohAS4BzLdx5hNHLOOddir9S_zjQIWm_5Jlz8cZU8Fq4JdimAkNU2NzWZfNhC5Df8KG9JzJYTLpEM0AZG5QYT8Nc1jX0o4zD_t7Y-iZDa2arDddXnlW9TYKQT8cpVKTIOeBbiBOXrZpietADIT3_V79V91EIDA=w125-h111-no</thumbnail>
+            </item>
+        </items>
+
     </channel>
+
 
 
 </channels>
