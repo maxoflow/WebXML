@@ -416,7 +416,12 @@
     <info></info>
     <thumbnail></thumbnail>
         <items>
-		
+
+<item>
+<title>[COLOR deepskyblue]Infantiles[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
+</item>				
+
 <item>
 <title>[COLOR deepskyblue]Latinos[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Latinos.m3u</externallink>
