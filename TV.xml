@@ -678,7 +678,7 @@
         <items>
 
             <item>
-            <title>[COLOR deepskyblue]RTVC TV Canaria SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+            <title>[COLOR deepskyblue]RTVC TV Canaria SD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
             <thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tvcanaria.png</thumbnail>
             <link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8</link>
                 </item>
@@ -696,9 +696,9 @@
                 </item>
 
 		<item>
-			<title>[COLOR deepskyblue]Mírame TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+			<title>[COLOR deepskyblue]Mírame TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://2.bp.blogspot.com/-rtq9UOQ51LU/VTPCa1f1GkI/AAAAAAAAE8c/7ieZ_Or-WDI/s1600/mirame-tv.png</thumbnail>
-			<link>rtmp://cast.streamingconnect.tv:1935/2015mirame/2015mirame</link>
+			<link>rtmp://185.23.213.54:1935/mirametv/mirametv</link>
 		</item>
 
                 <item>
