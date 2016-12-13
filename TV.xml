@@ -844,6 +844,7 @@
                         <thumbnail>http://3.bp.blogspot.com/-DNUX-xfVXfI/Vc71rwS3AGI/AAAAAAAAF7Y/oqOtu7yB8LA/s1600/101%2BTV.png</thumbnail>
                         <link>http://cls.todostreaming.eu/101tv/livestream2/playlist.m3u8</link>
                 </item>
+ <item><title>[COLOR deepskyblue]101 TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</link></item>     
 
                 <item>
                         <title>[COLOR deepskyblue]Alcarria TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -862,6 +863,7 @@
                         <thumbnail>http://2.bp.blogspot.com/-Z3oHpCEDm4Q/VW4O-FmBKoI/AAAAAAAAFg0/DLI7ryJYHcU/s1600/CANAL-7-VALENCIA.jpg</thumbnail>
                         <link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/smil:live.smil/master.m3u8</link>
                 </item>
+ <item><title>[COLOR deepskyblue]7 TELEVALENCIA SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8</link></item>      
 
                 <item>
                         <title>[COLOR deepskyblue]25 Barbastro SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -880,7 +882,9 @@
                         <thumbnail>http://1.bp.blogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif</thumbnail>
                         <link>http://servers10.com:1935/canal45tv/canal45tv/playlist.m3u8</link>
                 </item>
+ <item><title>[COLOR deepskyblue]45 Andujar SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>rtmp://servers10.com/canal45tv/canal45tv</link></item> 
 
+ <item><title>[COLOR deepskyblue]Huelva TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://cls.todostreaming.eu/huelvatv/livestream/playlist.m3u8</link></item> 
                 <item>
                         <title>[COLOR deepskyblue]Parlamento SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://3.bp.blogspot.com/-5RT0WbUnMQA/VUPlEgHscxI/AAAAAAAAFL4/6QrU3WpoIJ8/s1600/Canal%2BParlamento.gif</thumbnail>
@@ -925,8 +929,7 @@
 			<thumbnail>http://1.bp.blogspot.com/-x4UcHGTbdUM/VSbWF0mkmoI/AAAAAAAAEjM/RJX8k4CphH0/s1600/rtvm_logo.gif</thumbnail>
 			<link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
 		</item>
-		
-<item><title>marbella  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.provideo.es/marbellatv/livestream/.m3u8</link></item> 
+<item><title>[COLOR deepskyblue]RTV Marbella SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://cls.provideo.es/marbellatv/livestream/.m3u8</link></item> 
 
                 <item>
                         <title>[COLOR deepskyblue]Navarra TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -984,6 +987,7 @@
 			<thumbnail>http://www.riberatelevisio.com/wp-content/uploads/2011/07/LOGO.jpg</thumbnail>
 			<link>rtmp://188.165.135.22/ribera/livestream</link>
 		</item>
+<item><title>[COLOR deepskyblue]Ribera TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://188.165.135.22/ribera/livestream/chunklist_w1043483975.m3u8</link></item> 
 		
                 <item>
                         <title>[COLOR deepskyblue]RTVCE SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -1020,12 +1024,15 @@
                         <thumbnail>http://4.bp.blogspot.com/-kScu-Y7ndvY/VWYkIFrLaSI/AAAAAAAAFaI/pjp6PhNqb3I/s1600/Terrassa%2BTV.gif</thumbnail>
                         <link>rtmp://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb</link>
                 </item>
+<item><title>[COLOR deepskyblue]Terrassa TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/.m3u8</link></item> 
 
 		<item>
 			<title>[COLOR deepskyblue]TV4 La Vall SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://2.bp.blogspot.com/-ypRAK6XEhQM/VE2aaolxvQI/AAAAAAAAB7s/ySCKuUmVY2U/s320/logo-Blue.png</thumbnail>
 			<link>http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8</link>
 		</item>
+ <item><title>[COLOR deepskyblue]TV4 La Vall SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://188.165.135.22/15o8376r/mystream/chunklist_w1661249081.m3u8</link></item> 
+ 
                 <item>
                         <title>[COLOR deepskyblue]TVCS Mediterranéo SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://2.bp.blogspot.com/-3bHqqS9-VRY/VMLhx4QWB9I/AAAAAAAACkU/zsAmyyHScWc/s400/tvcs.png</thumbnail>
@@ -1069,40 +1076,17 @@
 
 <item><title>[COLOR deepskyblue]Cantabria SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://cls2.todostreaming.eu/ptvcantabria/livestream/.m3u8</link></item>   
 
+ <item><title>[COLOR deepskyblue]Ceuta SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1832133890.m3u8</link></item>          
 
+ <item><title>[COLOR deepskyblue]Lebrija TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://212.104.160.156:1935/live/lebrijatv2/.m3u8</link></item>      
 
-  
+<item><title>[COLOR deepskyblue]C25 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://188.165.135.22/tvbarbastro/livestream/.m3u8</link></item>            
 
-       
+ <item><title>[COLOR deepskyblue]Castellón SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/.m3u8</link></item>     
 
-    
+ <item><title>[COLOR deepskyblue]El Mundo SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link></item>     
 
-<item><title>ribera  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/ribera/livestream/chunklist_w1043483975.m3u8</link></item>     
-
-<item><title>terrasa valles  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/.m3u8</link></item>     
-
- <item><title>ceuta  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1832133890.m3u8</link></item>          
-
- <item><title>vall uxo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/15o8376r/mystream/chunklist_w1661249081.m3u8</link></item>        
-
- <item><title>lebtija  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://212.104.160.156:1935/live/lebrijatv2/.m3u8</link></item>      
-
- <item><title>valencia  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8</link></item>      
-
- <item><title>catilla la mancha  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cast.streamingconnect.tv:1935/laregional/laregional/.m3u8</link></item>  
-       
-
- <item><title>101  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8</link></item>     
-
-<item><title>c25  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/tvbarbastro/livestream/.m3u8</link></item>            
-
- <item><title>castellon  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/.m3u8</link></item>     
-
- <item><title>el mundo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link></item>     
-
- <item><title>huelva  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.todostreaming.eu/huelvatv/livestream/playlist.m3u8</link></item>     
-
- <item><title>45  Andujar   [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>rtmp://servers10.com/canal45tv/canal45tv</link></item>  
+ 
 
         </items>
     </channel>
