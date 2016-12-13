@@ -433,12 +433,12 @@
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</title>
+<name>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
 </item>		
 
 <item>
-<title>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</title>
+<name>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
 </item>		
 
