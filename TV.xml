@@ -417,6 +417,8 @@
 <link>NA</link>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Latinos.m3u</externallink>
 </item>		
+        </items>
+    </channel>
 
 <channels>
     <channel>
@@ -424,8 +426,6 @@
     <info></info>
     <thumbnail></thumbnail>
         <items>
-        </items>
-    </channel>
 
 <item>
 <title>[COLOR deepskyblue]Baby TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
