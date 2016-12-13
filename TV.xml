@@ -410,7 +410,8 @@
         </items>
     </channel>
 
-	
+<channels>
+    <channel>
 <item>
 <title>[COLOR deepskyblue]Latinos1[/COLOR]</title>
 <link>NA</link>
@@ -423,6 +424,8 @@
     <info></info>
     <thumbnail></thumbnail>
         <items>
+        </items>
+    </channel>
 
 <item>
 <title>[COLOR deepskyblue]Baby TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
