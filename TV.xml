@@ -410,21 +410,12 @@
         </items>
     </channel>
 
-<channels>
-
-    <channel>
-<name>[COLOR deepskyblue]Latinos[/COLOR]</name>
+	
+<item>
+<title>[COLOR deepskyblue]Latinos1[/COLOR]</title>
 <link>NA</link>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Latinos.m3u</externallink>
-    <thumbnail></thumbnail>
-        <items>
-
-<item>
-
 </item>		
-
-        </items>
-    </channel>
 
 <channels>
     <channel>
