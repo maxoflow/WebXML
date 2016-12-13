@@ -415,20 +415,12 @@
     <channel>
     <name>[COLOR deepskyblue]Latinos[/COLOR]</name>
     <info></info>
+	<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Latinos.m3u</externallink>
     <thumbnail></thumbnail>
         <items>
 
-<item>
-<title>[COLOR lime]•  [/COLOR][COLOR skyblue][B]TotalPlay[/B] [/COLOR] [COLOR lightslategray][ Opcion [COLOR lightblue][B]3[/B] [/COLOR] ][/COLOR][COLOR deepblue][B][/B] [/COLOR] </title>
-<link>NA</link>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Latinos.m3u</externallink>
-</item>		
 
-<item>
-<title>[COLOR deepskyblue]Disney Junior SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Latinos.m3u</externallink>
-<thumbnail></thumbnail>
-</item>
+
 
 
         </items>
