@@ -436,7 +436,8 @@
 <title>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
 </item>		
-
+        </items>
+		<items>
 <item>
 <title>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
