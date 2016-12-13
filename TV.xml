@@ -691,6 +691,12 @@
                         <link>rtmp://62.210.141.18:1935/directo playpath=lancelot.television swfUrl=http://www.lancelot.tv/directo/player.swf live=1 pageUrl=http://www.lancelot.tv/directo/</link>
                 </item>
 
+		<item>
+			<title>[COLOR deepskyblue]Mírame TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+			<thumbnail>http://2.bp.blogspot.com/-rtq9UOQ51LU/VTPCa1f1GkI/AAAAAAAAE8c/7ieZ_Or-WDI/s1600/mirame-tv.png</thumbnail>
+			<link>rtmp://cast.streamingconnect.tv:1935/2015mirame/2015mirame</link>
+		</item>
+
                 <item>
                         <title>[COLOR deepskyblue]EL DÍA TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://3.bp.blogspot.com/-bCWyZkBl51c/VTO-YvlG2YI/AAAAAAAAE8Q/4lvA-rwnSLU/s1600/El-Dia-TV.gif</thumbnail>
@@ -911,90 +917,87 @@
 		</item>
 
 		<item>
-			<title>M95 Marbella</title>
+			<title>[COLOR deepskyblue]M95 Marbella TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLYAo54TW3zfgAXGH4BdjOy76IafowA2ReRII644Mk04WVDTaTcA</title>
 			<link>http://iphone-streaming.ustream.tv/uhls/15585029/streams/live/iphone/playlist.m3u8</link>
 		</item>
 
-		<item>
-			<title>Mírame TV No Funciona</title>
-			<thumbnail>http://2.bp.blogspot.com/-rtq9UOQ51LU/VTPCa1f1GkI/AAAAAAAAE8c/7ieZ_Or-WDI/s1600/mirame-tv.png</thumbnail>
-			<link>rtmp://cast.streamingconnect.tv:1935/2015mirame/2015mirame</link>
-		</item>
-
                 <item>
-                        <title>Navarra TV</title>
+                        <title>[COLOR deepskyblue]Navarra TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://1.bp.blogspot.com/-yQIFDczBCFQ/VE0lt4uLBOI/AAAAAAAAB40/QhOzhjzPHcY/s320/descarga%2B(10).jpg</thumbnail>
                         <link>rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer playpath=NTV_livenatvmb_MB_478 swfUrl=http://nws.nice264.com/jwp6/jwplayer.flash.swf live=1 pageUrl=http://www.natv.es/</link>
                 </item>
 
 		<item>
-			<title>Onda Algeciras TV</title>
+			<title>[COLOR deepskyblue]Onda Algeciras TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://1.bp.blogspot.com/-9f7mxHjvDJM/VTPhIe4jbRI/AAAAAAAAE94/0-QpMcNV_LE/s1600/oatv_logo.gif</thumbnail>
 			<link>http://cls.provideo.es/algecirastv/livestream/playlist.m3u8</link>
 		</item>
 		<item>
-			<title>Onda Azul Málaga</title>
+			<title>[COLOR deepskyblue]Onda Azul Málaga SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://www.todotele.com/wp-content/uploads/2013/03/image003.jpg</thumbnail>
 			<link>http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8</link>
 		</item>
 
 		<item>
-			<title>Ondaluz Cádiz</title>
+			<title>[COLOR deepskyblue]Ondaluz Cádiz SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://3.bp.blogspot.com/-djkN_Kah1gc/VTNMuxl2SsI/AAAAAAAAE6I/KRHXLdzMXB0/s1600/ondaluz-cadiz.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8</link>
 		</item>
 		<item>
-			<title>Ondaluz Costa Del Sol</title>
+			<title>[COLOR deepskyblue]Ondaluz Costa Del Sol SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://1.bp.blogspot.com/-GyaVK49WzrE/VTNB3P4q6OI/AAAAAAAAE5g/XLSlW3ZsqvU/s1600/ondaluz-costadelsol.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8</link>
 		</item>
 		<item>
-			<title>Ondaluz Costa Noroeste</title>
+			<title>[COLOR deepskyblue]Ondaluz Cosat Noroeste SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://3.bp.blogspot.com/-wl0ozmzKTKg/VTNKMjZ9T0I/AAAAAAAAE58/9iLzZP2pZHY/s1600/ondaluz-costa_noroeste.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8</link>
 		</item>
 		<item>
-			<title>Ondaluz Jeréz</title>
+			<title>[COLOR deepskyblue]Ondaluz Jeréz SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://1.bp.blogspot.com/-NttcZEBadBM/VTNBvOnxs7I/AAAAAAAAE5Q/oOSu7ihmXFc/s1600/ondaluz-jerez.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8</link>
 		</item>
 
 		<item>
-			<title>Ondaluz Málaga</title>
+			<title>[COLOR deepskyblue]Ondaluz Málaga SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://3.bp.blogspot.com/-CysK6K_jVBk/VTNG-udnCOI/AAAAAAAAE5w/ePxvdJsXJcw/s1600/ondaluz-malaga.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/olmalaga/livestream1/playlist.m3u8</link>
 		</item>
 
 		<item>
-			<title>Ondaluz Sevilla</title>
+			<title>[COLOR deepskyblue]Ondaluz Sevilla SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://2.bp.blogspot.com/-RUSQDl5MnuY/VTNBzZX8ETI/AAAAAAAAE5Y/HhVhLRnAEGY/s1600/ondaluz-sevilla.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8</link>
 		</item>
 
 		<item>
-			<title>Ribera TV</title>
+			<title>[COLOR deepskyblue]Ribera TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://www.riberatelevisio.com/wp-content/uploads/2011/07/LOGO.jpg</thumbnail>
 			<link>rtmp://188.165.135.22/ribera/livestream</link>
 		</item>
+		
                 <item>
-                        <title>RTVCE</title>
+                        <title>[COLOR deepskyblue]RTVCE SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://www.gepac.es/dmcc2013/images/RADIOS/RTVCE.png</thumbnail>
                         <link>rtmp://teledifusion.tv/rtvcetv/ playpath=rtvcetvlive swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.rtvce.es/</link>
                 </item>
+				
                 <item>
-                        <title>RTV VIDA</title>
+                        <title>[COLOR deepskyblue]RTV Vida HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://2.bp.blogspot.com/-PryQbdodGEQ/VSbT5tL80HI/AAAAAAAAEjA/WnAdz-2UNUs/s1600/RADIOTELEVISI%C3%B3N%2BVIDA2.jpg</thumbnail>
                         <link>http://178.32.53.254/radiovida/livestream/playlist.m3u8</link>
                 </item>
+
 		<item>
-			<title>RTV Marbella</title>
+			<title>[COLOR deepskyblue]RTV Marbella SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://1.bp.blogspot.com/-x4UcHGTbdUM/VSbWF0mkmoI/AAAAAAAAEjM/RJX8k4CphH0/s1600/rtvm_logo.gif</thumbnail>
 			<link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
 		</item>
 
 		<item>
-			<title>Solidaria TV</title>
+			<title>[COLOR deepskyblue]Solidaria TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://2.bp.blogspot.com/-f2W1pYDU8TA/VE2SN0qFKpI/AAAAAAAAB7c/5EgexosDpvg/s320/3437479.jpg</thumbnail>
 			<link>http://188.165.135.22/remararg/livestream/chunklist_w2026566898.m3u8</link>
 		</item>
