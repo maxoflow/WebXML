@@ -919,6 +919,14 @@
 			<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLYAo54TW3zfgAXGH4BdjOy76IafowA2ReRII644Mk04WVDTaTcA</title>
 			<link>http://iphone-streaming.ustream.tv/uhls/15585029/streams/live/iphone/playlist.m3u8</link>
 		</item>
+		
+		<item>
+			<title>[COLOR deepskyblue]RTV Marbella SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+			<thumbnail>http://1.bp.blogspot.com/-x4UcHGTbdUM/VSbWF0mkmoI/AAAAAAAAEjM/RJX8k4CphH0/s1600/rtvm_logo.gif</thumbnail>
+			<link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
+		</item>
+		
+<item><title>marbella  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.provideo.es/marbellatv/livestream/.m3u8</link></item> 
 
                 <item>
                         <title>[COLOR deepskyblue]Navarra TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -959,19 +967,18 @@
 			<thumbnail>http://1.bp.blogspot.com/-NttcZEBadBM/VTNBvOnxs7I/AAAAAAAAE5Q/oOSu7ihmXFc/s1600/ondaluz-jerez.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8</link>
 		</item>
-
 		<item>
 			<title>[COLOR deepskyblue]Ondaluz Málaga SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://3.bp.blogspot.com/-CysK6K_jVBk/VTNG-udnCOI/AAAAAAAAE5w/ePxvdJsXJcw/s1600/ondaluz-malaga.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/olmalaga/livestream1/playlist.m3u8</link>
 		</item>
-
+<item><title>[COLOR deepskyblue]Ondaluz Málaga SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/chunklist_w1760720521.m3u8</link></item>     
 		<item>
 			<title>[COLOR deepskyblue]Ondaluz Sevilla SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://2.bp.blogspot.com/-RUSQDl5MnuY/VTNBzZX8ETI/AAAAAAAAE5Y/HhVhLRnAEGY/s1600/ondaluz-sevilla.gif</thumbnail>
 			<link>http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8</link>
 		</item>
-
+<item><title>[COLOR deepskyblue]Ondaluz Sevilla SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8</link></item> 
 		<item>
 			<title>[COLOR deepskyblue]Ribera TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://www.riberatelevisio.com/wp-content/uploads/2011/07/LOGO.jpg</thumbnail>
@@ -989,12 +996,6 @@
                         <thumbnail>http://2.bp.blogspot.com/-PryQbdodGEQ/VSbT5tL80HI/AAAAAAAAEjA/WnAdz-2UNUs/s1600/RADIOTELEVISI%C3%B3N%2BVIDA2.jpg</thumbnail>
                         <link>http://178.32.53.254/radiovida/livestream/playlist.m3u8</link>
                 </item>
-
-		<item>
-			<title>[COLOR deepskyblue]RTV Marbella SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-			<thumbnail>http://1.bp.blogspot.com/-x4UcHGTbdUM/VSbWF0mkmoI/AAAAAAAAEjM/RJX8k4CphH0/s1600/rtvm_logo.gif</thumbnail>
-			<link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
-		</item>
 
 		<item>
 			<title>[COLOR deepskyblue]Solidaria TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -1072,11 +1073,9 @@
 
   
 
-<item><title>ondaluz malaga  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/chunklist_w1760720521.m3u8</link></item>     
+       
 
-<item><title>ondaluz sevilla  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8</link></item>         
-
-<item><title>marbella  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://cls.provideo.es/marbellatv/livestream/.m3u8</link></item>     
+    
 
 <item><title>ribera  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://188.165.135.22/ribera/livestream/chunklist_w1043483975.m3u8</link></item>     
 
