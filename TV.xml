@@ -427,17 +427,20 @@
 	
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</name>
+    <name>[COLOR deepskyblue]Infantiles[/COLOR]</name>
     <info></info>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
-    <thumbnail></thumbnail>
-	
-    <name>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</name>
-    <info></info>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
     <thumbnail></thumbnail>
         <items>
-	
+		
+<item>
+<title>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
+</item>		
+
+<item>
+<title>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
+</item>		
 
 
         </items>
