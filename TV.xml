@@ -685,6 +685,18 @@
                         <link>http://188.165.135.22/tindayatv/livestream/playlist.m3u8</link>
                 </item> 
 
+                <item>
+                        <title>[COLOR deepskyblue]lancelot TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+                        <thumbnail>http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png</thumbnail>
+                        <link>rtmp://62.210.141.18:1935/directo playpath=lancelot.television swfUrl=http://www.lancelot.tv/directo/player.swf live=1 pageUrl=http://www.lancelot.tv/directo/</link>
+                </item>
+
+                <item>
+                        <title>[COLOR deepskyblue]EL DÍA TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+                        <thumbnail>http://3.bp.blogspot.com/-bCWyZkBl51c/VTO-YvlG2YI/AAAAAAAAE8Q/4lvA-rwnSLU/s1600/El-Dia-TV.gif</thumbnail>
+                        <link>http://teledifusion.tv:1935/dia/dia/playlist.m3u8</link>
+                </item>
+				
 <item>
 <title>[COLOR deepskyblue]Libertad Digital SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><thumbnail>http://especiales.libertaddigital.com/debate-subida-iva/img/logo.png</thumbnail>
 <link>http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8</link>
@@ -801,153 +813,99 @@
 </item>
 
                 <item>
-                        <title>Canal Extremadura</title>
+                        <title>[COLOR deepskyblue]Extremadura SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9kH2zyArid4KIawXKsBVI6C80c1YrZY_VLePhZxMuMXuvqGJy</title>
                         <link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
                 </item>			
 
-			<item>
-			<title>Canal Extremadura </title>
-			<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
-			<thumbnail></thumbnail>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-			<item>
-			<title>CANAL EXTREMADURA [COLOR gray](aporte David)[/COLOR]</title>
-			<link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo</link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-<item><title>extremadura  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link></item>         
-
-<item>
-<title>Canal Extremadura</title><thumbnail>http://llerena.org/archivos/fotos/actualidad/logo%20Canal%20Extremadura%20Tv.jpg</thumbnail>
-<link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo</link>
-</item>
-
-
-
                 <item>
-                        <title>Castilla y León TV</title>
+                        <title>[COLOR deepskyblue]Castilla y León TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_CyLTV.svg/305px-Logo_CyLTV.svg.png</thumbnail>
                         <link>rtmp://cdn.s5.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698ext</link>
                 </item>
 
-<item>
-<title>Castilla y León TV</title><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_CyLTV.svg/305px-Logo_CyLTV.svg.png</thumbnail>
-<link>rtmp://cdn.s10.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698ext</link>
-</item>
-
-			<item><title>[COLOR coral]CASTILLA[/COLOR]</title><link>http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
                 <item>
-                        <title>Castilla-La Mancha TV</title>
+                        <title>[COLOR deepskyblue]Castilla La Mancha TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>https://yt3.ggpht.com/-DSfVb7sZ4Q8/AAAAAAAAAAI/AAAAAAAAAAA/SKNsxZbWqb8/s900-c-k-no/photo.jpg</thumbnail>
                         <link>http://195.55.74.210/rtvcm/live.flv</link>
                 </item>
 
-
-
-		<item>
-			<title>Mediterráneo TV</title>
-			<thumbnail>http://1.bp.blogspot.com/-98itA1qi42U/VT-o00Lp7DI/AAAAAAAAFKQ/E0zPcXzW9RI/s1600/Mediterr%C3%A1neo%2BTV.gif</thumbnail>
-			<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8</link>
-		</item>
-
-			<item><title>[COLOR coral]MEDITERRANEO[/COLOR]</title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/DVR_b600000_w555613878.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
-
-<item><title>TV Mediterreneo  [COLOR lightyellow][I]Local[/I][/COLOR] </title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8</link></item>   
+			<item><title>[COLOR deepskyblue]Mediterráneo TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/DVR_b600000_w555613878.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
                 <item>
-                        <title>101 TV</title>
+                        <title>[COLOR deepskyblue]101 TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://3.bp.blogspot.com/-DNUX-xfVXfI/Vc71rwS3AGI/AAAAAAAAF7Y/oqOtu7yB8LA/s1600/101%2BTV.png</thumbnail>
                         <link>http://cls.todostreaming.eu/101tv/livestream2/playlist.m3u8</link>
                 </item>
 
                 <item>
-                        <title>ALCARRIA TV</title>
+                        <title>[COLOR deepskyblue]Alcarria TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://2.bp.blogspot.com/-6Ytheva6018/VW8s66LgRmI/AAAAAAAAFi4/JcOYwNjnUwU/s1600/Alcarria%2BTV.jpg</thumbnail>
                         <link>http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8</link>
                 </item>
-                <item>
-                        <title>Alfa TV</title>
-                        <thumbnail>http://4.bp.blogspot.com/-1L_Sf7_peAg/VTqRkLO5nBI/AAAAAAAAFFs/0Gl8DOvkcKI/s1600/alfa-tv.png</thumbnail>
-                        <link>rtmp://streamer1.streamhost.org/salive/GMIalfah</link>
-                </item>
 
                 <item>
-                        <title>Andorra TV</title>
+                        <title>[COLOR deepskyblue]Andorra TV HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://www.inakirubio.com/wp-content/uploads/2014/07/AndorraTV_logo2005-300x226.png</thumbnail>
                         <link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link>
                 </item>
 
                 <item>
-                        <title>Canal 7 TELEVALENCIA</title>
+                        <title>[COLOR deepskyblue]7 TELEVALENCIA SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://2.bp.blogspot.com/-Z3oHpCEDm4Q/VW4O-FmBKoI/AAAAAAAAFg0/DLI7ryJYHcU/s1600/CANAL-7-VALENCIA.jpg</thumbnail>
                         <link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/smil:live.smil/master.m3u8</link>
                 </item>
 
                 <item>
-                        <title>Canal 25 Barbastro</title>
+                        <title>[COLOR deepskyblue]25 Barbastro SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrC_Py_3o0kqhIFRVGxaDIrxuuz_g4gB5Gt57K7f-0INDxEx99sQ</title>
                         <link>http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8</link>
                 </item>
+				
                 <item>
-                        <title>Canal 33 Madrid</title>
+                        <title>[COLOR deepskyblue]33 Madrid SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://4.bp.blogspot.com/-rXfXAKoM_7s/UHeGxsaoiJI/AAAAAAAABRM/_mqwMyS-rVs/s400/CANAL%2B33%2BMADRID.jpg</thumbnail>
                         <link>http://iphone-streaming.ustream.tv/uhls/15741867/streams/live/iphone/playlist.m3u8</link>
                 </item>
+				
                 <item>
-                        <title>Canal 45 Andujar</title>
+                        <title>[COLOR deepskyblue]45 Andujar SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://1.bp.blogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif</thumbnail>
                         <link>http://servers10.com:1935/canal45tv/canal45tv/playlist.m3u8</link>
                 </item>
 
-
                 <item>
-                        <title>Canal Parlamento</title>
+                        <title>[COLOR deepskyblue]Parlamento SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://3.bp.blogspot.com/-5RT0WbUnMQA/VUPlEgHscxI/AAAAAAAAFL4/6QrU3WpoIJ8/s1600/Canal%2BParlamento.gif</thumbnail>
                         <link>http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8</link>
                 </item>
 
 		<item>
-			<title>Cetelmon TV</title>
+			<title>[COLOR deepskyblue]Cetelmon TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>https://pbs.twimg.com/profile_images/1366072507/Logotipo_Cetelmon_400x400.jpg</thumbnail>
 			<link>http://84.232.79.194:8090/cetelmontv.flv</link>
 		</item>
 
                 <item>
-                        <title>El Correo TV</title>
+                        <title>[COLOR deepskyblue]El Correo TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://elcostal.org/wp-content/uploads/2014/03/El-correo-tv-fondo-rojo.jpg</thumbnail>
                         <link>http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8</link>
                 </item>
-                <item>
-                        <title>EL DÍA TV</title>
-                        <thumbnail>http://3.bp.blogspot.com/-bCWyZkBl51c/VTO-YvlG2YI/AAAAAAAAE8Q/4lvA-rwnSLU/s1600/El-Dia-TV.gif</thumbnail>
-                        <link>http://teledifusion.tv:1935/dia/dia/playlist.m3u8</link>
-                </item>
 
 		<item>
-			<title>Información TV</title>
+			<title>[COLOR deepskyblue]Información TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://2.bp.blogspot.com/-OYk1k1mZ-4c/VE18ENToyEI/AAAAAAAAB50/E498EloCKo0/s320/logoInfTV.png</thumbnail>
 			<link>rtmp://teledifusion.tv/informaciontvlive playpath=informaciontvlive swfUrl=http://videotecahd.es/flow/flowplayerbuglivefix.swf live=1 pageUrl=http://www.informaciontv.es/</link>
 		</item>
 
-
-                <item>
-                        <title>Lancelot TV</title>
-                        <thumbnail>http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png</thumbnail>
-                        <link>rtmp://62.210.141.18:1935/directo playpath=lancelot.television swfUrl=http://www.lancelot.tv/directo/player.swf live=1 pageUrl=http://www.lancelot.tv/directo/</link>
-                </item>
-
-
 		<item>
-			<title>Lebrija TV</title>
+			<title>[COLOR deepskyblue]Lebrija TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>https://pbs.twimg.com/profile_images/3086109443/760024bcac759f7ec8e77a902de67ce9_400x400.png</thumbnail>
 			<link>http://212.104.160.156:1935/live/lebrijatv2/playlist.m3u8</link>
 		</item>
 
 		<item>
-			<title>LUX Mallorca</title>
+			<title>[COLOR deepskyblue]LUX Mallorca SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://www.mallorcadiario.com/wp-content/uploads/sites/2/2012/04/luxmallorcaok.jpg</thumbnail>
 			<link>rtmp://fl1.viastreaming.net/canal37/livestream</link>
 		</item>
