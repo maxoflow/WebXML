@@ -6,7 +6,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV Baby TV" tvg-name="Baby TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Baby TV
 http://premium.exabytetv.info/HLSST/317/317-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Boomerang" tvg-name="Boomerang"[COLOR deepskyblue]Baby TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR] tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang (Op1) (solo en MX o con VPN)
 http://premium.exabytetv.info/totalpleix/324/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang (Op2)
