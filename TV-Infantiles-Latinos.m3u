@@ -1,4 +1,16 @@
-#EXTINF:0 group-title="Z omitir",[B][COLOR yellow]== INFANTILES ==[/COLOR][/B]
+#EXTINF:0 group-title="Z omitir",[B][COLOR yellow]== Castellano ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+
+#EXTINF:-1 tvg-id="Exabyte TV Baby TV" tvg-name="Baby TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Baby TV
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Panda TV" tvg-name="Panda TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Panda TV
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+
+
+#EXTINF:0 group-title="Z omitir",[B][COLOR yellow]== Latinos ==[/COLOR][/B]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="INFANTILES",Anime TV
@@ -54,60 +66,3 @@ http://premium.exabytetv.info/totalpleix/325/3/GHMSX-101100010001101110001100100
 
 #EXTINF:-1 tvg-id="Exabyte TV Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="INFANTILES",Tooncast (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/328/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== INFANTILES ==[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="INFANTILES",Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Baby TV" tvg-name="Baby TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Baby TV**
-http://premium.exabytetv.info/HLSST/317/317-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/324/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang (Op2)
-http://premium.exabytetv.info/HLSST/10477/10477-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",Cartoon Network (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/320/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",Cartoon Network (Op2)
-http://premium.exabytetv.info/HLSST/421/421-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="INFANTILES",CBeebies (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/305/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="INFANTILES",CBeebies (Op2)
-http://premium.exabytetv.info/HLSST/1029/1029-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",Discovery Kids (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/303/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",Discovery Kids (Op2)
-http://premium.exabytetv.info/HLSST/309/309-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",Disney Channel (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/312/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",Disney Channel (Op2)
-http://premium.exabytetv.info/HLSST/256/256-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",Disney Junior (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/308/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",Disney Junior (Op2)
-http://premium.exabytetv.info/HLSST/1455/1455-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/322/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD (Op2)
-http://premium.exabytetv.info/HLSST/499/499-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png" group-title="INFANTILES",Nick 2 (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/315/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif" group-title="INFANTILES",Nickelodeon (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/317/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif" group-title="INFANTILES",Nickelodeon (Op2)
-http://premium.exabytetv.info/HLSST/1423/1423-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="INFANTILES",Nick Jr (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/310/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="INFANTILES",Nick Jr (Op2)
-http://premium.exabytetv.info/HLSST/10482/10482-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="INFANTILES",Nick Toons (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/314/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_10806_7_66096.png" group-title="INFANTILES",Once Niños**
-http://premium.exabytetv.info/HLSST/13432/13432-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PkPk.png/245px-PkPk.png" group-title="INFANTILES",Paka Paka Argentina
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1697/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://1.bp.blogspot.com/-gPltrFimgy8/Vc13hw_xwUI/AAAAAAAACAY/41aGclEdXfg/s1600/tateti%2Ben%2Bvivo%2Bonline.png" group-title="INFANTILES",Tateti (Argentina)
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="INFANTILES",TIIN (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/325/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="INFANTILES",Tooncast (Op1) *  Sólo México o con VPN
-http://premium.exabytetv.info/totalpleix/328/2/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
