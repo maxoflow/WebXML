@@ -427,7 +427,7 @@
 	
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantiles[/COLOR]</name>
+    <name>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</name>
     <info></info>
     <thumbnail></thumbnail>
         <items>		
@@ -437,12 +437,21 @@
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
 </item>		
 
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Infantiles Latino[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+        <items>		
+		
 <item>
 <title>[COLOR deepskyblue]Infantiles Latino[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
 </item>		
-
-
 
         </items>
     </channel>
