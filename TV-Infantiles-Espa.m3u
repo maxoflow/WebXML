@@ -1,0 +1,33 @@
+#EXTINF:0 group-title="Z omitir",[B][COLOR yellow]== Castellano ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+
+#EXTINF:-1 tvg-id="Exabyte TV Baby TV" tvg-name="Baby TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Baby TV No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Panda TV" tvg-name="Panda TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Panda TV No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Disney Junior" tvg-name="Disney Junior" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Disney Junior No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Nickelodeon No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Nick Jr" tvg-name="Nick Jr" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Nick Jr No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Disney XD" tvg-name="Disney XD" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Disney XD No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Disney Channel" tvg-name="Disney Channel" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Disney Channel No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Boing" tvg-name="Boing" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Boing No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Clan" tvg-name="Clan" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Clan No Funciona
+http://cdn.sitenow.me/live/disneyjunior_aaths6z/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Canal Super3" tvg-name="Canal Super3" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" group-title="INFANTILES",Canal Super3 Catalan
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b548000.m3u8
