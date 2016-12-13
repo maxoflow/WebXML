@@ -759,12 +759,7 @@
 			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 <item><title>[COLOR deepskyblue]8TV SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1665894152.m3u8</link></item>     
 
-                <item>
-                        <title>[COLOR deepskyblue]3/24 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-                        <thumbnail>http://1.bp.blogspot.com/-zYwswRom3oY/VP_Z0__IxJI/AAAAAAAADgI/JPVTj9uzYx8/s1600/3-24_logo2014.png</thumbnail>
-                        <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8?DVR</link>
-                </item>
-<item><title>[COLOR deepskyblue]3/24 SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link></item> 
+<item><title>[COLOR deepskyblue]3/24 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link></item> 
 
 		<item>
 			<title>[COLOR deepskyblue]la xarxa SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -777,10 +772,6 @@
                         <thumbnail>http://www.satexpat.com/img/cha/es/andaluciaTV_95x75.gif</thumbnail>
                         <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
                 </item>
-			<item>
-			<title>[COLOR deepskyblue]Sur Ancalucía SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
-			 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
-			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item> 
 
 <item>
 <title>[COLOR deepskyblue]Galicía TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
@@ -835,7 +826,7 @@
                         <link>rtmp://cdn.s5.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698ext</link>
                 </item>
 
-<item><title>[COLOR deepskyblue]Castilla La Mancha TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link></item> 
+<item><title>[COLOR deepskyblue]Castilla La Mancha TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link></item> 
 
 			<item><title>[COLOR deepskyblue]Mediterráneo TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/DVR_b600000_w555613878.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
@@ -911,7 +902,8 @@
 			<thumbnail>https://pbs.twimg.com/profile_images/3086109443/760024bcac759f7ec8e77a902de67ce9_400x400.png</thumbnail>
 			<link>http://212.104.160.156:1935/live/lebrijatv2/playlist.m3u8</link>
 		</item>
-
+ <item><title>[COLOR deepskyblue]Lebrija TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://212.104.160.156:1935/live/lebrijatv2/.m3u8</link></item> 
+ 
 		<item>
 			<title>[COLOR deepskyblue]LUX Mallorca SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
 			<thumbnail>http://www.mallorcadiario.com/wp-content/uploads/sites/2/2012/04/luxmallorcaok.jpg</thumbnail>
@@ -1058,11 +1050,11 @@
                 </item>
 	
                 <item>
-                        <title>[COLOR deepskyblue]TV Girona SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+                        <title>[COLOR deepskyblue]TV Girona HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
                         <thumbnail>http://www.qpertin.com/wp-content/uploads/2013/07/Logotip-de-TV-Girona.jpg</thumbnail>
                         <link>rtmp://tvgirona.dnssw.net/live/Icontouch</link>
                 </item>
-<item><title>[COLOR deepskyblue]TV Girona SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://tvgirona.dnssw.net:1935/live/Icontouch/.m3u8</link></item> 
+<item><title>[COLOR deepskyblue]TV Girona HD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://tvgirona.dnssw.net:1935/live/Icontouch/.m3u8</link></item> 
 
 			<item><title>[COLOR deepskyblue]Melilla SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
 
@@ -1076,17 +1068,13 @@
 
 <item><title>[COLOR deepskyblue]Cantabria SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://cls2.todostreaming.eu/ptvcantabria/livestream/.m3u8</link></item>   
 
- <item><title>[COLOR deepskyblue]Ceuta SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1832133890.m3u8</link></item>          
-
- <item><title>[COLOR deepskyblue]Lebrija TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://212.104.160.156:1935/live/lebrijatv2/.m3u8</link></item>      
+ <item><title>[COLOR deepskyblue]Ceuta SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1832133890.m3u8</link></item>               
 
 <item><title>[COLOR deepskyblue]C25 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://188.165.135.22/tvbarbastro/livestream/.m3u8</link></item>            
 
  <item><title>[COLOR deepskyblue]Castellón SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/.m3u8</link></item>     
 
- <item><title>[COLOR deepskyblue]El Mundo SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link></item>     
-
- 
+ <item><title>[COLOR deepskyblue]El Mundo HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link></item>     
 
         </items>
     </channel>
