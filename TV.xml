@@ -419,7 +419,7 @@
 
 <item>
 <title>[COLOR deepskyblue]Latinos[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Latinos.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Latinos.m3u</externallink>
 </item>		
         </items>
 
@@ -618,6 +618,22 @@
 <link>http://cdn.sitenow.me/live/toros_9frbv56/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
+
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Locales[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Locales[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
+</item>		
 
         </items>
     </channel>
