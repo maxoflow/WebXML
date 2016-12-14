@@ -415,15 +415,17 @@
     <name>[COLOR deepskyblue]Latinos[/COLOR]</name>
     <info></info>
     <thumbnail></thumbnail>
-        <items>			
-
+        <items>		
+		
 <item>
 <title>[COLOR deepskyblue]Latinos[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Latinos.m3u</externallink>
 </item>		
-        </items>
 
+        </items>
     </channel>
+</channels>
+	
 	
 <channels>
     <channel>
