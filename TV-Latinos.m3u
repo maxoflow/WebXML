@@ -1,14 +1,4 @@
-#EXTM3U url-tvg="http://exabytetv.info/guia.xml"
-#EXTINF:0 group-title="Z omitir",EXABYTE TV 13-12-2016  04:39
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 group-title="Z omitir",Donaciones http://exabytetv.info/blog/donacion
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 group-title="Z omitir",La lista es gratis-Si te la vendieron envía un inbox al facebook
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 group-title="Z omitir",Facebook Oficial: http://fb.com/ExabyteTV
-http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 group-title="Z omitir",== ENTRETENIMIENTO ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-id="Exabyte TV A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E (Op2)
 http://premium.exabytetv.info/HLSST/258/258-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
