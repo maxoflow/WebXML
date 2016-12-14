@@ -1,11 +1,10 @@
 #EXTINF:0 group-title="Z omitir",== ENTRETENIMIENTO ==
 
+#EXTINF:-1 tvg-id="Exabyte TV AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN (Op2)
+http://premium.exabytetv.info/HLSST/2493/2493-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E (Op2)
 http://premium.exabytetv.info/HLSST/258/258-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN (Op2)
-http://premium.exabytetv.info/HLSST/2493/2493-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="ENTRETENIMIENTO",Az Clic (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/103/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
