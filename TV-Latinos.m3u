@@ -1,5 +1,11 @@
 #EXTINF:0 group-title="Z omitir",== ENTRETENIMIENTO ==
 
+<item>
+ <title>[COLOR deepskyblue]#0 SD  [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
 #EXTINF:-1,0 sportdevil
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil> referer=http://cinestrenostv.tv/
 
