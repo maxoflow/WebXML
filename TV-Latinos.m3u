@@ -1,6 +1,8 @@
 #EXTINF:0 group-title="Z omitir",== ENTRETENIMIENTO ==
 
 #EXTINF:-1,CINEMAX sportdevil
+devil:http://www.elchoyerotv.tv/2013/09/axn-en-vivo-por-internet.html referer=http://www.elchoyerotv.tv/
+#EXTINF:-1,CINEMAX sportdevil
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil> referer=http://cinestrenostv.tv/
 
 #EXTINF:-1 tvg-id="Exabyte TV A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E (Op2)
