@@ -2,12 +2,33 @@
  
 
 <channels>
- 
-<channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Deportes Español[/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Musica.m3u</externallink>
-</channel>
-  </channels>
+    <channel>
+    <name>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Musica.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
