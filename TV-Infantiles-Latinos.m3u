@@ -14,7 +14,7 @@ http://premium.exabytetv.info/HLSST/10477/10477-GHMSX-10110001000110111000110010
 http://premium.exabytetv.info/HLSST/421/421-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="INFANTILES",CBeebies (Op2) No Funciona
-http://premium.exabytetv.info/HLSST/1029/1029-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
+
 
 #EXTINF:-1 tvg-id="Exabyte TV Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",Discovery Kids (Op2)
 http://premium.exabytetv.info/HLSST/309/309-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
@@ -29,7 +29,7 @@ http://premium.exabytetv.info/HLSST/1455/1455-GHMSX-1011000100011011100011001001
 http://premium.exabytetv.info/HLSST/499/499-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png" group-title="INFANTILES",Nick 2 (Op1) No Funciona
-http://premium.exabytetv.info/totalpleix/315/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
+
 
 #EXTINF:-1 tvg-id="Exabyte TV Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif" group-title="INFANTILES",Nickelodeon (Op2)
 http://premium.exabytetv.info/HLSST/1423/1423-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
@@ -38,7 +38,7 @@ http://premium.exabytetv.info/HLSST/1423/1423-GHMSX-1011000100011011100011001001
 http://premium.exabytetv.info/HLSST/10482/10482-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="INFANTILES",Nick Toons (Op1) No Funciona
-http://premium.exabytetv.info/totalpleix/314/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
+
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_10806_7_66096.png" group-title="INFANTILES",Once Niños
 http://premium.exabytetv.info/HLSST/13432/13432-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
@@ -50,7 +50,7 @@ http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="INFANTILES",TIIN (Op1) No Funciona
-http://premium.exabytetv.info/totalpleix/325/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
+
 
 #EXTINF:-1 tvg-id="Exabyte TV Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="INFANTILES",Tooncast (Op1) No Funciona
-http://premium.exabytetv.info/totalpleix/328/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
+
