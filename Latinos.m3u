@@ -784,38 +784,32 @@ http://premium.exabytetv.info/totalpleix/387/3/GHMSX-101100010001101110001100100
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" group-title="NOTICIAS - NEWS",Al Jazeera UK
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" group-title="NOTICIAS - NEWS",Az Noticias (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" group-title="NOTICIAS - NEWS",Az Noticias (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/2/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1595.png" group-title="NOTICIAS - NEWS",CB24 Noticias Centroamérica
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV CNN en español" tvg-name="CNN en español" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/213.png" group-title="NOTICIAS - NEWS",CNN en Espanol
+#EXTINF:-1 tvg-id="Exabyte TV CNN en español" tvg-name="CNN en español" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/213.png" group-title="NOTICIAS - NEWS",CNN en Espanol No Funciona
 http://premium.exabytetv.info/HLSST/1855/1855-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/cnn.png" group-title="NOTICIAS - NEWS",CNN Internacional
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="NOTICIAS - NEWS",CNN USA
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1731/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="NOTICIAS - NEWS",CNN USA op2
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="NOTICIAS - NEWS",CNN USA op2 No Funciona
 http://premium.exabytetv.info/HLSST/3133/3133-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",EfektoTV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="NOTICIAS - NEWS",El Financiero Bloomberg (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="NOTICIAS - NEWS",El Financiero Bloomberg (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/610/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1459.png" group-title="NOTICIAS - NEWS",Euronews en Español
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Excelsior TV" tvg-name="Excelsior TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3694.png" group-title="NOTICIAS - NEWS",Excelsior TV
+#EXTINF:-1 tvg-id="Exabyte TV Excelsior TV" tvg-name="Excelsior TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3694.png" group-title="NOTICIAS - NEWS",Excelsior TV No Funciona
 http://premium.exabytetv.info/HLSST/13427/13427-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="NOTICIAS - NEWS",Foro TV (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/104/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i2.esmas.com/2015/06/22/778598/foro-tv--280x370.jpg" group-title="NOTICIAS - NEWS",Foro TV Opción 2
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
@@ -823,16 +817,13 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="NOTICIAS - NEWS",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="NOTICIAS - NEWS",Milenio
+#EXTINF:-1 tvg-id="Exabyte TV Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="NOTICIAS - NEWS",Milenio No Funciona
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-
-#EXTINF:-1 tvg-id="Exabyte TV Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="NOTICIAS - NEWS",Milenio (op2) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/603/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.noticiasmvs.com/img/noticiasMvs1024.png" group-title="NOTICIAS - NEWS",MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.raddios.com/public/radios/original/4374.jpg" group-title="NOTICIAS - NEWS",NTN24
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.raddios.com/public/radios/original/4374.jpg" group-title="NOTICIAS - NEWS",NTN24 No Funciona
 http://premium.exabytetv.info/livestream.php?acc=13988764&eve=4133355&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",RT en español
@@ -844,16 +835,16 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Russia Today
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Russia Today En Español
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Russia Today En Español No Funciona
 http://rt-lh.akamaihd.net/i/ch_02@325606/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skynews.png" group-title="NOTICIAS - NEWS",Sky News
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skynews.png" group-title="NOTICIAS - NEWS",Sky News No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1622/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Sky News International
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",Sky News International No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1623/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV TeleFórmula" tvg-name="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefórmula.gif" group-title="NOTICIAS - NEWS",TeleFórmula (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV TeleFórmula" tvg-name="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefórmula.gif" group-title="NOTICIAS - NEWS",TeleFórmula (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/161/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="NOTICIAS - NEWS",TRT World
@@ -870,7 +861,7 @@ http://74.63.97.188:1935/c7/videoc7/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal 2 Mochis TV
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal 2 Yaqui TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal 2 Yaqui TV No Funciona
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/canal-4-gdl.png" group-title="MÉXICO (Locales)",Canal 4 Guadalajara
