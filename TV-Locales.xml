@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Locales Castellano[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Locales Castellano[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Locales Latinos[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Locales Latinos[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Latinos.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
