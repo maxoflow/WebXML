@@ -221,339 +221,276 @@ http://premium.exabytetv.info/HLSST/3293/3293-GHMSX-1011000100011011100011001001
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/18.png" group-title="PELÍCULAS Y SERIES",Paramount Channel Latino No Funciona
 http://premium.exabytetv.info/HLSST/260/260-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/2489/2489-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
 
 #EXTINF:-1 tvg-id="Exabyte TV Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/345/345-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/496/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/481/481-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="PELÍCULAS Y SERIES",TNT (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/482/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="PELÍCULAS Y SERIES",TNT (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="PELÍCULAS Y SERIES",TNT (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/9042/9042-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="PELÍCULAS Y SERIES",TNT HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/435/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT Series (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/266/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT Series (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT Series (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/331/331-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/256/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/387/387-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="PELÍCULAS Y SERIES",Universal HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/207/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Warner Channel" tvg-name="Warner Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="PELÍCULAS Y SERIES",Warner Channel
+#EXTINF:-1 tvg-id="Exabyte TV Warner Channel" tvg-name="Warner Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="PELÍCULAS Y SERIES",Warner Channel No Funciona
 http://premium.exabytetv.info/HLSST/2499/2499-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",Warner HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/205/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:0 group-title="Z omitir",== PREMIUM ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="PREMIUM",Broadmovies
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1648/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/exakids.png" group-title="PREMIUM",Exabyte Kids
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1288/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies1.png" group-title="PREMIUM",Exabyte Movies 1 (Drama-Comedia-Romance)
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1283/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies2.png" group-title="PREMIUM",Exabyte Movies 2 (Accción-Suspenso)
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1295/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies3.png" group-title="PREMIUM",Exabyte Movies 3 (Terror)
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1294/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies4.png" group-title="PREMIUM",Exabyte Movies 4
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1409/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies5.png" group-title="PREMIUM",Exabyte Movies 5
-http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1657/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Golden Choice Multiplex" tvg-name="Golden Choice Multiplex" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/615.png" group-title="PREMIUM",Golden Multiplex  
+#EXTINF:-1 tvg-id="Exabyte TV Golden Choice Multiplex" tvg-name="Golden Choice Multiplex" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/615.png" group-title="PREMIUM",Golden Multiplex No Funciona
 http://premium.exabytetv.info/HLSST/1035/1035-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1787.png" group-title="PREMIUM",Golden Premier 1
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1787.png" group-title="PREMIUM",Golden Premier 1 No Funciona
 http://premium.exabytetv.info/HLSST/4777/4777-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1782.png" group-title="PREMIUM",Golden Premier 2
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1782.png" group-title="PREMIUM",Golden Premier 2 No Funciona
 http://premium.exabytetv.info/HLSST/4772/4772-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV HBO 2" tvg-name="HBO 2" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/187.png" group-title="PREMIUM",HBO 2 Latino
+#EXTINF:-1 tvg-id="Exabyte TV HBO 2" tvg-name="HBO 2" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/187.png" group-title="PREMIUM",HBO 2 Latino No Funciona
 http://premium.exabytetv.info/HLSST/365/365-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV HBO Family Este" tvg-name="HBO Family Este" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/193.png" group-title="PREMIUM",HBO Family Latino
+#EXTINF:-1 tvg-id="Exabyte TV HBO Family Este" tvg-name="HBO Family Este" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/193.png" group-title="PREMIUM",HBO Family Latino No Funciona
 http://premium.exabytetv.info/HLSST/449/449-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV HBO" tvg-name="HBO" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/207.png" group-title="PREMIUM",HBO Latino
 http://premium.exabytetv.info/HLSST/385/385-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV HBO Plus" tvg-name="HBO Plus" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/189.png" group-title="PREMIUM",HBO Plus Este
+#EXTINF:-1 tvg-id="Exabyte TV HBO Plus" tvg-name="HBO Plus" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/189.png" group-title="PREMIUM",HBO Plus Este No Funciona
 http://premium.exabytetv.info/HLSST/453/453-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV HBO Plus Oeste" tvg-name="HBO Plus Oeste" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/191.png" group-title="PREMIUM",HBO Plus Oeste
+#EXTINF:-1 tvg-id="Exabyte TV HBO Plus Oeste" tvg-name="HBO Plus Oeste" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/191.png" group-title="PREMIUM",HBO Plus Oeste No Funciona
 http://premium.exabytetv.info/HLSST/369/369-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Max (Este)" tvg-name="Max (Este)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/203.png" group-title="PREMIUM",Max Latino
+#EXTINF:-1 tvg-id="Exabyte TV Max (Este)" tvg-name="Max (Este)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/203.png" group-title="PREMIUM",Max Latino No Funciona
 http://premium.exabytetv.info/HLSST/381/381-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV MAX Prime Este" tvg-name="MAX Prime Este" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/199.png" group-title="PREMIUM",Max Prime Este
+#EXTINF:-1 tvg-id="Exabyte TV MAX Prime Este" tvg-name="MAX Prime Este" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/199.png" group-title="PREMIUM",Max Prime Este No Funciona
 http://premium.exabytetv.info/HLSST/377/377-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV MAX Prime Oeste" tvg-name="MAX Prime Oeste" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/201.png" group-title="PREMIUM",Max Prime Oeste
+#EXTINF:-1 tvg-id="Exabyte TV MAX Prime Oeste" tvg-name="MAX Prime Oeste" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/201.png" group-title="PREMIUM",Max Prime Oeste No Funciona
 http://premium.exabytetv.info/HLSST/379/379-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Max UP" tvg-name="Max UP" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/197.png" group-title="PREMIUM",Max Up Latino
+#EXTINF:-1 tvg-id="Exabyte TV Max UP" tvg-name="Max UP" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/197.png" group-title="PREMIUM",Max Up Latino No Funciona
 http://premium.exabytetv.info/HLSST/469/469-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:0 group-title="Z omitir",== DEPORTES - SPORTS ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 1 (UK)
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 1 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1559/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 2 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 2 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1560/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 3 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 3 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1561/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 4 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 4 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1562/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 5 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Arena Sports 5 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1563/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES - SPORTS",AyM Sports (México) (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES - SPORTS",AyM Sports (México) (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/576/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 1
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 1 No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1564/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 2
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 2 No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1565/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 3
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Fr 3 No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1566/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Max 4 (Francia)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Max 4 (Francia) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1567/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Max 5 (Francia)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Max 5 (Francia) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1568/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV beIN Sport en Español" tvg-name="beIN Sport en Español" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1239.png" group-title="DEPORTES - SPORTS",Bein Sports N
+#EXTINF:-1 tvg-id="Exabyte TV beIN Sport en Español" tvg-name="beIN Sport en Español" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1239.png" group-title="DEPORTES - SPORTS",Bein Sports N No Funciona
 http://premium.exabytetv.info/HLSST/13113/13113-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 1 (sólo eventos)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 1 (sólo eventos) No Funciona
 http://premium.exabytetv.info/beistv.php?id=1
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 2 (sólo eventos)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 2 (sólo eventos) No Funciona
 http://premium.exabytetv.info/beistv.php?id=2
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 3 (sólo eventos)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 3 (sólo eventos) No Funciona
 http://premium.exabytetv.info/beistv.php?id=3
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 4 (sólo eventos)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Beis TV 4 (sólo eventos) No Funciona
 http://premium.exabytetv.info/beistv.php?id=4
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Box Nation
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Box Nation No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1572/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Espn (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Espn (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1573/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png" group-title="DEPORTES - SPORTS",BT Sport 1 UK
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png" group-title="DEPORTES - SPORTS",BT Sport 1 UK No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1610/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png" group-title="DEPORTES - SPORTS",BT Sport 2 UK
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png" group-title="DEPORTES - SPORTS",BT Sport 2 UK No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1611/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports Europe
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports Europe No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1574/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports Extra
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports Extra No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1575/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Canal del Futbol (Sólo eventos Ecuador)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Canal del Futbol (Sólo eventos Ecuador) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1321/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://grfx.cstv.com/schools/hou/graphics/auto/tv_CBSSN.jpg" group-title="DEPORTES - SPORTS",CBS Sports Network
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://grfx.cstv.com/schools/hou/graphics/auto/tv_CBSSN.jpg" group-title="DEPORTES - SPORTS",CBS Sports Network No Funciona
 http://premium.exabytetv.info/HLSST/2359/2359-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://2.bp.blogspot.com/-EsjmKdYjDyY/VQASgOY4ZPI/AAAAAAAADkY/tpBOrjaFqT4/s1600/cdn-sportsmax-655.png" group-title="DEPORTES - SPORTS",CDN Sports Max
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://2.bp.blogspot.com/-EsjmKdYjDyY/VQASgOY4ZPI/AAAAAAAADkY/tpBOrjaFqT4/s1600/cdn-sportsmax-655.png" group-title="DEPORTES - SPORTS",CDN Sports Max No Funciona
 http://premium.exabytetv.info/livestream.php?acc=15754920&eve=5198653&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cdo_cl_premium.png" group-title="DEPORTES - SPORTS",CDO Premium (Chile)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cdo_cl_premium.png" group-title="DEPORTES - SPORTS",CDO Premium (Chile) No Funciona
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 1
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 1 No Funciona
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cable_magico_deportes.png" group-title="DEPORTES - SPORTS",CMD HD (Perú)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cable_magico_deportes.png" group-title="DEPORTES - SPORTS",CMD HD (Perú) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/706/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2854.png" group-title="DEPORTES - SPORTS",DeporTV (DXTV) Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",DirecTV Sports 2
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",DirecTV Sports 2 No Funciona
 http://co.exabytetv.info/jua/GHMSX-1011000100011011100011001001100-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9jYW5hbC1mMS1sYXRpbm9hbWVyaWNhLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/79/big_logo.png" group-title="DEPORTES - SPORTS",Dubai Sports (Arabe)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/79/big_logo.png" group-title="DEPORTES - SPORTS",Dubai Sports (Arabe) No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/583/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES - SPORTS",ESPN + (México) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/516/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",ESPN 1 (Argentina)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",ESPN 1 (Argentina) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1156/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 1 (México) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/558/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 1 (México) (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 1  (México) (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/2487/2487-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES - SPORTS",ESPN 2 (México) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/561/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES - SPORTS",ESPN 2 (México) (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES - SPORTS",ESPN 2 (México) (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/301/301-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES - SPORTS",ESPN 3 (México) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/520/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES - SPORTS",ESPN 3 (México) (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES - SPORTS",ESPN 3 (México) (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/3806/3806-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES - SPORTS",ESPN HD (México) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/558/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Euro Sports 1 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Euro Sports 1 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1576/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Euro Sports 2 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Euro Sports 2 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1577/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.multichannel.com/sites/default/files/public/styles/blog_content/public/fight%20sports%20logo%20400x300.jpg" group-title="DEPORTES - SPORTS",Fight Sports (Arabe)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.multichannel.com/sites/default/files/public/styles/blog_content/public/fight%20sports%20logo%20400x300.jpg" group-title="DEPORTES - SPORTS",Fight Sports (Arabe) No Funciona
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3440/big_logo.png" group-title="DEPORTES - SPORTS",FighTV Plus (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3440/big_logo.png" group-title="DEPORTES - SPORTS",FighTV Plus (UK) No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/702/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 1 (Argentina)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 1 (Argentina) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1735/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 1 (México) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/522/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 1 (México) (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 1 (México) (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/2505/2505-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 (México) (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/527/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 (México) (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 (México) (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/475/475-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/127.png" group-title="DEPORTES - SPORTS",Fox Sports 3 (México)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/127.png" group-title="DEPORTES - SPORTS",Fox Sports 3 (México) No Funciona
 http://premium.exabytetv.info/HLSST/445/445-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1 (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/511/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1 (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",Fórmula 1 (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/1695/1695-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES - SPORTS",Gol Perú
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES - SPORTS",Gol Perú No Funciona
 http://streams.innova-systems.net/GOLPERUHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/gol_tv.png" group-title="DEPORTES - SPORTS",Gol TV
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://lh4.googleusercontent.com/-1FzAf8JhNSA/UgP_OcRbbrI/AAAAAAAABJw/7ctPs6LwEaA/gol-television+live.jpg" group-title="DEPORTES - SPORTS",Gol TV Sur
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://lh4.googleusercontent.com/-1FzAf8JhNSA/UgP_OcRbbrI/AAAAAAAABJw/7ctPs6LwEaA/gol-television+live.jpg" group-title="DEPORTES - SPORTS",Gol TV Sur No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1691/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3525.png" group-title="DEPORTES - SPORTS",MLB Extra Innings
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3525.png" group-title="DEPORTES - SPORTS",MLB Extra Innings No Funciona
 http://premium.exabytetv.info/HLSST/12714/12714-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/40.png" group-title="DEPORTES - SPORTS",MLB Network
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/40.png" group-title="DEPORTES - SPORTS",MLB Network No Funciona
 http://premium.exabytetv.info/HLSST/192/192-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/262/big_logo.png" group-title="DEPORTES - SPORTS",Motorz (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/262/big_logo.png" group-title="DEPORTES - SPORTS",Motorz (UK) No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/584/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/295/big_logo.png" group-title="DEPORTES - SPORTS",My Combat Channel (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/295/big_logo.png" group-title="DEPORTES - SPORTS",My Combat Channel (UK) No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/586/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="DEPORTES - SPORTS",NBA TV (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="DEPORTES - SPORTS",NBA TV (USA) No Funciona
 http://premium.exabytetv.info/HLSST/2347/2347-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/220px-Golf_Channel_Logo.png" group-title="DEPORTES - SPORTS",NBC Golf (USA)
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2502.png" group-title="DEPORTES - SPORTS",NBC Sport Network (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2502.png" group-title="DEPORTES - SPORTS",NBC Sport Network (USA) No Funciona
 http://premium.exabytetv.info/HLSST/6302/6302-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/591.png" group-title="DEPORTES - SPORTS",NFL Network
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/591.png" group-title="DEPORTES - SPORTS",NFL Network No Funciona
 http://premium.exabytetv.info/HLSST/1003/1003-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/696739618562027520/oYgqd7MO.jpg" group-title="DEPORTES - SPORTS",NFL Now (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/696739618562027520/oYgqd7MO.jpg" group-title="DEPORTES - SPORTS",NFL Now (USA) No Funciona
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 1
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 1 No Funciona
 http://premium.exabytetv.info/HLSST/13341/13341-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 2
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 2 No Funciona
 http://premium.exabytetv.info/HLSST/13342/13342-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 3
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 3 No Funciona
 http://premium.exabytetv.info/HLSST/13343/13343-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 4
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 4 No Funciona
 http://premium.exabytetv.info/HLSST/13344/13344-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 5
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 5 No Funciona
 http://premium.exabytetv.info/HLSST/13345/13345-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 6
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/" group-title="DEPORTES - SPORTS", NFL Sunday Ticket 6 No Funciona
 http://premium.exabytetv.info/HLSST/13346/13346-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://1.cdn.nhle.com/nhl/en/v3/ext/nhl_network/NHL_Network_149.png" group-title="DEPORTES - SPORTS",NHL Network
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://1.cdn.nhle.com/nhl/en/v3/ext/nhl_network/NHL_Network_149.png" group-title="DEPORTES - SPORTS",NHL Network No Funciona
 http://premium.exabytetv.info/HLSST/194/194-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="DEPORTES - SPORTS", Pac-12 Arizona
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="DEPORTES - SPORTS", Pac-12 Arizona No Funciona
 http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/435.png" group-title="DEPORTES - SPORTS", Pac-12 Bay Area
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/435.png" group-title="DEPORTES - SPORTS", Pac-12 Bay Area No Funciona
 http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/439.png" group-title="DEPORTES - SPORTS", Pac-12 Los Angeles
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/439.png" group-title="DEPORTES - SPORTS", Pac-12 Los Angeles No Funciona
 http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/343.png" group-title="DEPORTES - SPORTS", Pac-12 Mountain
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/343.png" group-title="DEPORTES - SPORTS", Pac-12 Mountain No Funciona
 http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_2328_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/437.png" group-title="DEPORTES - SPORTS", Pac-12 Networks
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/437.png" group-title="DEPORTES - SPORTS", Pac-12 Networks No Funciona
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/345.png" group-title="DEPORTES - SPORTS", Pac-12 Oregon
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/345.png" group-title="DEPORTES - SPORTS", Pac-12 Oregon No Funciona
 http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/441.png" group-title="DEPORTES - SPORTS", Pac-12 Washington
@@ -562,108 +499,97 @@ http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://media.cardplayer.com/assets/twitch_channels/000/000/001/pokercentral-profile_image-576154661611b620-300x300.png" group-title="DEPORTES - SPORTS",Poker Central (USA)
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" group-title="DEPORTES - SPORTS",Real Madrid TV (España)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png" group-title="DEPORTES - SPORTS",Sky Sports 1 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png" group-title="DEPORTES - SPORTS",Sky Sports 1 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1603/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png" group-title="DEPORTES - SPORTS",Sky Sports 2 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png" group-title="DEPORTES - SPORTS",Sky Sports 2 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1604/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png" group-title="DEPORTES - SPORTS",Sky Sports 3 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png" group-title="DEPORTES - SPORTS",Sky Sports 3 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1605/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png" group-title="DEPORTES - SPORTS",Sky Sports 4 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png" group-title="DEPORTES - SPORTS",Sky Sports 4 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1606/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png" group-title="DEPORTES - SPORTS",Sky Sports 5 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png" group-title="DEPORTES - SPORTS",Sky Sports 5 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1607/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsboxoffice.png" group-title="DEPORTES - SPORTS",Sky Sports Box Office
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1602/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportscricket.png" group-title="DEPORTES - SPORTS",Sky Sports Cricket
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportscricket.png" group-title="DEPORTES - SPORTS",Sky Sports Cricket No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1601/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsf1.png" group-title="DEPORTES - SPORTS",Sky Sports F1 (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsf1.png" group-title="DEPORTES - SPORTS",Sky Sports F1 (UK) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1609/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/863.png" group-title="DEPORTES - SPORTS",Sky Sports Latino
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/863.png" group-title="DEPORTES - SPORTS",Sky Sports Latino No Funciona
 http://premium.exabytetv.info/HLSST/1477/1477-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsnews.png" group-title="DEPORTES - SPORTS",Sky Sports News
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsnews.png" group-title="DEPORTES - SPORTS",Sky Sports News No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1608/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnet_one_short.png" group-title="DEPORTES - SPORTS",SportsNet One
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnet_one_short.png" group-title="DEPORTES - SPORTS",SportsNet One No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1598/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_ont.png" group-title="DEPORTES - SPORTS",SportsNet Ontario
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_ont.png" group-title="DEPORTES - SPORTS",SportsNet Ontario No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1597/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i59.tinypic.com/biseb6.jpg" group-title="DEPORTES - SPORTS",SportsNet World
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://i59.tinypic.com/biseb6.jpg" group-title="DEPORTES - SPORTS",SportsNet World No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1599/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV TDN" tvg-name="TDN" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/635.png" group-title="DEPORTES - SPORTS",TDN
+#EXTINF:-1 tvg-id="Exabyte TV TDN" tvg-name="TDN" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/635.png" group-title="DEPORTES - SPORTS",TDN No Funciona
 http://premium.exabytetv.info/HLSST/1059/1059-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/265/big_logo.png" group-title="DEPORTES - SPORTS",The Ski Channel (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/265/big_logo.png" group-title="DEPORTES - SPORTS",The Ski Channel (UK) No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/585/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 1 (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 1 (USA) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1578/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 2 (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 2 (USA) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1579/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 3 (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 3 (USA) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1580/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 4 (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 4 (USA) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1581/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 5 (USA)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",TSN Sports 5 (USA) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1582/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png" group-title="DEPORTES - SPORTS",UFC Network
-http://premium.exabytetv.info/HLSST/13074/13074-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png" group-title="DEPORTES - SPORTS",UFC Network (op2)
 http://190.57.234.164/V3/6/2.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3257.png" group-title="DEPORTES - SPORTS",UFC Network HD
-http://premium.exabytetv.info/HLSST/13489/13489-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3257.png" group-title="DEPORTES - SPORTS",UFC Network HD (op2)
 http://190.57.234.164/V3/6/1.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next (UK)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next (UK) No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/544/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3207.png" group-title="DEPORTES - SPORTS",Univision Deportes Network
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3207.png" group-title="DEPORTES - SPORTS",Univision Deportes Network No Funciona
 http://premium.exabytetv.info/HLSST/11293/11293-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/univision_tdn.png" group-title="DEPORTES - SPORTS",Univisión TDN
+#EXTINF:-1 tvg-id="Exabyte TV Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/univision_tdn.png" group-title="DEPORTES - SPORTS",Univisión TDN No Funciona
 http://premium.exabytetv.info/HLSST/1483/1483-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",Versus Channel (USA)
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="DEPORTES - SPORTS",Win Sports (Colombia)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="DEPORTES - SPORTS",Win Sports (Colombia) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/606/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",WWE Network
-http://premium.exabytetv.info/HLSST/13266/13266-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",WWE Network HD (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",WWE Network HD (Op2) No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1600/exabytetv.m3u8
+
 
 #EXTINF:0 group-title="Z omitir",== MÚSICA - MUSIC ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Atomic
 rtmp://5.154.185.153/live/live.flv
 
-#EXTINF:-1 tvg-id="Exabyte TV Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MÚSICA - MUSIC",Bandamax (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MÚSICA - MUSIC",Bandamax (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/732/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Capital TV (UK)
@@ -690,11 +616,8 @@ http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg" group-title="MÚSICA - MUSIC",Eska Vox TV Old Cool
 http://stream.smcloud.net/live/vox/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3697.png" group-title="MÚSICA - MUSIC",Exa TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3697.png" group-title="MÚSICA - MUSIC",Exa TV No Funciona
 http://premium.exabytetv.info/HLSST/13443/13443-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Hard Life
-http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Heart TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -702,40 +625,31 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV HTV" tvg-name="HTV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/163.png" group-title="MÚSICA - MUSIC",HTV
+#EXTINF:-1 tvg-id="Exabyte TV HTV" tvg-name="HTV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/163.png" group-title="MÚSICA - MUSIC",HTV No Funciona
 http://premium.exabytetv.info/HLSST/341/341-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",M6 Music
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Movistar Music
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Movistar Music No Funciona
 http://B36642.cdn.telefonica.com/36642/ch09/3.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/MTV_Base_2013.png" group-title="MÚSICA - MUSIC",MTV Base
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/MTV_Base_2013.png" group-title="MÚSICA - MUSIC",MTV Base No Funciona
 http://premium.exabytetv.info/xtc/GHMSX-1011000100011011100011001001100-ExabyteTV/1596/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/727/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/1495/1495-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="MÚSICA - MUSIC",MTV Latino (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/726/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="MÚSICA - MUSIC",MTV Latino (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="MÚSICA - MUSIC",MTV Latino (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/2491/2491-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif" group-title="MÚSICA - MUSIC",MTV Live (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif" group-title="MÚSICA - MUSIC",MTV Live (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/701/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MÚSICA - MUSIC",MTV Rocks
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MÚSICA - MUSIC",MTV Rocks No Funciona
 http://94.74.65.100:19123/ott/68:1122
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",OneTV Arg
@@ -744,63 +658,56 @@ http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="MÚSICA - MUSIC",Ritmoson Latino (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="MÚSICA - MUSIC",Ritmoson Latino (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/731/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Rock TV
 http://212.96.163.139:8020/1-tv-pc/924.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="MÚSICA - MUSIC",Telehit HD (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="MÚSICA - MUSIC",Telehit HD (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/702/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",The Soundtrack Channel
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",The Soundtrack Channel No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/1351/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Urban Music Network
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Urban Music Network No Funciona
 http://premium.exabytetv.info/tokener/GHMSX-1011000100011011100011001001100-ExabyteTV/1352/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 1
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 1 No Funciona
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 2
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 2 No Funciona
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 3
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vevo 3 No Funciona
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="MÚSICA - MUSIC",VH1 Classic (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/728/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="MÚSICA - MUSIC",VH1 Classic (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="MÚSICA - MUSIC",VH1 Classic (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/415/415-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="MÚSICA - MUSIC",VH1 HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/703/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV VH1" tvg-name="VH1" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/227.png" group-title="MÚSICA - MUSIC",VH1 Latino
+#EXTINF:-1 tvg-id="Exabyte TV VH1" tvg-name="VH1" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/227.png" group-title="MÚSICA - MUSIC",VH1 Latino No Funciona
 http://premium.exabytetv.info/HLSST/483/483-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.graphicdesign.com/wp-content/uploads/2013/02/thumb-vh1.png" group-title="MÚSICA - MUSIC",VH1 USA
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.graphicdesign.com/wp-content/uploads/2013/02/thumb-vh1.png" group-title="MÚSICA - MUSIC",VH1 USA No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1706/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Vibee
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3698.png" group-title="MÚSICA - MUSIC",Videorola
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3698.png" group-title="MÚSICA - MUSIC",Videorola No Funciona
 http://premium.exabytetv.info/HLSST/13444/13444-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",Virgin TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
+
 #EXTINF:0 group-title="Z omitir",== MUNDO Y CULTURA ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",Animal Planet (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/373/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",Animal Planet (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",Animal Planet (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/441/441-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Aprende TV" tvg-name="Aprende TV" tvg-logo="" group-title="MUNDO Y CULTURA",Aprende TV
+#EXTINF:-1 tvg-id="Exabyte TV Aprende TV" tvg-name="Aprende TV" tvg-logo="" group-title="MUNDO Y CULTURA",Aprende TV No Funciona
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MUNDO Y CULTURA",Canal del Congreso MX
@@ -809,80 +716,61 @@ http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u
 #EXTINF:-1 tvg-id="Exabyte TV Once TV" tvg-name="Once TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1177.png" group-title="MUNDO Y CULTURA",Canal Once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",Discovery Channel (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/371/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",Discovery Channel (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",Discovery Channel (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/3531/3531-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="MUNDO Y CULTURA",Discovery Civilization (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="MUNDO Y CULTURA",Discovery Civilization (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/382/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="MUNDO Y CULTURA",Discovery SCI (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="MUNDO Y CULTURA",Discovery SCI (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/381/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="MUNDO Y CULTURA",Discovery Theater (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/351/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="MUNDO Y CULTURA",Discovery Theater (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="MUNDO Y CULTURA",Discovery Theater (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/3798/3798-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="MUNDO Y CULTURA",Discovery Turbo (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="MUNDO Y CULTURA",Discovery Turbo (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/383/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="MUNDO Y CULTURA",Discovery World (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/356/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="MUNDO Y CULTURA",Discovery World (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="MUNDO Y CULTURA",Discovery World (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/3529/3529-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1095.png" group-title="MUNDO Y CULTURA",DW Latinoamérica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/119.png" group-title="MUNDO Y CULTURA",H2 Latino
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/119.png" group-title="MUNDO Y CULTURA",H2 Latino No Funciona
 http://premium.exabytetv.info/HLSST/297/297-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History Channel (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/353/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History Channel (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History Channel (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/3704/3704-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Ingenio TV" tvg-name="Ingenio TV" tvg-logo="" group-title="MUNDO Y CULTURA",Ingenio TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MUNDO Y CULTURA",Ingenio TV No Funciona
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MUNDO Y CULTURA",Ingenio TV
-http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-
-#EXTINF:-1 tvg-id="Exabyte TV Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="MUNDO Y CULTURA",Investigation Discovery (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/263/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="MUNDO Y CULTURA",Investigation Discovery (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="MUNDO Y CULTURA",Investigation Discovery (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/455/455-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MUNDO Y CULTURA",Nasa Space Station
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="MUNDO Y CULTURA",Nat Geo (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/377/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="MUNDO Y CULTURA",Nat Geo (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="MUNDO Y CULTURA",Nat Geo (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/395/395-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",Nat Geo Wild (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/355/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",Nat Geo Wild (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",Nat Geo Wild (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/254/254-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/733.png" group-title="MUNDO Y CULTURA",NHK World
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/733.png" group-title="MUNDO Y CULTURA",NHK World No Funciona
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif" group-title="MUNDO Y CULTURA",Once TV (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif" group-title="MUNDO Y CULTURA",Once TV (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/111/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Proyecto 40" tvg-name="Proyecto 40" tvg-logo="http://y.cdn.entutele.com/media/channels/big/proyecto-40.gif" group-title="MUNDO Y CULTURA",Proyecto 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+
+
+#EXTINF:0 group-title="Z omitir",== NOTICIAS - NEWS ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/f2/bc/62/f2bc62a01b364ea02e257a75dd120ec2.jpg" group-title="MUNDO Y CULTURA",RT Documentary
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
@@ -890,11 +778,9 @@ http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MUNDO Y CULTURA",Twit
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" group-title="MUNDO Y CULTURA",WOBI TV (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" group-title="MUNDO Y CULTURA",WOBI TV (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/387/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:0 group-title="Z omitir",== NOTICIAS - NEWS ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" group-title="NOTICIAS - NEWS",Al Jazeera UK
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
