@@ -799,9 +799,6 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="NOTICIAS - NEWS",CNN USA op2 No Funciona
 http://premium.exabytetv.info/HLSST/3133/3133-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="NOTICIAS - NEWS",EfektoTV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-
 #EXTINF:-1 tvg-id="Exabyte TV El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="NOTICIAS - NEWS",El Financiero Bloomberg (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/610/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
@@ -864,7 +861,7 @@ http://74.63.97.188:1935/gpacifico2/videogpacifico2/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal 2 Yaqui TV No Funciona
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/canal-4-gdl.png" group-title="MÉXICO (Locales)",Canal 4 Guadalajara
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/canal-4-gdl.png" group-title="MÉXICO (Locales)",Canal 4 Guadalajara No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1496/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal 5 Salina Cruz
@@ -885,7 +882,7 @@ http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal Nuestra Vision Michoacán
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Canal Nuestra Vision Michoacán No Funciona
 http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/997.png" group-title="MÉXICO (Locales)",Capital 21
@@ -897,13 +894,10 @@ http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Efekto TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://imagizer.imageshack.com/download/924/eGg1CT.png" group-title="MÉXICO (Locales)",Gala TV Acapulco
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://imagizer.imageshack.com/download/924/eGg1CT.png" group-title="MÉXICO (Locales)",Gala TV Acapulco No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1495/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="MÉXICO (Locales)",Multimedios Monterrey
-http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png" group-title="MÉXICO (Locales)",Ocho TV (GDL)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png" group-title="MÉXICO (Locales)",Ocho TV (GDL) No Funciona
 http://216.227.135.186:1935/canal8/smil:canal8.smil/chunklist_w1464240214_b1428000_live_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",RCG TV Coahuila
@@ -915,42 +909,43 @@ http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Telemax
 http://enhd.co:1935/ilive/ilive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Telesur Yucatan
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Telesur Yucatan No Funciona
 http://premium.exabytetv.info/livestream.php?acc=1003100&eve=4130805&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",Trecevision Yucatán
 http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",TVMas Veracruz
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",TVMas Veracruz No Funciona
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/995.png" group-title="MÉXICO (Locales)",TV Pacifico Culiacán
 http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",TV Pacifico Obregón
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",TV Pacifico Obregón No Funciona
 http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",TV Tlaxcala
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÉXICO (Locales)",TV Tlaxcala No Funciona
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://yt3.ggpht.com/-FB6vm4qg09k/AAAAAAAAAAI/AAAAAAAAAAA/SDywCk96224/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MÉXICO (Locales)",Vallevisión Matamoros
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://yt3.ggpht.com/-FB6vm4qg09k/AAAAAAAAAAI/AAAAAAAAAAA/SDywCk96224/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MÉXICO (Locales)",Vallevisión Matamoros No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1497/exabytetv.m3u8
 
 #EXTINF:0 group-title="Z omitir",== RELIGIÓN ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
+
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",3ABN Kidz
 http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",3ABN Latino
 http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Alcance TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Alcance TV No Funciona
 http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Aliento Visión
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Bethel TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Bethel TV No Funciona
 http://premium.exabytetv.info/livestream.php?acc=16199200&eve=4590066&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",BYU Televisión
@@ -968,10 +963,10 @@ http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Comunion TV
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Condavisión
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Condavisión No Funciona
 http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Cristo Visión
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Cristo Visión No Funciona
 http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/chunklist_b300000.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",CTNi
@@ -989,25 +984,25 @@ http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",EWTN
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Familia TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Familia TV No Funciona
 http://redradios.net:1935/familia/familia/chunklist.m3u8?wowzasessionid=761921129
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/chunklist_w1290068780_b410000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",María Visión
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",María Visión No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1074/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Mírame TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Mírame TV No Funciona
 http://cast.streamingconnect.tv:1935/2015mirame/2015mirame/live.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Nación TV
 http://205.164.56.130:1935/nacioninternacional/nacioninternacional/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Ondaluz Sierra
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Ondaluz Sierra No Funciona
 http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Palabra de Dios sin Levadura
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Palabra de Dios sin Levadura No Funciona
 http://ca1.ministeriotv.com:1935/49/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Red Avenir
@@ -1019,22 +1014,18 @@ http://178.32.53.254/radiovida/mobile/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",Tabernáculo Bautista
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÓN",testing
-http://netoita1.jl.serv.net.mx/vaughnlive.php?id=mega_simpson
 
 #EXTINF:0 group-title="Z omitir",== ARGENTINA ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
+
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://1.bp.blogspot.com/-5vN9J6YpS4s/VtrHGSsAKCI/AAAAAAABBBw/gKGpeyYYefw/s1600/360TV.jpg" group-title="ARGENTINA",360 TV
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.television-envivo.com/wp-content/uploads/2012/10/a24-america-24-300-150x150.png" group-title="ARGENTINA",A24
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.television-envivo.com/wp-content/uploads/2012/10/a24-america-24-300-150x150.png" group-title="ARGENTINA",A24 No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1693/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://3.bp.blogspot.com/-0LF36VQNW44/VxQjslUpD5I/AAAAAAAACpk/GUCrMdb6sFUIE5K9-tP4CwEeKfherWJowCLcB/s1600/C5N%2Ben%2Bvivo%2Bonline.jpg" group-title="ARGENTINA",C5N
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://3.bp.blogspot.com/-0LF36VQNW44/VxQjslUpD5I/AAAAAAAACpk/GUCrMdb6sFUIE5K9-tP4CwEeKfherWJowCLcB/s1600/C5N%2Ben%2Bvivo%2Bonline.jpg" group-title="ARGENTINA",C5N Opción 2
-http://server7.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="ARGENTINA",Canal 4 Jujuy
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
@@ -1060,34 +1051,25 @@ rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="ARGENTINA",Construir TV
 http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2854.png" group-title="ARGENTINA",DeporTV (DXTV)
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_canal_encuentro.png/200px-Logo_canal_encuentro.png" group-title="ARGENTINA",Encuentro
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_canal_encuentro.png/200px-Logo_canal_encuentro.png" group-title="ARGENTINA",Encuentro No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1698/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://4.bp.blogspot.com/-k4k611VgZ-Y/UznEmv9fNDI/AAAAAAAAB5o/ZDKcsUvRMbA/s320/magazine.gif" group-title="ARGENTINA",Magazine
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://4.bp.blogspot.com/-k4k611VgZ-Y/UznEmv9fNDI/AAAAAAAAB5o/ZDKcsUvRMbA/s320/magazine.gif" group-title="ARGENTINA",Magazine No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1695/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="ARGENTINA",One TV
-http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1514.png" group-title="ARGENTINA",Orbe 21
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PkPk.png/245px-PkPk.png" group-title="ARGENTINA",Paka Paka
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PkPk.png/245px-PkPk.png" group-title="ARGENTINA",Paka Paka No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1696/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://qmnoticias.com/uploads/cliente/marca/20150406121942_logo_qm_alpha.png" group-title="ARGENTINA",Qm TV
 http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://1.bp.blogspot.com/-gPltrFimgy8/Vc13hw_xwUI/AAAAAAAACAY/41aGclEdXfg/s1600/tateti%2Ben%2Bvivo%2Bonline.png" group-title="ARGENTINA",Tateti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="ARGENTINA",Tec TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="ARGENTINA",Tec TV No Funciona
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Telefe_Internacional.png/200px-Telefe_Internacional.png" group-title="ARGENTINA",Telefe Internacional
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Telefe_Internacional.png/200px-Telefe_Internacional.png" group-title="ARGENTINA",Telefe Internacional No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1692/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1143.png" group-title="ARGENTINA",Telemax Arg
@@ -1099,13 +1081,13 @@ http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Telpin HD
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/760128955647139840/kqetXjoW.jpg" group-title="ARGENTINA",TNoticias (solo kodi)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/760128955647139840/kqetXjoW.jpg" group-title="ARGENTINA",TNoticias No Funciona
 rtsp://stream.tn.com.ar/live/tnhd2
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg" group-title="ARGENTINA",TV Pública
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg" group-title="ARGENTINA",TV Pública No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1247/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="ARGENTINA",UN3
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="ARGENTINA",UN3 No Funciona
 http://premium.exabytetv.info/livestream.php?acc=5198918&eve=3229548&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="ARGENTINA",Viajar
@@ -1113,23 +1095,22 @@ http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
 #EXTINF:0 group-title="Z omitir",== CHILE ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_campustv.jpg" group-title="CHILE",Campus TV
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_campustv.jpg" group-title="CHILE",Campus TV No Funciona
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="CHILE",CDO Premium
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",Mega (Chile)
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",Mega (Chile) No Funciona
 http://streams.innova-systems.net/MEGACHILE/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="CHILE",Teletrak
 http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.ipuntotv.com/IMAGES/TVN-Chile-logo.png" group-title="CHILE", TVN Chile
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.ipuntotv.com/IMAGES/TVN-Chile-logo.png" group-title="CHILE", TVN Chile No Funciona
 http://streams.innova-systems.net/TVNCHILE/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="Z omitir",== COLOMBIA ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
+
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
@@ -1148,10 +1129,10 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Cantinazo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://1.bp.blogspot.com/-eIeuMWnrYgw/Vzp-kzNt4-I/AAAAAAAAkpA/Afx9ccGBlEMqErgZF3EJzL6X_YoojzeeACLcB/s320/Caracol_2015.PNG" group-title="COLOMBIA",Caracol
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://1.bp.blogspot.com/-eIeuMWnrYgw/Vzp-kzNt4-I/AAAAAAAAkpA/Afx9ccGBlEMqErgZF3EJzL6X_YoojzeeACLcB/s320/Caracol_2015.PNG" group-title="COLOMBIA",Caracol No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/688/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/200px-Citytv_logo.svg.png" group-title="COLOMBIA",Citytv
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/200px-Citytv_logo.svg.png" group-title="COLOMBIA",Citytv No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1699/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3613.png" group-title="COLOMBIA",Cosmovision
@@ -1160,7 +1141,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3563.png" group-title="COLOMBIA",El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Hogar TV
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Hogar TV No Funciona
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Lifedesign
@@ -1169,19 +1150,16 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Mi Musica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.canalrcn.com/exclusivas/sites/default/files/rcntelevisionlogo_0.jpg" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.canalrcn.com/exclusivas/sites/default/files/rcntelevisionlogo_0.jpg" group-title="COLOMBIA",RCN No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/687/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV RCN HD2" tvg-name="RCN HD2" tvg-logo="http://css.motogp.com/w2015/img/broadcasters/RCN_HD2.png" group-title="COLOMBIA",RCN HD2
+#EXTINF:-1 tvg-id="Exabyte TV RCN HD2" tvg-name="RCN HD2" tvg-logo="http://css.motogp.com/w2015/img/broadcasters/RCN_HD2.png" group-title="COLOMBIA",RCN HD2 No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1480/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/881.png" group-title="COLOMBIA",RCN Novelas
-http://premium.exabytetv.info/HLSST/1493/1493-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/585162770435321856/KRBAHsHT.png" group-title="COLOMBIA",Señal Colombia
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/585162770435321856/KRBAHsHT.png" group-title="COLOMBIA",Señal Colombia No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1700/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/353.png" group-title="COLOMBIA",Teleamiga
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/353.png" group-title="COLOMBIA",Teleamiga No Funciona
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Teleantioquia
@@ -1190,16 +1168,16 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Telecafe
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Telecaribe-Logo-300x300.jpg" group-title="COLOMBIA",Telecaribe
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Telecaribe-Logo-300x300.jpg" group-title="COLOMBIA",Telecaribe No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/1701/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Teleislas
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Teleislas No Funciona
 rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Telemedellin 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.telepacifico.com/wp-content/uploads/2016/04/LogoCuad-500-txtColor.png" group-title="COLOMBIA",Telepacifico
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.telepacifico.com/wp-content/uploads/2016/04/LogoCuad-500-txtColor.png" group-title="COLOMBIA",Telepacifico No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/309/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Tele Vida
@@ -1220,25 +1198,17 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",UNE TV Manizales
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports No Funciona
 http://premium.exabytetv.info/gc/GHMSX-1011000100011011100011001001100-ExabyteTV/288/exabytetv.m3u8
 
 #EXTINF:0 group-title="Z omitir",== REPÚBLICA DOMINICANA ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Ame 47
-http://asx.domiplay.net:1935/rtplive/ame47.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Canal 4 Jujuy
-http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Ame 47 No Funciona
+http://asx.domiplay.net:1935/rtplive/ame47.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/315.png" group-title="REPÚBLICA DOMINICANA",Canal 25 Santiago
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",CDN
-http://premium.exabytetv.info/livestream.php?acc=15754920&eve=4458460&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",CDN Sports Max
-http://premium.exabytetv.info/livestream.php?acc=15754920&eve=5198653&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Certv
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
@@ -1246,7 +1216,7 @@ http://216.24.196.40:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Color Visión
 http://ss8.domint.net:2048/cvis_str/video/chunklist_w1410453871.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Digital 15
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Digital 15 No Funciona
 http://premium.exabytetv.info/livestream.php?acc=736348&eve=5551042&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://dominicaninternet.com/ajax1/images/1463551616.jpg" group-title="REPÚBLICA DOMINICANA",GH Televison Canal 10
@@ -1261,25 +1231,25 @@ http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2011/05/supercanal-1.png" group-title="REPÚBLICA DOMINICANA",Super Canal 33 RD
 http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png" group-title="REPÚBLICA DOMINICANA",Teleantillas
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/309.png" group-title="REPÚBLICA DOMINICANA",Teleantillas No Funciona
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telecanal 16
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telecentro
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telecentro No Funciona
 http://premium.exabytetv.info/livestream.php?acc=736348&eve=5567040&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telemicro 5
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telemicro 5 No Funciona
 http://premium.exabytetv.info/livestream.php?acc=736348&eve=5552503&token=GHMSX-1011000100011011100011001001100-ExabyteTV&f=.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telenord
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telenord No Funciona
 http://mek2.mekstream.com:1935/telenord10/live2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1151.png" group-title="REPÚBLICA DOMINICANA",Teleradio América
 http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telesistemas
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Telesistemas No Funciona
 http://mek4.mekstream.com/telesistema/live3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="REPÚBLICA DOMINICANA",Teleuniverso
