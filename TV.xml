@@ -1035,6 +1035,19 @@
 
 <channels>
     <channel>
+    <name>[COLOR deepskyblue]World[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+        <items>			
+
+<item>
+<title>[COLOR deepskyblue]World[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-World.m3u</externallink>
+</item>		
+        </items>
+
+<channels>
+    <channel>
     <name>[COLOR deepskyblue]Adultos[/COLOR]</name>
     <info></info>
     <thumbnail></thumbnail>
