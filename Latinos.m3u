@@ -148,8 +148,6 @@ http://premium.exabytetv.info/totalpleix/145/3/GHMSX-101100010001101110001100100
 
 #EXTINF:0 group-title="Z omitir",== PELÍCULAS Y SERIES ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/444/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC (Op2)
 http://premium.exabytetv.info/HLSST/485/485-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
@@ -157,14 +155,11 @@ http://premium.exabytetv.info/HLSST/485/485-GHMSX-101100010001101110001100100110
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="PELÍCULAS Y SERIES",Atreseries Español
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif" group-title="PELÍCULAS Y SERIES",Az Cinema (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif" group-title="PELÍCULAS Y SERIES",Az Cinema (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/425/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif" group-title="PELÍCULAS Y SERIES",Cinecanal (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif" group-title="PELÍCULAS Y SERIES",Cinecanal (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/480/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",Cinecanal+ (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/430/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",Cinecanal+ (Op2)
 http://premium.exabytetv.info/HLSST/13424/13424-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
@@ -175,94 +170,62 @@ http://premium.exabytetv.info/HLSST/3465/3465-GHMSX-1011000100011011100011001001
 #EXTINF:-1 tvg-id="Exabyte TV Cine Latino" tvg-name="Cine Latino" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cine-latino.gif" group-title="PELÍCULAS Y SERIES",Cine Latino
 http://premium.exabytetv.info/HLSST/477/477-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Cinemax (O)" tvg-name="Cinemax (O)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="PELÍCULAS Y SERIES",Cinemax (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/481/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
 #EXTINF:-1 tvg-id="Exabyte TV Cinemax (O)" tvg-name="Cinemax (O)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="PELÍCULAS Y SERIES",Cinemax (Op2)
 http://premium.exabytetv.info/HLSST/343/343-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3688.png" group-title="PELÍCULAS Y SERIES",De Pelicula Multiplex
 http://premium.exabytetv.info/HLSST/13430/13430-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV De Película" tvg-name="De Película" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-película-hd.gif" group-title="PELÍCULAS Y SERIES",De Película (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/442/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV De Película" tvg-name="De Película" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-película-hd.gif" group-title="PELÍCULAS Y SERIES",De Película (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV De Película" tvg-name="De Película" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-película-hd.gif" group-title="PELÍCULAS Y SERIES",De Película (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/13429/13429-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/943.png" group-title="PELÍCULAS Y SERIES",Film & Arts Latino
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/943.png" group-title="PELÍCULAS Y SERIES",Film & Arts Latino No Funciona
 http://premium.exabytetv.info/HLSST/1599/1599-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (E)" tvg-name="Fox 1 (E)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/211.png" group-title="PELÍCULAS Y SERIES",Fox 1 Este
+#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (E)" tvg-name="Fox 1 (E)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/211.png" group-title="PELÍCULAS Y SERIES",Fox 1 Este No Funciona
 http://premium.exabytetv.info/HLSST/433/433-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (E)" tvg-name="Fox 1 (E)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif" group-title="PELÍCULAS Y SERIES",Fox 1 HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/415/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (W)" tvg-name="Fox 1 (W)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/211.png" group-title="PELÍCULAS Y SERIES",Fox 1 Oeste
+#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (W)" tvg-name="Fox 1 (W)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/211.png" group-title="PELÍCULAS Y SERIES",Fox 1 Oeste No Funciona
 http://premium.exabytetv.info/HLSST/439/439-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/416/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinéma.gif" group-title="PELÍCULAS Y SERIES",Fox Cinema (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/421/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinéma.gif" group-title="PELÍCULAS Y SERIES",Fox Cinema (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinéma.gif" group-title="PELÍCULAS Y SERIES",Fox Cinema (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/457/457-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/424/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/465/465-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/175.png" group-title="PELÍCULAS Y SERIES",Fox Comedy
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/175.png" group-title="PELÍCULAS Y SERIES",Fox Comedy No Funciona
 http://premium.exabytetv.info/HLSST/461/461-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Family (E)" tvg-name="Fox Family (E)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/173.png" group-title="PELÍCULAS Y SERIES",Fox Family
+#EXTINF:-1 tvg-id="Exabyte TV Fox Family (E)" tvg-name="Fox Family (E)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/173.png" group-title="PELÍCULAS Y SERIES",Fox Family No Funciona
 http://premium.exabytetv.info/HLSST/467/467-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Movies" tvg-name="Fox Movies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies
+#EXTINF:-1 tvg-id="Exabyte TV Fox Movies" tvg-name="Fox Movies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies No Funciona
 http://premium.exabytetv.info/HLSST/463/463-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/417/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Golden" tvg-name="Golden" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden.gif" group-title="PELÍCULAS Y SERIES",Golden
+#EXTINF:-1 tvg-id="Exabyte TV Golden" tvg-name="Golden" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden.gif" group-title="PELÍCULAS Y SERIES",Golden No Funciona
 http://premium.exabytetv.info/HLSST/264/264-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",Golden Edge (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/484/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",Golden Edge (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",Golden Edge (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/1465/1465-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="PELÍCULAS Y SERIES",Golden HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/436/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif" group-title="PELÍCULAS Y SERIES",I.Sat (Op1) (solo en MX o con VPN)
+#EXTINF:-1 tvg-id="Exabyte TV I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif" group-title="PELÍCULAS Y SERIES",I.Sat (Op1) No Funciona
 http://premium.exabytetv.info/totalpleix/495/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Multipremier" tvg-name="Multipremier" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multipremier.gif" group-title="PELÍCULAS Y SERIES",Multipremier
+#EXTINF:-1 tvg-id="Exabyte TV Multipremier" tvg-name="Multipremier" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multipremier.gif" group-title="PELÍCULAS Y SERIES",Multipremier No Funciona
 http://premium.exabytetv.info/HLSST/3293/3293-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/18.png" group-title="PELÍCULAS Y SERIES",Paramount Channel Latino
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/18.png" group-title="PELÍCULAS Y SERIES",Paramount Channel Latino No Funciona
 http://premium.exabytetv.info/HLSST/260/260-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/491/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space (Op2)
 http://premium.exabytetv.info/HLSST/2489/2489-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="PELÍCULAS Y SERIES",Space HD (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/445/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal (Op1) (solo en MX o con VPN)
-http://premium.exabytetv.info/totalpleix/492/3/GHMSX-1011000100011011100011001001100-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TV Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal (Op2)
+#EXTINF:-1 tvg-id="Exabyte TV Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/345/345-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (Op1) (solo en MX o con VPN)
