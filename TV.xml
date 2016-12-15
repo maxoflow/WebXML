@@ -18,13 +18,15 @@
         <items>
 
 <item>
- <title>[COLOR deepskyblue]MaXoFloW TV HD  [/COLOR]</title>
-<iframe src='//app.viloud.tv/player/embed/channel/931b15369c39acb16b1853cc7462bec2/video/299574f84848e3cb33c8ec355ff394ca?autoplay=1&volume=1&random=0&controls=1&title=1&share=1' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ <title>[COLOR deepskyblue]MaXoFloW TV HD Prueba 1 [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title>
+<sportsdevil>http://maxoflowcinestreno.esy.es/MaXoFloW-TV.php</sportsdevil>
+<referer>http://maxoflowcinestreno.esy.es/</referer>
+<thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/axn.png</thumbnail> 
 </item>
 
 <item>
- <title>[COLOR deepskyblue]MaXoFloW TV HD  [/COLOR]</title>
-<link>app.viloud.tv/player/embed/channel/931b15369c39acb16b1853cc7462bec2?autoplay=1&volume=1&random=0&controls=1&title=1&share=0</link>
+ <title>[COLOR deepskyblue]MaXoFloW TV HD 2 [/COLOR]</title>
+<link>https://app.viloud.tv/player/embed/channel/931b15369c39acb16b1853cc7462bec2</link>
 <thumbnail></thumbnail>
 </item>
 
