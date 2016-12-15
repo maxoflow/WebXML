@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 		
-<item>
-<title>[COLOR deepskyblue]Infantiles Castellano hds[/COLOR]</title>
-<externallink>http://app.viloud.tv/player/channel/931b15369c39acb16b1853cc7462bec2</externallink>
-</item>		
-
-<item>
- <title>[COLOR deepskyblue]MaXoFloW TV HD  [/COLOR]</title>
-<link>http://app.viloud.tv/player/channel/931b15369c39acb16b1853cc7462bec2</link>
-<thumbnail></thumbnail>
-</item>
+<iframe src='//app.viloud.tv/player/embed/channel/931b15369c39acb16b1853cc7462bec2?autoplay=1&volume=1&random=0&controls=1&title=1&share=1' width='640' height='360' frameborder='0' allowfullscreen></iframe><p><a href='http://app.viloud.tv/player/channel/931b15369c39acb16b1853cc7462bec2'>MaXoFloW TV</a> on <a href='http://viloud.tv'>Viloud</a></p>
