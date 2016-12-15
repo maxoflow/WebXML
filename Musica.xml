@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-		
-<iframe src='//app.viloud.tv/player/embed/channel/931b15369c39acb16b1853cc7462bec2?autoplay=1&volume=1&random=0&controls=1&title=1&share=1' width='640' height='360' frameborder='0' allowfullscreen></iframe><p><a href='http://app.viloud.tv/player/channel/931b15369c39acb16b1853cc7462bec2'>MaXoFloW TV</a> on <a href='http://viloud.tv'>Viloud</a></p>
+
+  <item>
+        <title>[COLOR yellow]======== PROFF CHANELL ======== [/COLOR]</title>
+        <link>ignorame</link>
+<externallink>http</externallink>
+        </item>    
+     <item>
+            <title>Proff Channel 1 HD</title>
+            <link>plugin://plugin.video.f4mTester/?url=//app.viloud.tv/player/embed/channel/931b15369c39acb16b1853cc7462bec2?autoplay=1&volume=1&random=0&controls=1&title=1&share=1 Channel 1 HD</link>
+        </item>
+				
