@@ -28,7 +28,6 @@ body {
 <meta http-equiv="?" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
-<iframe src="http://www.ponlatv.com/embed.php?c=105369&width=650&height=400&autostart=true&tk1=N6BemjYJyVrpuqn%2FRZw7FZDuA2PdOAuAkc134V07VuM%3D&tk2=wXLbR7jscYrDt2CeBQi%2Fa2KfDFfiraaSUeWQZplUHmk%3D&tk3=evuyzMT%2Fl95M8PBt8MCeYM%2BeujTZlHJVo6BLRw%2Bu2mQ%3D" width="650" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen height="400"></iframe>
-
+<iframe src='//app.viloud.tv/player/embed/channel/931b15369c39acb16b1853cc7462bec2/video/299574f84848e3cb33c8ec355ff394ca?autoplay=1&volume=1&random=0&controls=1&title=1&share=1' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </body>
 </html>
