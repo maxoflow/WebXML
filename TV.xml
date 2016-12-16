@@ -429,13 +429,13 @@
 	
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantiles[/COLOR]</name>
+    <name>[COLOR deepskyblue]Infantil[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantiles[/COLOR]</title>
+<title>[COLOR deepskyblue]Infantil[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil.xml</externallink>
 </item>		
 
