@@ -2,11 +2,11 @@
 	<channels>
     <channels_info> <!-- this is opitonal -->
       <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>Película</genre>
+      <genre>TV</genre>
       <description>this is the descripton string</description>
-      <thumbnail>http://wallpapercave.com/wp/Qsbbfie.png</thumbnail>
+      <thumbnail>https://s26.postimg.org/do9yqvt2h/Ma_Xo_Flo_W_TV.png</thumbnail>
       <fanart>http://wallpapercave.com/wp/Qsbbfie.png</fanart>
-      <date>04.01.2013</date>
+      <date>2016-2017</date>
       <credits>MaXoFloW.CoM</credits>
     </channels_info>
 
@@ -14,7 +14,7 @@
     <channel>
     <name>[COLOR deepskyblue]Movistar+[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/tb18496uh/Movistar_Plus.png</thumbnail>
         <items>
 
 <item><title>[COLOR deepskyblue]#0 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]#0[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/movistar+-0.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
@@ -246,7 +246,7 @@
     <channel>
     <name>[COLOR deepskyblue]TDT[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/uxv1388a1/TDT.png</thumbnail>
         <items>
 
 <item><title>[COLOR deepskyblue]La 1 SD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]La 1[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ftve1_b0bqgib%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/la-1.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>			
@@ -414,12 +414,12 @@
     <channel>
     <name>[COLOR deepskyblue]Latinos[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/48phzxlnt/Latinos.png</thumbnail>
         <items>		
 		
 <item>
 <title>[COLOR deepskyblue]Latinos[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Latinos.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Latino.m3u</externallink>
 </item>		
 
         </items>
@@ -431,12 +431,12 @@
     <channel>
     <name>[COLOR deepskyblue]Infantiles[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
         <items>		
 		
 <item>
 <title>[COLOR deepskyblue]Infantiles[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles.xml</externallink>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil.xml</externallink>
 </item>		
 
         </items>
@@ -447,7 +447,7 @@
     <channel>
     <name>[COLOR deepskyblue]Deportes[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/niwijd7mx/Deportes.png</thumbnail>
         <items>
 
 <item>
@@ -629,7 +629,7 @@
     <channel>
     <name>[COLOR deepskyblue]Locales[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
         <items>		
 		
 <item>
@@ -645,7 +645,7 @@
     <channel>
     <name>[COLOR deepskyblue]Locales[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
         <items>
 
             <item>
@@ -1055,7 +1055,7 @@
     <channel>
     <name>[COLOR deepskyblue]World[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/xkajk5zhl/World.png</thumbnail>
         <items>			
 
 <item>
@@ -1068,7 +1068,7 @@
     <channel>
     <name>[COLOR deepskyblue]Adultos[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/jwqp6q19l/Adultos.png</thumbnail>
         <items>
 
 <item>
@@ -1109,22 +1109,20 @@
     <channel>
     <name>[COLOR deepskyblue]Programación TV[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/no09t1ey1/Guia.png</thumbnail>
         <items>
 
         <item>
-        <title>[COLOR yellow]       Programación TV para Chrome         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
+        <title>[COLOR yellow]       Guía TV para Chrome         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
         <link>ignoreme</link>
         <jsonrpc>plugin://plugin.program.MaXoFloW-GuiaTV-Chrome</jsonrpc>
-        <thumbnail>http://horebgualan.org/wp-content/uploads/2016/01/programacion_tv-600x400.png</thumbnail>
-        <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+        <thumbnail>https://s26.postimg.org/no09t1ey1/Guia.png</thumbnail>
         </item>
         <item>
-        <title>[COLOR yellow]       Programación TV Para Firefox         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
+        <title>[COLOR yellow]       Guía TV Para Firefox         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
         <link>ignoreme</link>
         <jsonrpc>plugin://plugin.program.MaXoFloW-GuiaTV-firefox</jsonrpc>
-        <thumbnail>http://horebgualan.org/wp-content/uploads/2016/01/programacion_tv-600x400.png</thumbnail>
-        <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+        <thumbnail>https://s26.postimg.org/no09t1ey1/Guia.png</thumbnail>
         </item>
 
         </items>

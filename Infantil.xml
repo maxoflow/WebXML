@@ -5,7 +5,7 @@
     <channel>
     <name>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
         <items>		
 		
 <item>
@@ -19,13 +19,13 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</name>
+    <name>[COLOR deepskyblue]Infantiles Latino[/COLOR]</name>
     <info></info>
-    <thumbnail></thumbnail>
+    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantiles Latinos[/COLOR]</title>
+<title>[COLOR deepskyblue]Infantiles Latino[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
 </item>		
 

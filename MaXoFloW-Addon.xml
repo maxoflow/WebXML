@@ -2,10 +2,10 @@
  
 <channels>
     <channels_info>
-      <title>[COLOR red]MaXoFloW CinEstreno [/COLOR]</title>
-      <genre>IPTV</genre>
-      <description>Lista de canales IPTV</description>
-      <thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail>
+      <title>[COLOR red]MaXoFloW CinEstrenos [/COLOR]</title>
+      <genre>TV CinEstrenos</genre>
+      <description>Lista de canales MaXoFloW</description>
+      <thumbnail>https://s26.postimg.org/8ab6jc3c9/Ma_Xo_Flo_W_Cin_Estrenos.png</thumbnail>
       <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
       <date>29.06.2015</date>
       <credits>Gracias MaXoFloW.CoM</credits>
@@ -16,7 +16,7 @@
 
 <channel>
       <name>[COLOR silver][/COLOR][COLOR red]                                                            MaXoFloW CinEstrenos [/COLOR]</name>
-  <thumbnail>http://maxoflowcinestreno.esy.es/icon.png</thumbnail>
+  <thumbnail>https://s26.postimg.org/8ab6jc3c9/Ma_Xo_Flo_W_Cin_Estrenos.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
@@ -28,8 +28,8 @@
 <channels>
  
 <channel>
-      <name>[COLOR silver][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR gold] 1.0.0[/COLOR] 30 de Noviembre 2016[COLOR silver][COLOR  lime][/COLOR]  [/COLOR]</name>
-  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIZyhg1FviZOV4CD1C3OmrwAvAdMqG_77Z_aKJ9bj8e8YSTo</thumbnail>
+      <name>[COLOR silver][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR gold] 1.0.0[/COLOR] 16 de Diciembre 2016[COLOR silver][COLOR  lime][/COLOR]  [/COLOR]</name>
+  <thumbnail>https://s26.postimg.org/4fcdui9k9/Update.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
@@ -40,7 +40,7 @@
 
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] TV Online [/COLOR]</name>
-  <thumbnail></thumbnail>
+  <thumbnail>https://s26.postimg.org/o8ohn7my1/image.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV.xml</externallink>
@@ -51,7 +51,7 @@
 
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Películas [/COLOR]</name>
-  <thumbnail></thumbnail>
+  <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Peliculas.xml</externallink>
@@ -64,7 +64,7 @@
  
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Series [/COLOR]</name>
-  <thumbnail>http://maxoflowcinestreno.esy.es/Series.png</thumbnail>
+  <thumbnail>https://s26.postimg.org/thjil35d5/Series.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Series.xml</externallink>
@@ -76,34 +76,19 @@
 <channels>
  
 <channel>
-      <name>[COLOR silver][COLOR  white]•  [/COLOR] Infantiles [/COLOR]</name>
-  <thumbnail></thumbnail>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Infantil [/COLOR]</name>
+  <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Infantiles.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Infantil.xml</externallink>
 </channel>
   </channels>
 
 
-
-<channels>
- 
-<channel>
-      <name>[COLOR silver][COLOR  white]•  [/COLOR] Netflix [/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Netflix.xml</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
  
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Documentales [/COLOR]</name>
-  <thumbnail>https://s26.postimg.org/pjn2473s9/Documentales.png</thumbnail>
+  <thumbnail>https://s26.postimg.org/ckl916j1l/Documentales.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Documentales.xml</externallink>
@@ -116,7 +101,7 @@
  
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Deportes [/COLOR]</name>
-  <thumbnail></thumbnail>
+  <thumbnail>https://s26.postimg.org/niwijd7mx/Deportes.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Deportes.xml</externallink>
@@ -129,7 +114,7 @@
  
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Musica [/COLOR]</name>
-  <thumbnail></thumbnail>
+  <thumbnail>https://s26.postimg.org/icpym2i95/Musica.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Musica.xml</externallink>
@@ -142,7 +127,7 @@
  
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Videos [/COLOR]</name>
-  <thumbnail></thumbnail>
+  <thumbnail>https://s26.postimg.org/e15yat0q1/Videos.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Videos.xml</externallink>
@@ -155,7 +140,7 @@
  
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Adultos [/COLOR][COLOR  red]+18  [/COLOR]</name>
-  <thumbnail></thumbnail>
+  <thumbnail>https://s26.postimg.org/jwqp6q19l/Adultos.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Adultos-18.xml</externallink>
@@ -167,8 +152,8 @@
 <channels>
  
 <channel>
-      <name>[COLOR silver][COLOR  white]•  [/COLOR] Listas Amigas [/COLOR]</name>
-  <thumbnail></thumbnail>
+      <name>[COLOR silver][COLOR  white]•  [/COLOR] Mas Listas [/COLOR]</name>
+  <thumbnail>https://raw.githubusercontent.com/maxoflow/WebXML/master/Mas-Listas.xml</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Listas-Amigas.xml</externallink>
