@@ -153,10 +153,10 @@
  
 <channel>
       <name>[COLOR silver][COLOR  white]•  [/COLOR] Mas Listas [/COLOR]</name>
-  <thumbnail>https://raw.githubusercontent.com/maxoflow/WebXML/master/Mas-Listas.xml</thumbnail>
+  <thumbnail>https://s26.postimg.org/6rfsecwrt/Listas.png</thumbnail>
 <fanart>http://maxoflowcinestreno.esy.es/fanart.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Listas-Amigas.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Mas-Listas.xml</externallink>
 </channel>
   </channels>
 
