@@ -12,7 +12,7 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Movistar+[/COLOR]</name>
+    <name>[COLOR white]Movistar+[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/tb18496uh/Movistar_Plus.png</thumbnail>
         <items>
@@ -244,7 +244,7 @@
 <channels>
 
     <channel>
-    <name>[COLOR deepskyblue]TDT[/COLOR]</name>
+    <name>[COLOR white]TDT[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/uxv1388a1/TDT.png</thumbnail>
         <items>
@@ -412,7 +412,7 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Latinos[/COLOR]</name>
+    <name>[COLOR white]Latinos[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/48phzxlnt/Latinos.png</thumbnail>
         <items>		
@@ -429,13 +429,13 @@
 	
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantil[/COLOR]</name>
+    <name>[COLOR white]Infantil[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantil[/COLOR]</title>
+<title>[COLOR white]Infantil[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil.xml</externallink>
 </item>		
 
@@ -445,7 +445,7 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Deportes[/COLOR]</name>
+    <name>[COLOR white]Deportes[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/niwijd7mx/Deportes.png</thumbnail>
         <items>
@@ -627,13 +627,13 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Locales[/COLOR]</name>
+    <name>[COLOR white]Locales[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Locales[/COLOR]</title>
+<title>[COLOR white]Locales[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
 </item>		
 
@@ -643,7 +643,7 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Locales[/COLOR]</name>
+    <name>[COLOR white]Locales[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
         <items>
@@ -1053,20 +1053,20 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]World[/COLOR]</name>
+    <name>[COLOR white]World[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/xkajk5zhl/World.png</thumbnail>
         <items>			
 
 <item>
-<title>[COLOR deepskyblue]World[/COLOR]</title>
+<title>[COLOR white]World[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-World.m3u</externallink>
 </item>		
         </items>
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Adultos[/COLOR]</name>
+    <name>[COLOR white]Adultos[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/jwqp6q19l/Adultos.png</thumbnail>
         <items>
@@ -1107,19 +1107,19 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Programación TV[/COLOR]</name>
+    <name>[COLOR white]Guia TV[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/no09t1ey1/Guia.png</thumbnail>
         <items>
 
         <item>
-        <title>[COLOR yellow]       Guía TV para Chrome         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
+        <title>[COLOR white]       Guía TV para Chrome         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
         <link>ignoreme</link>
         <jsonrpc>plugin://plugin.program.MaXoFloW-GuiaTV-Chrome</jsonrpc>
         <thumbnail>https://s26.postimg.org/no09t1ey1/Guia.png</thumbnail>
         </item>
         <item>
-        <title>[COLOR yellow]       Guía TV Para Firefox         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
+        <title>[COLOR white]       Guía TV Para Firefox         [COLOR deepskyblue] (Necesario Addon MaXoFloW-GuiaTV-Chrome)[/COLOR]</title>
         <link>ignoreme</link>
         <jsonrpc>plugin://plugin.program.MaXoFloW-GuiaTV-firefox</jsonrpc>
         <thumbnail>https://s26.postimg.org/no09t1ey1/Guia.png</thumbnail>
