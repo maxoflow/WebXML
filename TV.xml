@@ -98,6 +98,23 @@
 
 <channels>
     <channel>
+    <name>[COLOR white]Música[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://s26.postimg.org/icpym2i95/Musica.png</thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Música[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Musica.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+
+<channels>
+    <channel>
     <name>[COLOR white]Locales[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
