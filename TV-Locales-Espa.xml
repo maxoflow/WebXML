@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 
-
             <item>
             <title>[COLOR deepskyblue]RTVC TV Canaria SD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
             <thumbnail>http://maxoflowcinestreno.esy.es/Logos/espa/tvcanaria.png</thumbnail>
@@ -400,7 +399,3 @@
  <item><title>[COLOR deepskyblue]Castellón SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/.m3u8</link></item>     
 
  <item><title>[COLOR deepskyblue]El Mundo HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://universalhdlive.elmundo.es/i/dr22_1@104884/index_6_av-p.m3u8?sd=10&rebase=on</link></item>     
-
-        </items>
-    </channel>
-</channels>

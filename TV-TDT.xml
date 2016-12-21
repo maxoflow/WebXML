@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item><title>[COLOR deepskyblue]La 1 SD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]La 1[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ftve1_b0bqgib%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/tbjln80dl/la_1.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>			
+<item>
+<title>[COLOR deepskyblue]La 1 SD[/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/tve1_bghlsu9/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/tbjln80dl/la_1.png</thumbnail>
+</item>
+
+			<item>
+			<title>[COLOR deepskyblue]La 2 No Funciona[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+			<link>http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8</link>
+			<thumbnail>https://s26.postimg.org/ba0gpf6cp/la_2.png</thumbnail></item>
+
+			<item><title>[COLOR deepskyblue]Antena 3 HD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link><thumbnail>https://s26.postimg.org/ma86ecyqx/antena_3.png</thumbnail></item>	
+			<item><title>[COLOR deepskyblue]Antena 3 HD[/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on</link><thumbnail>https://s26.postimg.org/ma86ecyqx/antena_3.png</thumbnail></item>	
+<item><title>[COLOR deepskyblue]Antena 3 SD[/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Antena 3 - SD[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fantena3_9dm4nop%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/ma86ecyqx/antena_3.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>		
+<item>
+<title>[COLOR deepskyblue]Antena 3 SD[/COLOR] [COLOR gray][I] Opción 4[/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://s26.postimg.org/ma86ecyqx/antena_3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyblue]Cuatro SD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/cuatro_xrf2a3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/4thuoh23t/cuatro.png</thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Telecinco SD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Telecinco[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ftelecinco55_ao7nqiq%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/66rkk6ort/telecinco.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]Telecinco SD[/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/telecinco55_ao7nqiq/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/66rkk6ort/telecinco.png</thumbnail>
+</item>
+
+			<item><title>[COLOR deepskyblue]La Sexta HD[/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link><thumbnail>https://s26.postimg.org/zf1674qnd/la_sexta.png</thumbnail></item>
+			<item>
+<title>[COLOR deepskyblue]La Sexta HD[/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8?sd=10&amp;rerebase=on</link>
+<thumbnail>https://s26.postimg.org/zf1674qnd/la_sexta.png</thumbnail>
+</item>
+			<item><title>[COLOR deepskyblue]La Sexta SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on</link><thumbnail>https://s26.postimg.org/zf1674qnd/la_sexta.png</thumbnail></item>
+
+<item><title>[COLOR deepskyblue]FDF SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]FDF[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ffdfhd_xrewtt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/fvrzk12i1/fdf.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]FDF SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/fdf_bga3kqh/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/fvrzk12i1/fdf.png</thumbnail>
+</item>
+
+			<item><title>[COLOR deepskyblue]neox HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link><thumbnail>https://s26.postimg.org/5rbpdfdgp/neox.png</thumbnail></item>
+			<item><title>[COLOR deepskyblue]neox SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on</link><thumbnail>https://s26.postimg.org/5rbpdfdgp/neox.png</thumbnail></item>	
+<item><title>[COLOR deepskyblue]neox SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]neox[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fneox_alwkw2n%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/5rbpdfdgp/neox.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+			<item><title>[COLOR deepskyblue]ATRESERIES HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>	
+	<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+	<thumbnail>https://s26.postimg.org/qkmu9y3u1/atreseries.png</thumbnail></item>	
+<item><title>[COLOR deepskyblue]ATRESERIES SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]A3S[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2FA3Series_11zwyox%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/qkmu9y3u1/atreseries.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]ATRESERIES SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;amp;rebase=on</link>
+<thumbnail>https://s26.postimg.org/qkmu9y3u1/atreseries.png</thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]DMAX SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Discovery Max[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdismax_9c7n25t%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/t6b8zt3op/dmax.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]DMAX SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/discovery-max_1587w0r/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/t6b8zt3op/dmax.png</thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Energy SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Energy[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fenergy_azhls60%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/yj03dxrl5/energy.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]Energy SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/energy_azhls60/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/yj03dxrl5/energy.png</thumbnail>
+</item>
+
+<tem><title>[COLOR deepskyblue]divinity SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://mediasethls-lh.akamaihd.net/i/mitele/divinity_g@393139/index_500_av-p.m3u8</link><thumbnail>https://s26.postimg.org/lns3r6cbt/divinity.png</thumbnail></item>
+<item><title>[COLOR deepskyblue]divinity SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]divinity[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fdiniiiii_9fil4ag%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/lns3r6cbt/divinity.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]divinity SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/diniiiii_9fil4ag/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/lns3r6cbt/divinity.png</thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]nova HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8?sd=10&rebase=on</link><thumbnail>https://s26.postimg.org/jotviqbjd/nova.png</thumbnail></item>
+<item><title>[COLOR deepskyblue]nova HD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link><thumbnail>https://s26.postimg.org/jotviqbjd/nova.png</thumbnail></item>						
+<item>
+<title>[COLOR deepskyblue]nova SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://s26.postimg.org/jotviqbjd/nova.png</thumbnail>
+</item>
+
+			<item><title>[COLOR deepskyblue]MEGA HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link><thumbnail>https://s26.postimg.org/vlcbbpyp5/mega.png</thumbnail></item>			
+			<item><title>[COLOR deepskyblue]MEGA SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title><link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on</link><thumbnail>https://s26.postimg.org/vlcbbpyp5/mega.png</thumbnail></item>
+<item><title>[COLOR deepskyblue]MEGA SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Mega[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fmegatdt_9o35160%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/vlcbbpyp5/mega.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]MEGA SD [/COLOR] [COLOR gray][I] Opción 4[/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8</link>
+<thumbnail>https://s26.postimg.org/vlcbbpyp5/mega.png</thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]BeMad SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]BeMad[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fbemad_azhj93f%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/bijsqqy21/be_mad.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+
+<item><title>[COLOR deepskyblue]Ten SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR lightyellow]Ten[/COLOR]&amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Ften_azj987s%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link><thumbnail>https://s26.postimg.org/55rbv27s9/ten.png</thumbnail><agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent><cookieJar></cookieJar></item>
+<item>
+<title>[COLOR deepskyblue]Ten SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/55rbv27s9/ten.png</thumbnail>
+</item>
+
+			<item>
+			<title>[COLOR deepskyblue]13 TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+			<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+			<thumbnail>https://s26.postimg.org/qe956uup5/13_tv.png</thumbnail></item>
+<item>
+<title>[COLOR deepskyblue]13 TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w63737912.m3u8|Referer=http://cinestrenostv.tv/canales/nacionales/13tv.php</link>
+<thumbnail>https://s26.postimg.org/qe956uup5/13_tv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR deepskyblue]13 TV SD [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR]</title><thumbnail>https://s26.postimg.org/qe956uup5/13_tv.png</thumbnail>
+<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ=</link>
+</item>
+
+<item>
+<title>[COLOR deepskyblue]Interconomia HD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+<link>http://edge3.adnstream.com:81/hls/intereconomia.m3u8|Referer=http://biophobia.tv/nacionales/intereconomiaonline.php</link>
+<thumbnail>https://s26.postimg.org/eeb4m7n55/intereconomía.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyblue]24H SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
+<link></link>
+<thumbnail>https://s26.postimg.org/au1rgbkkp/24h.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>       
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=Gran Hermano 17  &amp;url=http%3A%2F%2Fcdn.sitenow.me%2Flive%2Fcinestrenostvgh17_bfo6ov9%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
+<thumbnail>https://s26.postimg.org/3xv0jvo4p/gh17.jpg</thumbnail>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 m Safari/537.36</agent>
+<cookieJar></cookieJar>
+</item>
+ <item>
+<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
+<link>http://cdn.sitenow.me/live/cinestrenostvgh17_bfo6ov9/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>https://s26.postimg.org/3xv0jvo4p/gh17.jpg</thumbnail>
+</item>
+  <item>
+<title>[COLOR deepskyblue]Gran Hermano 17  [/COLOR] [COLOR gray][I] Opción 3[/I][/COLOR][COLOR white][I]   (Sportsdevil)[/I][/COLOR]</title> 
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil><referer>http://www.oranline.com/</referer>
+<thumbnail>https://s26.postimg.org/3xv0jvo4p/gh17.jpg</thumbnail>
+ </item> 
