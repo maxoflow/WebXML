@@ -633,14 +633,29 @@
 
 <channels>
     <channel>
-    <name>[COLOR white]Locales[/COLOR]</name>
+    <name>[COLOR white]Deportes[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR white]Locales[/COLOR]</title>
+<title>[COLOR white]España[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR white]Internacionales[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>	
+		
+<item>
+<title>[COLOR white]Internacionales[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Deportes-Internacional.m3u</externallink>
 </item>		
 
         </items>
