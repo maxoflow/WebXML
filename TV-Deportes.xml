@@ -3,14 +3,14 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantil Castellano[/COLOR]</name>
+    <name>[COLOR deepskyblue]Deportes España[/COLOR]</name>
     <info></info>
-    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
+    <thumbnail>https://s26.postimg.org/niwijd7mx/Deportes.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantil Castellano[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil-Espa.m3u</externallink>
+<title>[COLOR deepskyblue]Deportes España[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Deportes-Espa.xml</externallink>
 </item>		
 
         </items>
@@ -19,14 +19,14 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantil Latino[/COLOR]</name>
+    <name>[COLOR deepskyblue]Deportes Internacionales[/COLOR]</name>
     <info></info>
-    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
+    <thumbnail>https://s26.postimg.org/niwijd7mx/Deportes.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantil Latinos[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil-Latino.m3u</externallink>
+<title>[COLOR deepskyblue]Deportes Internacionales[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Deportes-Internacionales.m3u</externallink>
 </item>		
 
         </items>

@@ -448,219 +448,23 @@
     </channel>
 </channels>
 
+
 <channels>
     <channel>
     <name>[COLOR white]Deportes[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/niwijd7mx/Deportes.png</thumbnail>
-        <items>
-
-<item>
-<title>[COLOR deepskyblue]beIN La Liga SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/yl5qc6a5l/beinsports_laliga.png</thumbnail>
-</item>
-<item>
-<title>[COLOR deepskyblue]beIN La Liga SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/verliga_bbsglgi/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/yl5qc6a5l/beinsports_laliga.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Movistar Fútbol SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb112/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/8zblcqacp/movistar_futbol.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Movistar Partidazo SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/verliga_bbsglgi/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/sxrgf3v1l/movistar_partidazo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN SPORTS SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/bein_alwkqfq/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/gtu3xpuqx/beinsports.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 1 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/verliga_bbsglgi/chunklist.m3u8|Referer=http://www.playerhd2.pw/embed.php?c=105847&amp;width=650&amp;height=400&amp;autostart=true&amp;tk1=NDDbrzm6HNXzL91ZxXI2UsCPlvuYQyYoKVaQYk1de1I%3D&amp;tk2=%2BloUMCxLzacnTk095drg1YGoOKuTOZXgH0zl4vfJeGM%3D&amp;tk3=LB9U1UamWInfdPvOWw08BS%2FGaoWEuFZ1cgVSu3cVIuw%3D</link>
-<thumbnail>https://s26.postimg.org/69k6f4q95/beinsports_max.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 2 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb142/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/wvwn43ug9/beinsports_max_2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 3 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb143/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/v5dm2mcx5/beinsports_max_3.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 4 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb144/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/9k8jf0g6h/beinsports_max_4.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 5 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb145/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/9yegscpnt/beinsports_max_5.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 6 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb146/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/d6iy5ebxl/beinsports_max_6.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 7 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb147/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/qopuhoo2x/beinsports_max_7.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]beIN Max 8 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb148/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/umd473aw9/beinsports_max_8.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]GOL SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/goltv_b2kycdj/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/hvmdgo0yx/movistar_golf.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Real Madrid TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
-<thumbnail>https://s26.postimg.org/vuj2t4q95/realmadrid_tv.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR deepskyblue]Real Madrid TV SD [/COLOR] [COLOR gray][I] Opción 2[/I][/COLOR]</title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
-<thumbnail>https://s26.postimg.org/vuj2t4q95/realmadrid_tv.jpg</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR deepskyblue]Barça TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/barca_av8kza6/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/nj0ndqg2x/barcelona_tv.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Sevilla FC SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&amp;rebase=on</link>
-<thumbnail>https://s26.postimg.org/8ucfgssfd/sevilla_fc_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Betis TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-	<link>http://cls.elitehd-audiovisuales.com/betistv/streaming/chunklist.m3u8|Referer=http://biophobia.tv/deportes/betistvonline.php</link>
-	<thumbnail>https://s26.postimg.org/nygikhre1/betis_tv.jpg</thumbnail>
-	</item>
-
-<item>
-<title>[COLOR deepskyblue]Movistar Deportes 1 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/deportes_avylh70/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/p6hvsshd5/movistar_deportes_1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Movistar Deportes 2 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/deportes2_ardgdvv/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/74yquznc9/movistar_deportes_2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Eurosport 1 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/eurosport1_b8omvr8/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/qstb8sp9l/eurosport_1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Eurosport 2 SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/eurosport2_b11qmaz/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/9gsyncvs9/eurosport_2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Movistar F1 SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb116/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/ssnp5fnqh/movistar_formula_1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Movistar MotoGP SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/tvb117/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/4sqqxeaqx/movistar_moto_gp.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Movistar Golf SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/golf_bb5ao1p/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/hvmdgo0yx/movistar_golf.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Teledeporte SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/7xallo6ax/tdp.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Caza y Pesca SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/cazaypesca_bawvnvf/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/pwrrw899l/caza_y_pesca.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Toros TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link>http://cdn.sitenow.me/live/toros_9frbv56/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>https://s26.postimg.org/5l2lo2tpl/toros_tv.png</thumbnail>
-</item>
-
-        </items>
-    </channel>
-</channels>
-
-<channels>
-    <channel>
-    <name>[COLOR white]Deportes[/COLOR]</name>
-    <info></info>
-    <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR white]España[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
+<title>[COLOR white]Deportes[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Deportes.xml</externallink>
 </item>		
 
         </items>
     </channel>
 </channels>
 
-<channels>
-    <channel>
-    <name>[COLOR white]Internacionales[/COLOR]</name>
-    <info></info>
-    <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>	
-		
-<item>
-<title>[COLOR white]Internacionales[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Deportes-Internacional.m3u</externallink>
-</item>		
-
-        </items>
-    </channel>
-</channels>
 
 <channels>
     <channel>
