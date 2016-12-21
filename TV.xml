@@ -468,6 +468,23 @@
 
 <channels>
     <channel>
+    <name>[COLOR white]Locales[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR white]Locales[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales.xml</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+
+<channels>
+    <channel>
     <name>[COLOR white]Guia TV[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/no09t1ey1/Guia.png</thumbnail>
