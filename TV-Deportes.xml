@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Infantil Castellano[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Infantil Castellano[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil-Espa.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Infantil Latino[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Infantil Latinos[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil-Latino.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
