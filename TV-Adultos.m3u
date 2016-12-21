@@ -1,13 +1,10 @@
-#EXTINF:-1 tvg-id="Exabyte TV BlayBoy TV" tvg-name="Baby TV" tvg-logo="https://s26.postimg.org/dx72xfox5/baby_tv.png" group-title="ADULTOS",[B][COLOR deepskyblue]PlayBoy TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][/B]
+#EXTINF:-1 tvg-id="Exabyte TV PlayBoy TV" tvg-name="Baby TV" tvg-logo="https://s26.postimg.org/dx72xfox5/baby_tv.png" group-title="ADULTOS",[B][COLOR deepskyblue]PlayBoy TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][/B]
 http://cdn.sitenow.me/live/playboy_13t2qf3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0
 
+#EXTINF:-1 tvg-id="Exabyte TV VENUS TV" tvg-name="VENUS TV" tvg-logo="https://s26.postimg.org/dx72xfox5/baby_tv.png" group-title="ADULTOS",[B][COLOR deepskyblue]VENUS TV SD - No Funciona [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][/B]
+http://cdn.sitenow.me/live/venus_157y379/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0
 
 
-<item>
-<title>[COLOR deepskyblue]Playboy TV SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[COLOR deepskyblue]VENUS SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR]</title>
