@@ -1,8 +1,6 @@
 #EXTINF:0 group-title="Z omitir",== ENTRETENIMIENTO ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:-1 tvg-id="Exabyte TV A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",[B][COLOR deepskyblue]A&E SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][/B]
-http://premium.exabytetv.info/HLSST/258/258-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN (Op2)
 http://premium.exabytetv.info/HLSST/2493/2493-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
@@ -278,6 +276,9 @@ http://premium.exabytetv.info/HLSST/469/469-GHMSX-101100010001101110001100100110
 
 #EXTINF:0 group-title="Z omitir",== MUNDO Y CULTURA ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="Exabyte TV A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",[B][COLOR deepskyblue]A&E SD [/COLOR] [COLOR gray][I] Opción 1[/I][/COLOR][/B]
+http://premium.exabytetv.info/HLSST/258/258-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",Animal Planet (Op2) No Funciona
 http://premium.exabytetv.info/HLSST/441/441-GHMSX-1011000100011011100011001001100-ExabyteTV.m3u8
