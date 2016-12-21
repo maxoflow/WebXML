@@ -1059,14 +1059,14 @@
 
 <channels>
     <channel>
-    <name>[COLOR white]World[/COLOR]</name>
+    <name>[COLOR white]Internacionales[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/xkajk5zhl/World.png</thumbnail>
         <items>			
 
 <item>
-<title>[COLOR white]World[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-World.m3u</externallink>
+<title>[COLOR white]Internacionales[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Internacionales.m3u</externallink>
 </item>		
         </items>
 
