@@ -3,14 +3,14 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Locales Castellano[/COLOR]</name>
+    <name>[COLOR deepskyblue]Locales España[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Locales Castellano[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
+<title>[COLOR deepskyblue]Locales España[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Locales-Espa.xml</externallink>
 </item>		
 
         </items>
