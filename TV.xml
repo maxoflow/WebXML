@@ -509,29 +509,12 @@
 		
 <item>
 <title>[COLOR white]Adultos[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Adultos.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Adultos.xml</externallink>
 </item>		
 
         </items>
     </channel>
 </channels>
-
-<channels>
-    <channel>
-    <name>[COLOR white]Prueba[/COLOR]</name>
-    <info></info>
-    <thumbnail>https://s26.postimg.org/4o5d6owyx/Locales.png</thumbnail>
-        <items>		
-		
-<item>
-<title>[COLOR white]Prueba[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/Untitled-1.xml</externallink>
-</item>		
-
-        </items>
-    </channel>
-</channels>
-
 
 <channels>
     <channel>
