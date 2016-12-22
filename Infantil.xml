@@ -3,14 +3,14 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</name>
+    <name>[COLOR deepskyblue]TV Infantil[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantiles Castellano[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Espa.m3u</externallink>
+<title>[COLOR deepskyblue]TV Dibujos Infantil[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil.xml</externallink>
 </item>		
 
         </items>
@@ -19,14 +19,46 @@
 
 <channels>
     <channel>
-    <name>[COLOR deepskyblue]Infantiles Latino[/COLOR]</name>
+    <name>[COLOR deepskyblue]Peliculas De Animación[/COLOR]</name>
     <info></info>
     <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
         <items>		
 		
 <item>
-<title>[COLOR deepskyblue]Infantiles Latino[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantiles-Latinos.m3u</externallink>
+<title>[COLOR deepskyblue]Peliculas De Animación[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil-Latino.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Peliculas Infantiles[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Peliculas Infantiles[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil-Latino.m3u</externallink>
+</item>		
+
+        </items>
+    </channel>
+</channels>
+
+<channels>
+    <channel>
+    <name>[COLOR deepskyblue]Anime[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://s26.postimg.org/3uo60c1k9/Infantil.png</thumbnail>
+        <items>		
+		
+<item>
+<title>[COLOR deepskyblue]Anime[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/maxoflow/WebXML/master/TV-Infantil-Latino.m3u</externallink>
 </item>		
 
         </items>
