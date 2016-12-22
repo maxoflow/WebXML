@@ -13,7 +13,7 @@
 <title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR PELICULA[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/buscarpelicula.xml</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
 
 
@@ -22,7 +22,7 @@
 <title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]MOVIES [/COLOR][COLOR skyblue]PACK[/COLOR] [/B]</title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/moviepack.xml</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
 
 
@@ -79,7 +79,7 @@
 
 
 
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
@@ -145,7 +145,7 @@
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
  
@@ -163,7 +163,7 @@
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/my.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -344,7 +344,7 @@
 <listrepeat><![CDATA[
     <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
-	<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+	<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 ]]></listrepeat>
 <expres>h2[\w\W\s]{0,4}href="http://pelis24.com/estrenos/(.*?)">(.*?)<</expres>
 <page>http://pelis24.com/estrenos/</page>
@@ -361,7 +361,7 @@ http://powvideo.net/
 <listrepeat><![CDATA[
     <title>[COLOR skyblue][makelist2.param2] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
     <link>$doregex[rtmp] playpath=$doregex[playpath]</link>
-	<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+	<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 ]]></listrepeat>
 <expres>href="http://powvideo.net/embed-(.*?)-</expres>
 <page>http://pelis24.com/estrenos/[makelist2.param1]</page>
@@ -416,7 +416,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
 
 
@@ -692,7 +692,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://pelis24.com/estrenos/page/[s
 <listrepeat><![CDATA[
     <title>[COLOR skyblue][makelist0.param3] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
     <link>$doregex[rtmp] playpath=$doregex[playpath]</link>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 ]]></listrepeat>
 <expres>href="http://powvideo.net/embed-(.*?)-</expres>
 <page>[makelist0.param1]</page>
@@ -747,7 +747,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
 
@@ -765,7 +765,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/yaske.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
  
@@ -776,7 +776,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/audiolatino.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
  
@@ -789,7 +789,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/inka.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
@@ -942,7 +942,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
@@ -992,7 +992,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/pelismag.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
  
@@ -1001,7 +1001,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/zpeliculas.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
  
@@ -1011,7 +1011,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/elite.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
@@ -1026,7 +1026,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/cinetux.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
@@ -1067,7 +1067,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/youtubemovies.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1078,7 +1078,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/pelialien.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1087,7 +1087,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1097,7 +1097,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/peliculas.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 -->
@@ -1107,7 +1107,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/peliculaspa.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1116,7 +1116,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/series/p_actuales.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 <item>
@@ -1124,7 +1124,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/series/movies_populares.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 <item>
@@ -1132,7 +1132,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/series/p_infantiles.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 <item>
@@ -1140,7 +1140,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/series/p_mex.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1160,7 +1160,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/p_esp.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1172,7 +1172,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/torrentking.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
  <tem>
@@ -1283,7 +1283,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ShaaningTorrents[/B] [/COLOR][COLOR skyblue] hvec [/COLOR] [COLOR lightslategray] [/COLOR] </title>
 
  <link>$doregex[makelist0]</link>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
 
 
 <regex>
@@ -1291,7 +1291,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 <title>[COLOR lightblue][makelist0.param2][/COLOR]</title>
 <link>$doregex[showPages]</link> 
-   <thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>    
+   <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>    
 ]]></listrepeat>
 <expres>class="forumtitle[\w\W\s]{0,6}href="https://www.shaanig.org/(.*?)/">(.*?)<</expres>
 <page>https://www.shaanig.org/f4/</page>
@@ -1308,7 +1308,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
    <title>[COLOR skyblue]Page# [showPages.param1][/COLOR]</title>
     <link>$doregex[makelist2]</link>
-     <thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
+     <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
 ]]></listrepeat>
 <expres>([0-9]+),?</expres>
 <page>$doregex[getPageNumbers]</page>
@@ -1351,14 +1351,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
 <link>plugin://plugin.video.quasar/play?uri=[makelist.param1]</link>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>        
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>        
 ]]></listrepeat>
 <expres>href="(.*?.torrent)">(.*?)torrent</expres>
 <page>https://www.shaanig.org/[makelist0.param1]/[makelist2.param1]</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
 
 
@@ -1436,7 +1436,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/otorrents.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1501,7 +1501,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/yify.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1511,7 +1511,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/yify2.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1521,7 +1521,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/rarbg.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1613,7 +1613,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/kosmiko.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
 
@@ -1866,7 +1866,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/user/Disney
 <link>http://ignora.me</link>
 <externallink>https://dl.dropboxusercontent.com/s/jb5wbatedw1pnwz/PELICULAS-MAIN2.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
  
@@ -1934,7 +1934,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/user/Disney
 
 
 
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
