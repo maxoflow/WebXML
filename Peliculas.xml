@@ -968,15 +968,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
- <item>
-<title>    [COLOR deepskyblue][B]TorrentKing[/B] [/COLOR][COLOR white] VO[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/torrentking.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-</item>
 
- <tem>
+ <item>
 <title>    [COLOR deepskyblue][B]Kickass Torrents[/B] [/COLOR][COLOR white] Castellano[/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
 <link>$doregex[showPages]</link> 
 <thumbnail> </thumbnail>  
@@ -1032,121 +1025,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
- <item>
-<title>    [COLOR deepskyblue][B]YourbitTorrents[/B] [/COLOR][COLOR white] Top100 [/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
-<link>$doregex[makelist]</link> 
-<thumbnail> </thumbnail> 
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR deepblue][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
-</regex>
-]]></listrepeat>
-<expres><![CDATA[href="/torrent/(.*?)/.*?">(.*?)<]]></expres>
-<page>https://yourbittorrent.com/movies.html</page>	
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-</regex>
-</item>
-
-
-
-
-
-
-
-
-
-
- 
-
-<item>
-<title>    [COLOR deepskyblue][B]ShaaningTorrents[/B] [/COLOR][COLOR white] hvec [/COLOR] [COLOR lightslategray] [/COLOR] </title>
-
- <link>$doregex[makelist0]</link>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
-
-
-<regex>
-<name>makelist0</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist0.param2][/COLOR]</title>
-<link>$doregex[showPages]</link> 
-   <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>    
-]]></listrepeat>
-<expres>class="forumtitle[\w\W\s]{0,6}href="https://www.shaanig.org/(.*?)/">(.*?)<</expres>
-<page>https://www.shaanig.org/f4/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-
-
-<regex>
-<name>showPages</name>
-<listrepeat><![CDATA[
-   <title>[COLOR skyblue]Page# [showPages.param1][/COLOR]</title>
-    <link>$doregex[makelist2]</link>
-     <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
-]]></listrepeat>
-<expres>([0-9]+),?</expres>
-<page>$doregex[getPageNumbers]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>getPageNumbers</name>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):
-  frompage,topage=re.findall( "class=\"popupctrl\">Page ([0-9]+) of ([0-9]+)",page_data)[0]
-  frompage=int(frompage)
-  topage=int(topage)
-  print range(frompage,topage)
-  return range(frompage,topage)
-]]></expres>
-<page>https://www.shaanig.org/[makelist0.param1]/</page>
-<referer>https://www.shaanig.org/[makelist0.param1]/</referer>
-<agent>Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36</agent>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[makelist2.param2]</title>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>class="title" href="https://www.shaanig.org/[makelist0.param1]/(.*?)"[\w\W\s]{0,30}">(.*?)<</expres>
-<page>https://www.shaanig.org/[makelist0.param1]/index[showPages.param1].html</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=[makelist.param1]</link>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>        
-]]></listrepeat>
-<expres>href="(.*?.torrent)">(.*?)torrent</expres>
-<page>https://www.shaanig.org/[makelist0.param1]/[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
-
-
-
 
 
 
@@ -1170,29 +1048,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 </regex>
 </item>
-
-
-
- <item>
-<title>    [COLOR deepskyblue][B]KickAss Torrents[/B] [/COLOR][COLOR white] Latinos[/COLOR] [COLOR lightslategray] Recientes [/COLOR] </title>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:[makelist.param1]</link>
-
-</regex>
-]]></listrepeat>
-<expres>href="magnet:(.*?)"[\w\W]*?class="cellMainLink">(.*?)<</expres>
-<page>https://kat.cr/usearch/latino%20category:movies/</page>	
-<referer>http://kat.cr/</referer>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-</regex>
-</item>
-
 
 
 
