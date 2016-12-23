@@ -311,13 +311,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 
-<tem>
+<item>
 <title>    [COLOR deepskyblue][B]CineCalidad[/B] [/COLOR][COLOR white]Generos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <externallink>http://adryanlist.org/adryan/cinecalidad.xml</externallink>
 </item>
  
-<tem>
+<item>
 <title>    [COLOR deepskyblue][B]NewPct1[/B] [/COLOR][COLOR white]Castellano[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -487,174 +487,6 @@ http://95.211.213.205:8777/56i7gporjhuzcg3h5etclb5g3qfqc3mcenxwq2ksub2vsffcc4btq
 vod|19350|h56i7gporjhuzcg3h5etclb5g3qfqc3mcenxwq2ksub2vsffcc4btq4ljvjbq|205|
 source_size|8777|
 |205|213|211|95|
-
-
-<item>
-<title>    [COLOR deepskyblue][B]PELIS24[/B] [/COLOR][COLOR White]Estrenos[/COLOR] Con Paginacion</title>
-<link>$doregex[showPages]</link>
-
-<regex>
-<name>showPages</name>
-<listrepeat><![CDATA[
-   <title>[COLOR lightblue]Pagina [showPages.param1][/COLOR]</title>
-    <link>$doregex[makelist0]</link>
-]]></listrepeat>
-<expres>([0-9]+),?</expres>
-<page>$doregex[getPageNumbers]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>getPageNumbers</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m,url='http://pelis24.com/estrenos/'):
-  source=requests.get(url)
-  frompage,topage=re.findall('<div class="navigation"><span>([0-9]+)<.*>([0-9]+)<\/a> <\/div>',source.text, re.DOTALL)[0]
-  frompage=int(1)
-  topage=int(topage)
-  topage=topage+1
-  print range(frompage,topage)
-  return range(frompage,topage)
-]]></expres>
-<page></page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-source</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m,url='http://pelis24.com/estrenos/page/[showPages.param1]/'):
-  source=requests.get(url).text
-  return source
-]]></expres>
-<page></page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist0</name>
-<listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist0.param3][/COLOR]</title>
-    <link>$doregex[makelist]</link>
-<thumbnail>[makelist0.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="(.*?)">.*homethumb".*\s+.*alt="(.*?)".*\s+<div class="movie-desc">\s+.*\s+<h3>(.*?)<\/h3>]]></expres>
-<page>http://pelis24.com/estrenos/page/[showPages.param1]/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist0.param3] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
-    <link>$doregex[rtmp] playpath=$doregex[playpath]</link>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-]]></listrepeat>
-<expres>href="http://powvideo.net/embed-(.*?)-</expres>
-<page>[makelist0.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>playpath</name>
-<expres>(mp4.*)</expres>
-<page>$doregex[src]</page>
-</regex>
-<regex>
-<name>rtmp</name>
-<expres>(.*?)mp4</expres>
-<page>$doregex[src]</page>
-</regex>
-<regex>
-<name>src</name>
-<expres>src:'(rtmp.*?)'</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-<page>$doregex[get-source-page]</page>
-</regex>
-<regex>
-<name>get-source-page</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests
- import re
- import time
- url ='http://powvideo.net/[makelist.param1]' 
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0.2'}
- source = requests.get(url, headers=headers)
- cookie1 = source.cookies['__cfduid']
- id = re.findall('id" value="(.*?)"', source.text)[0]
- op = re.findall('op" value="(.*?)"', source.text)[0]
- fname = re.findall('fname" value="(.*?)"', source.text)[0]
- imhuman = re.findall('imhuman".*value="(.*?)"', source.text)[0]
- usr_login = re.findall('usr_login" value="(.*?)"', source.text)[0]
- hash = re.findall('hash" value="(.*?)"', source.text)[0]
- referer = re.findall('referer" value="(.*?)"', source.text)[0]
- time.sleep(10)
- cookie = {'__cfduid': cookie1}
- data = {'op': op, 'usr_login': usr_login, 'id': id, 'fname': fname, 'referer': referer, 'hash':  hash, 'imhuman': imhuman}
- r1 = requests.post(url, headers = headers, data= data, cookies=cookie)
- return r1.text
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- <item>
-<title>    [COLOR deepskyblue][B]Yaske[/B] [/COLOR][COLOR white][I] Recientes[/I][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/yaske.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
- 
- 
- 
-<item>
-<title>    [COLOR deepskyblue][B]PeliculasAudioLatino[/B] [/COLOR][COLOR white][I] Recientes[/I][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/audiolatino.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
- 
-  
-
-
- 
- <item>
-<title>    [COLOR deepskyblue][B]inkaPelis[/B] [/COLOR][COLOR white] Estrenos | Generos[/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/inka.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-</item>
 
 
 
