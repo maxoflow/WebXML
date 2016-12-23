@@ -753,7 +753,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     <utube>[makelist.param1]</utube>
 ]]></listrepeat>
 <expres>\sid="(.*?)"[\w\W]*?\t{4}(.*?)\t{3}</expres>
-<page>http://app1.vuelo-digital.org/cantinfla.php</page>
+<page>https://raw.githubusercontent.com/maxoflow/WebXML/master/MaXoFloW-TV.php</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
