@@ -1,14 +1,5 @@
-
-<tem>
-<title>[COLOR white][B][  ][/B][/COLOR]    [COLOR deepskyblue][B]BUSCAR[/B] [/COLOR][COLOR gray]en Pelis24[/COLOR] </title>
-
-
-
-
-
-
 <item>
-<title>[COLOR white][B][[COLOR deepskyblue][B]Buscar[/B][/COLOR]][/COLOR]    [COLOR gray]en Gnula.nu[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]    [COLOR gray]en Gnula.nu[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
    <name>makelist</name>
@@ -67,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR[/B] [/COLOR][COLOR skyblue]en HDFULL.tv[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR][COLOR skyblue]en HDFULL.tv[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
    <name>makelist</name>
