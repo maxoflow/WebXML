@@ -285,7 +285,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    <title>[COLOR deepskyblue] [makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
  <thumbnail>http:[makelist2.param4]</thumbnail>
-<fanart>http:[makelist2.param4]</fanart>    
+<fanart>https://s26.postimg.org/ivqx0z17t/fanart.jpg</fanart>    
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)"[\w\W\s]{0,15}Putlocker(.*?)">(.*?)<[\w\W\s]{0,4}src="(.*?)"]]></expres>
 <page>http://www.watchfree.to/?keyword=$doregex[search]&amp;search_section=1</page>
