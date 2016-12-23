@@ -328,7 +328,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <referer>http://streamin.to</referer>
 </regex>
 <thumbnail>[makelist2.param4]</thumbnail>
-<fanart>[makelist2.param4]</fanart>
+<fanart>https://s26.postimg.org/ivqx0z17t/fanart.jpg</fanart>
 ]]></listrepeat>
 <expres>streamin[\w\W\s]{0,5}embed-(.*?)-</expres>
 <page>http://www.watchfree.to/[makelist2.param1]</page>
