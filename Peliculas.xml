@@ -22,7 +22,6 @@
 </item>
 
 
-
  
 <item>
 <title>    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR white]Estrenos[/COLOR] </title>
@@ -73,11 +72,6 @@
 
 
 
-
-
- 
- 
- 
 <item>
 <title>    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR white]Generos[/COLOR] </title>
 <link>$doregex[makelist3]</link>
@@ -182,6 +176,7 @@
 </item>
 
 
+
 <item>
 <title>    [COLOR deepskyblue][B]Prime Wire[/B]  [/COLOR][COLOR white]VO[/COLOR] </title>
 <link>$doregex[makelist2]</link>
@@ -243,10 +238,6 @@
 
 
 
-
-
-
-
  <item>
 <title>           [COLOR silver][B]Quasar Requerido[/B][/COLOR] </title>
 <link>http://ignora.me</link>
@@ -254,11 +245,6 @@
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
-
-
-
-
-
 
 
 
@@ -291,12 +277,6 @@
 
 
 
-
-
-
-
-
-
  <item>
 <title>    [COLOR deepskyblue][B]PelisMaget[/B] [/COLOR][COLOR white] Castellano[/COLOR] </title>
 <link>http://ignora.me</link>
@@ -304,6 +284,7 @@
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
+
 
  
   <item>
@@ -326,14 +307,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <item>
 <title>[COLOR red][B]Youtube Movies[/B][/COLOR] [COLOR white]Audio Latino[][/COLOR]</title>
 <link>http://ignora.me</link>
@@ -342,7 +315,6 @@
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
-
 
 
 
@@ -360,10 +332,6 @@
 <cookieJar></cookieJar>
 </regex>
 </item>
-
-
-
-
 
 
 
@@ -444,14 +412,6 @@
 
 
 
-
-
-
-
- 
-
-
-
 <item>
 <title>    [COLOR deepskyblue][B]YIFY MOVIES [/B] [/COLOR][COLOR white] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
 <link>http://ignora.me</link>
@@ -462,7 +422,8 @@
 </item>
 
 
-<tem>
+
+<item>
 <title>    [COLOR deepskyblue][B]YIFY [/B] [/COLOR][COLOR white] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/yify2.xml</externallink>
@@ -470,6 +431,7 @@
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
+
 
 
 <item>
@@ -482,16 +444,6 @@
 </item>
 
 
-
-
-
-
-
-
- 
- 
-
-
  
  <item>
 <title></title>
@@ -501,14 +453,5 @@
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 <info></info>
 </item>
- 
-
- 
 
 
-
-
-
-
-
-	
