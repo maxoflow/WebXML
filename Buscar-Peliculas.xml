@@ -2,108 +2,13 @@
 <tem>
 <title>[COLOR white][B][  ][/B][/COLOR]    [COLOR deepskyblue][B]BUSCAR[/B] [/COLOR][COLOR gray]en Pelis24[/COLOR] </title>
 
-<link>$doregex[makelist2]</link>
-<regex>
-   <name>makelist2</name>
-   <listrepeat><![CDATA[
-          <title>[UPPERCASE][COLOR skyblue][makelist2.param2][/COLOR][/UPPERCASE]</title>
-          <link>$doregex[makelist]</link>
-		  <thumbnail> </thumbnail>
-   ]]></listrepeat>
-   <expres>h2[\w\W\s]{0,4}href="http://pelis24.com/(.*?)">(.*?)<</expres>
-   <page>http://pelis24.com/xfsearch/$doregex[search]</page>
-   <cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>search</name>
-<expres><![CDATA[#$pyFunction
-import xbmc
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    dialog = xbmcgui.Dialog()
-    d = dialog.input('Buscar Pelicula: ejemplo: Batman', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
-    return d
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist2.param2] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
-    <link>$doregex[rtmp] playpath=$doregex[playpath]</link>
-	<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-]]></listrepeat>
-<expres>href="http://powvideo.net/embed-(.*?)-</expres>
-<page>http://pelis24.com/[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>playpath</name>
-<expres>(mp4.*)</expres>
-<page>$doregex[src]</page>
-</regex>
-<regex>
-<name>rtmp</name>
-<expres>(.*?)mp4</expres>
-<page>$doregex[src]</page>
-</regex>
-<regex>
-<name>src</name>
-<expres>src:'(rtmp.*?)'</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-<page>$doregex[get-source-page]</page>
-</regex>
-<regex>
-<name>get-source-page</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests
- import re
- import time
- url ='http://powvideo.net/[makelist.param1]' 
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0.2'}
- source = requests.get(url, headers=headers)
- cookie1 = source.cookies['__cfduid']
- id = re.findall('id" value="(.*?)"', source.text)[0]
- op = re.findall('op" value="(.*?)"', source.text)[0]
- fname = re.findall('fname" value="(.*?)"', source.text)[0]
- imhuman = re.findall('imhuman".*value="(.*?)"', source.text)[0]
- usr_login = re.findall('usr_login" value="(.*?)"', source.text)[0]
- hash = re.findall('hash" value="(.*?)"', source.text)[0]
- referer = re.findall('referer" value="(.*?)"', source.text)[0]
- time.sleep(10)
- cookie = {'__cfduid': cookie1}
- data = {'op': op, 'usr_login': usr_login, 'id': id, 'fname': fname, 'referer': referer, 'hash':  hash, 'imhuman': imhuman}
- r1 = requests.post(url, headers = headers, data= data, cookies=cookie)
- return r1.text
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
 
 
 
 
 
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR[/B] [/COLOR][COLOR skyblue]en Gnula.nu[/COLOR] </title>
+<title>[COLOR white][B][ [COLOR deepskyblue][B]Buscar[/B] [/COLOR] ][/B][/COLOR]    [COLOR gray]en Gnula.nu[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
    <name>makelist</name>
