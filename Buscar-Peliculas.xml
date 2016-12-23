@@ -8,7 +8,7 @@
 
 
 <item>
-<title>[COLOR white][B][ [COLOR deepskyblue][B]Buscar[/B] [/COLOR] ][/B][/COLOR]    [COLOR gray]en Gnula.nu[/COLOR] </title>
+<title>[COLOR white][B][[COLOR deepskyblue][B]Buscar[/B][/COLOR]][/COLOR]    [COLOR gray]en Gnula.nu[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
    <name>makelist</name>
