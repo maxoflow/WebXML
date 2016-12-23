@@ -6,7 +6,7 @@
    <listrepeat><![CDATA[
           <title>[UPPERCASE][COLOR skyblue][makelist.param2][/COLOR][/UPPERCASE]</title>
           <link>$doregex[makelist2]</link>
-		  <thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+		  <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
    ]]></listrepeat>
    <expres>href="(http://gnula.nu/(.+?))"</expres>
    <page>https://www.bing.com/search?q=$doregex[search]+site%3Agnula.nu</page>
@@ -53,8 +53,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
+
 
 
 <item>
@@ -91,7 +92,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
     <title>[COLOR skyblue][makelist.param2][/COLOR] - [COLOR lightslategray][I]streamin.to[/I][/COLOR]</title>
     <link>$doregex[url]/$doregex[id2]/v.flv</link>
-	<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+	<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 ]]></listrepeat>
 <expres>http://streamin.to/embed-(.*?)-</expres>
 <page>[makelist.param1]</page>
@@ -112,34 +113,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>http://streamin.to/embed-[makelist2.param1]-740x360.html</page>	 
 <referer>http://streamin.to</referer>
 </regex> 
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR[/B] [/COLOR][COLOR skyblue]PelisMagnet[/COLOR][COLOR lightslategray] Audio Castellano[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]PelisMagnet[/COLOR][COLOR lightslategray] Audio Castellano[/COLOR] </title>
 <link>$doregex[makelist]</link>
 
 
@@ -155,7 +135,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>http://pelismag.net/peliculas/[makelist.param2]</page>
 <referer></referer>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
    ]]></listrepeat>
    <expres>href="(http://pelismag.net/peliculas/(.+?))"</expres>
    <page>https://www.bing.com/search?q=$doregex[search]+site%3Apelismag.net%2Fpeliculas</page>
@@ -176,14 +156,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
 
-
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]SEARCH[/B] [/COLOR][COLOR skyblue]at PRIMEWIRE[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]en PRIMEWIRE[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -261,7 +240,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]SEARCH[/B] [/COLOR][COLOR skyblue]at YourBitorrent[/COLOR]</title>
+<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]en YourBitorrent[/COLOR]</title>
 <link>$doregex[makelist]</link> 
 <thumbnail> </thumbnail> 
 
@@ -358,9 +337,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR[/B] [/COLOR][COLOR skyblue]Torrent VO[/COLOR][COLOR lightslategray] Pulsar requerido[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]Torrent VO[/COLOR][COLOR lightslategray] Pulsar requerido[/COLOR] </title>
 
 <link>$doregex[makelist]</link>
 
@@ -398,19 +376,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>	
 
 
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR[/B] [/COLOR][COLOR skyblue]en ExtraTorrent[/COLOR] </title>
+[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]en ExtraTorrent[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
  <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
 <link>plugin://plugin.video.quasar/play?uri=https://extratorrent.cc/download/[makelist.param1]</link>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </regex>
 ]]></listrepeat>
 <expres>href="/torrent_download/(.*?)"[\w\W\s]{0,8}Download(.*?)torrent</expres>
@@ -433,7 +411,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
@@ -451,7 +429,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR[/B] [/COLOR][COLOR skyblue]TorrentKing[/COLOR][COLOR lightslategray] VO[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]TorrentKing[/COLOR][COLOR lightslategray] VO[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -477,7 +455,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     
     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:[makelist.param1]</link>
 
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
    ]]></listrepeat>
    <expres><![CDATA[urn:btih:(.*?)"[\w\W\s]{0,95}tor_title">(.*?)<]]></expres>
    <page>http://torrentking.eu[makelist2.param1]</page>
@@ -499,7 +477,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 </item>
 
 
