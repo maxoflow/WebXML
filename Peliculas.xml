@@ -14,171 +14,6 @@
 </item>
 
 
-
-<item>
-<title>    [COLOR deepskyblue][B]Estrenos[/B][/COLOR]  [COLOR white]Audio Latino[/COLOR]  </title>
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param2]</title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,29}src="(.*?)"</expres>
-<page>http://gnula.nu/peliculas-online/lista-de-peliculas-online-parte-1/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2][/COLOR]  [COLOR lightslategray]streaminto/[makelist.param1][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>flv\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)"</expres>
-<page>[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
- 
- 
- 
- <item>
-<title>    [COLOR deepskyblue][B]WATCHFREE[/B]  [/COLOR][COLOR white]Nuevas Peliculas VO[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[COLOR deepskyblue] [makelist2.param2][/COLOR]</title>
-    <link>$doregex[makelist]</link>
- <thumbnail>http:[makelist2.param4]</thumbnail>
-<fanart>http:[makelist2.param4]</fanart>    
-]]></listrepeat>
-<expres><![CDATA[href="(.*?)"[\w\W\s]{0,15}Putlocker(.*?)">(.*?)<[\w\W\s]{0,4}src="(.*?)"]]></expres>
-<page>http://www.watchfree.to/</page>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param3]  [COLOR lightslategray]-[makelist.param1][/COLOR][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>flv\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<thumbnail>[makelist2.param4]</thumbnail>
-<fanart>[makelist2.param4]</fanart>
-]]></listrepeat>
-<expres>streamin[\w\W\s]{0,5}embed-(.*?)-</expres>
-<page>http://www.watchfree.to/[makelist2.param1]</page>
-</regex>
-</item>
-
-
-<item>
-<title>    [COLOR deepskyblue][B]Prime Wire[/B]  [/COLOR][COLOR white]VO[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[COLOR deepskyblue] [makelist2.param2][/COLOR]</title>
-    <link>$doregex[makelist]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres><![CDATA[href="watch-(.*?html)"[\w\W\s]{0,9}title="(.*?)"[\w\W\s]{0,6}src="(.*?)"]]></expres>
-<page>http://www.primewire.to/?sort=featured</page>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue][makelist2.param2]  [COLOR lightslategray] server:streamin.to[/COLOR][/COLOR]</title>
-<link>$doregex[url]/$doregex[id2]/v.flv</link>
-<regex>
-<name>url</name>
-<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
-<page>http://streamin.to/embed-$doregex[idnuevo]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>id2</name>
-<expres>flv\|(.*?)\|file</expres>
-<page>http://streamin.to/embed-$doregex[idnuevo]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-
-<regex>
-<name>idnuevo</name>
-<expres>action='http://streamin.to/(.*?)'</expres>
-<page>http://www.primewire.to/goto.php$doregex[idnuevo2]</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-<regex>
-<name>idnuevo2</name>
-<expres>href="http://www.primewire.to/goto.php(.*?)"</expres>
-<page>[makelist.param1]</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-
-
-
-<thumbnail>[makelist2.param4]</thumbnail>
-<fanart>[makelist2.param4]</fanart>
-]]></listrepeat>
-<expres>href="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,145}streamin.to</expres>
-<page>http://www.primewire.to/watch-[makelist2.param1]</page>
-</regex>
-</item>
-
-
-
-
-
-
-
-
-
-
-
  
 <item>
 <title>    [COLOR deepskyblue][B]HDFull[/B] [/COLOR][COLOR white]Estrenos[/COLOR] </title>
@@ -301,13 +136,110 @@
 </regex>
 </item>
  
-http://95.211.213.205:8777/56i7gporjhuzcg3h5etclb5g3qfqc3mcenxwq2ksub2vsffcc4btq4ljvjbq/v.mp4
-
-vod|19350|h56i7gporjhuzcg3h5etclb5g3qfqc3mcenxwq2ksub2vsffcc4btq4ljvjbq|205|
-source_size|8777|
-|205|213|211|95|
 
 
+ <item>
+<title>    [COLOR deepskyblue][B]WATCHFREE[/B]  [/COLOR][COLOR white]Nuevas Peliculas VO[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[COLOR deepskyblue] [makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+ <thumbnail>http:[makelist2.param4]</thumbnail>
+<fanart>http:[makelist2.param4]</fanart>    
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)"[\w\W\s]{0,15}Putlocker(.*?)">(.*?)<[\w\W\s]{0,4}src="(.*?)"]]></expres>
+<page>http://www.watchfree.to/</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue][makelist2.param3]  [COLOR lightslategray]-[makelist.param1][/COLOR][/COLOR]</title>
+<link>$doregex[url]/$doregex[id2]/v.flv</link>
+<regex>
+<name>url</name>
+<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+<regex>
+<name>id2</name>
+<expres>flv\|(.*?)\|file</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>[makelist2.param4]</thumbnail>
+<fanart>[makelist2.param4]</fanart>
+]]></listrepeat>
+<expres>streamin[\w\W\s]{0,5}embed-(.*?)-</expres>
+<page>http://www.watchfree.to/[makelist2.param1]</page>
+</regex>
+</item>
+
+
+<item>
+<title>    [COLOR deepskyblue][B]Prime Wire[/B]  [/COLOR][COLOR white]VO[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[COLOR deepskyblue] [makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+ <thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>    
+]]></listrepeat>
+<expres><![CDATA[href="watch-(.*?html)"[\w\W\s]{0,9}title="(.*?)"[\w\W\s]{0,6}src="(.*?)"]]></expres>
+<page>http://www.primewire.to/?sort=featured</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue][makelist2.param2]  [COLOR lightslategray] server:streamin.to[/COLOR][/COLOR]</title>
+<link>$doregex[url]/$doregex[id2]/v.flv</link>
+<regex>
+<name>url</name>
+<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
+<page>http://streamin.to/embed-$doregex[idnuevo]-740x360.html</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+<regex>
+<name>id2</name>
+<expres>flv\|(.*?)\|file</expres>
+<page>http://streamin.to/embed-$doregex[idnuevo]-740x360.html</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+
+<regex>
+<name>idnuevo</name>
+<expres>action='http://streamin.to/(.*?)'</expres>
+<page>http://www.primewire.to/goto.php$doregex[idnuevo2]</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+<regex>
+<name>idnuevo2</name>
+<expres>href="http://www.primewire.to/goto.php(.*?)"</expres>
+<page>[makelist.param1]</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+
+
+
+<thumbnail>[makelist2.param4]</thumbnail>
+<fanart>[makelist2.param4]</fanart>
+]]></listrepeat>
+<expres>href="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,145}streamin.to</expres>
+<page>http://www.primewire.to/watch-[makelist2.param1]</page>
+</regex>
+</item>
 
 
 
