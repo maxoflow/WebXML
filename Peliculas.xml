@@ -10,7 +10,7 @@
 
 
  <item>
-<title>    [COLOR deepdeepskyblue][B]Buscar Peliculas...[/B] [/COLOR] </title>
+<title>    [COLOR lightgreen][B]BUSCAR PELICULA[/B] [/COLOR][COLOR deepskyblue] [/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/buscarpelicula.xml</externallink>
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
@@ -19,7 +19,7 @@
 
 
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]MOVIES [/COLOR][COLOR deepskyblue]PACK[/COLOR] [/B]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]MOVIES [/COLOR][COLOR skyblue]PACK[/COLOR] [/B]</title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/moviepack.xml</externallink>
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
@@ -27,13 +27,13 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]MOVIES [/COLOR][COLOR deepskyblue]PLAYLIST[/COLOR] [/B]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]MOVIES [/COLOR][COLOR skyblue]PLAYLIST[/COLOR] [/B]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
   <name>makelist3</name>
   <listrepeat><![CDATA[
-        <title>[COLOR deepskyblue][makelist3.param2][/COLOR]</title>
+        <title>[COLOR skyblue][makelist3.param2][/COLOR]</title>
         <link>$doregex[makelist]</link>
         ]]></listrepeat>
 <expres>peliculas:"(.*?)" name:"(.*?)";</expres>
@@ -91,7 +91,7 @@
 
 
 <tem>
-<title>[COLOR deepskyblue][B]Estrenos[/B][/COLOR]  [COLOR deepdeepskyblue]Audio Latino[/COLOR]  </title>
+<title>[COLOR skyblue][B]Estrenos[/B][/COLOR]  [COLOR deepskyblue]Audio Latino[/COLOR]  </title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -141,7 +141,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]ESTRENOS[/B] [/COLOR][COLOR deepskyblue]Audio Latino[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ESTRENOS[/B] [/COLOR][COLOR skyblue]Audio Latino[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -159,7 +159,7 @@
 
 <!--
 <item>
-<title>[COLOR deepskyblue][B]Peliculas [/B][/COLOR] [COLOR coral][B]2011-2015[/B] [/COLOR][COLOR deepdeepskyblue](Audio Original) [/COLOR][COLOR gray][hay que agregar subtitulos][/COLOR] </title>
+<title>[COLOR skyblue][B]Peliculas [/B][/COLOR] [COLOR coral][B]2011-2015[/B] [/COLOR][COLOR deepskyblue](Audio Original) [/COLOR][COLOR gray][hay que agregar subtitulos][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/my.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -224,14 +224,14 @@
  
  
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]WATCHFREE[/B]  [/COLOR][COLOR deepskyblue]New Releases VO[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]WATCHFREE[/B]  [/COLOR][COLOR skyblue]New Releases VO[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-   <title>[COLOR deepdeepskyblue] [makelist2.param2][/COLOR]</title>
+   <title>[COLOR deepskyblue] [makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
  <thumbnail>http:[makelist2.param4]</thumbnail>
 <fanart>http:[makelist2.param4]</fanart>    
@@ -268,14 +268,14 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]PrimeWire[/B]  [/COLOR][COLOR deepskyblue]Featured VO[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PrimeWire[/B]  [/COLOR][COLOR skyblue]Featured VO[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-   <title>[COLOR deepdeepskyblue] [makelist2.param2][/COLOR]</title>
+   <title>[COLOR deepskyblue] [makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
  <thumbnail>[makelist2.param3]</thumbnail>
 <fanart>[makelist2.param3]</fanart>    
@@ -335,14 +335,14 @@
  
  
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]PELIS24[/B]  [/COLOR][COLOR deepskyblue]Estrenos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PELIS24[/B]  [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
  <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-    <title>[COLOR deepskyblue][makelist2.param2][/COLOR]</title>
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
 	<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 ]]></listrepeat>
@@ -359,7 +359,7 @@ http://powvideo.net/
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[COLOR deepskyblue][makelist2.param2] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
+    <title>[COLOR skyblue][makelist2.param2] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
     <link>$doregex[rtmp] playpath=$doregex[playpath]</link>
 	<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 ]]></listrepeat>
@@ -437,20 +437,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]HDFull.TV[/B] [/COLOR][COLOR deepskyblue]Estrenos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]HDFull.TV[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <externallink>http://adryanlist.org/adryan/hdfull.xml</externallink>
 </item>
  
 
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]CineCalidad[/B] [/COLOR][COLOR deepskyblue]Generos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]CineCalidad[/B] [/COLOR][COLOR skyblue]Generos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <externallink>http://adryanlist.org/adryan/cinecalidad.xml</externallink>
 </item>
  
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]NewPct1[/B] [/COLOR][COLOR deepskyblue]Castellano[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]NewPct1[/B] [/COLOR][COLOR skyblue]Castellano[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -503,7 +503,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR deepskyblue]Estrenos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -561,7 +561,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR deepskyblue]Generos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Generos[/COLOR] </title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -626,7 +626,7 @@ source_size|8777|
 
 
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]PELIS24[/B] [/COLOR][COLOR deepskyblue]Estrenos[/COLOR] con paginacion</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PELIS24[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] con paginacion</title>
 <link>$doregex[showPages]</link>
 
 <regex>
@@ -677,7 +677,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://pelis24.com/estrenos/page/[s
 <regex>
 <name>makelist0</name>
 <listrepeat><![CDATA[
-    <title>[COLOR deepskyblue][makelist0.param3][/COLOR]</title>
+    <title>[COLOR skyblue][makelist0.param3][/COLOR]</title>
     <link>$doregex[makelist]</link>
 <thumbnail>[makelist0.param2]</thumbnail>
 ]]></listrepeat>
@@ -690,7 +690,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://pelis24.com/estrenos/page/[s
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[COLOR deepskyblue][makelist0.param3] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
+    <title>[COLOR skyblue][makelist0.param3] [COLOR lightslategray]([makelist.param1])[/COLOR][/COLOR]</title>
     <link>$doregex[rtmp] playpath=$doregex[playpath]</link>
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
 ]]></listrepeat>
@@ -761,7 +761,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]Yaske[/B] [/COLOR][COLOR deepskyblue][I] Recientes[/I][/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Yaske[/B] [/COLOR][COLOR skyblue][I] Recientes[/I][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/yaske.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -772,7 +772,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]PeliculasAudioLatino[/B] [/COLOR][COLOR deepskyblue][I] Recientes[/I][/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PeliculasAudioLatino[/B] [/COLOR][COLOR skyblue][I] Recientes[/I][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/audiolatino.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -785,7 +785,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]inkaPelis[/B] [/COLOR][COLOR deepskyblue] Estrenos | Generos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]inkaPelis[/B] [/COLOR][COLOR skyblue] Estrenos | Generos[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/inka.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -795,7 +795,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]PelisRey[/B] [/COLOR][COLOR deepskyblue]Latino[/COLOR] fase de Prueba</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PelisRey[/B] [/COLOR][COLOR skyblue]Latino[/COLOR] fase de Prueba</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -834,7 +834,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
   
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]PeliAdicto[/B] [/COLOR][COLOR deepskyblue]Estrenos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PeliAdicto[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -856,7 +856,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist2.param2]  [COLOR lightslategray](streaminto [makelist.param1])  [/COLOR] [/COLOR]</title>
+<title>[COLOR skyblue][makelist2.param2]  [COLOR lightslategray](streaminto [makelist.param1])  [/COLOR] [/COLOR]</title>
 <link>$doregex[id]</link>
  <regex>
  <name>id</name>
@@ -880,7 +880,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]Cantinflas[/B] [/COLOR][COLOR deepskyblue]Peliculas[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Cantinflas[/B] [/COLOR][COLOR skyblue]Peliculas[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -953,7 +953,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]DivxaTope[/B] [/COLOR][COLOR deepskyblue] Castellano[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]DivxaTope[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
 <link>$doregex[makelist]</link> 
 <thumbnail>http://www.divxatope.com/newtemp/template/images/logo.png</thumbnail>       <!--thumb del sitio  web-->
 <regex>
@@ -988,7 +988,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]PelisMaget[/B] [/COLOR][COLOR deepskyblue] Castellano[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PelisMaget[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/pelismag.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -997,7 +997,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
   <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]ZPeliculas[/B] [/COLOR][COLOR deepskyblue] Castellano[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ZPeliculas[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/zpeliculas.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1007,7 +1007,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]EliteTorrent[/B] [/COLOR][COLOR deepskyblue] Castellano[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]EliteTorrent[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/elite.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1022,7 +1022,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <!--
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]CineTux.COM[/B] [/COLOR][COLOR deepskyblue][/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]CineTux.COM[/B] [/COLOR][COLOR skyblue][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/cinetux.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1034,7 +1034,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]Youtube[/B] [/COLOR][COLOR deepskyblue]Peliculas[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Youtube[/B] [/COLOR][COLOR skyblue]Peliculas[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1074,7 +1074,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR deepskyblue][B]Estrenos[/B][/COLOR] [COLOR lightblue][AlienMovies][V.O. Subtituladas][/COLOR]</title>
+<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [COLOR lightblue][AlienMovies][V.O. Subtituladas][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/pelialien.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1083,7 +1083,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR deepskyblue][B]Solo Estrenos [/B][/COLOR][COLOR yellow]HD[/COLOR] [COLOR lightblue][JessMax][/COLOR]</title>
+<title>[COLOR skyblue][B]Solo Estrenos [/B][/COLOR][COLOR yellow]HD[/COLOR] [COLOR lightblue][JessMax][/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1093,7 +1093,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR deepskyblue][B]Estrenos[/B][/COLOR] [Latino]</title>
+<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [Latino]</title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/peliculas.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1103,7 +1103,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 -->
 <!--
 <item>
-<title>[COLOR deepskyblue][B]Estrenos[/B][/COLOR] [Castellano]</title>
+<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [Castellano]</title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/peliculaspa.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1168,7 +1168,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 -->
 
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]TorrentKing[/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]TorrentKing[/B] [/COLOR][COLOR skyblue] VO[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/torrentking.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1176,14 +1176,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]Kickass Torrents[/B] [/COLOR][COLOR deepskyblue] Castellano[/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Kickass Torrents[/B] [/COLOR][COLOR skyblue] Castellano[/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
 <link>$doregex[showPages]</link> 
 <thumbnail> </thumbnail>  
 
 <regex>
 <name>showPages</name>
 <listrepeat><![CDATA[
-   <title>[COLOR deepskyblue]Pagina# [showPages.param1][/COLOR]</title>
+   <title>[COLOR skyblue]Pagina# [showPages.param1][/COLOR]</title>
     <link>$doregex[makelist]</link>
        
 ]]></listrepeat>
@@ -1251,7 +1251,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]YourbitTorrents[/B] [/COLOR][COLOR deepskyblue] Top100 [/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]YourbitTorrents[/B] [/COLOR][COLOR skyblue] Top100 [/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
 <link>$doregex[makelist]</link> 
 <thumbnail> </thumbnail> 
 
@@ -1280,7 +1280,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]ShaaningTorrents[/B] [/COLOR][COLOR deepskyblue] hvec [/COLOR] [COLOR lightslategray] [/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ShaaningTorrents[/B] [/COLOR][COLOR skyblue] hvec [/COLOR] [COLOR lightslategray] [/COLOR] </title>
 
  <link>$doregex[makelist0]</link>
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
@@ -1306,7 +1306,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>showPages</name>
 <listrepeat><![CDATA[
-   <title>[COLOR deepskyblue]Page# [showPages.param1][/COLOR]</title>
+   <title>[COLOR skyblue]Page# [showPages.param1][/COLOR]</title>
     <link>$doregex[makelist2]</link>
      <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>  
 ]]></listrepeat>
@@ -1372,7 +1372,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]ExtraTorrents[/B] [/COLOR][COLOR deepskyblue] [/COLOR] [COLOR lightslategray] [/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ExtraTorrents[/B] [/COLOR][COLOR skyblue] [/COLOR] [COLOR lightslategray] [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1390,7 +1390,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]ExtraTorrents[/B] [/COLOR][COLOR deepskyblue]First CAMS [/COLOR] [COLOR lightslategray] [/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ExtraTorrents[/B] [/COLOR][COLOR skyblue]First CAMS [/COLOR] [COLOR lightslategray] [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1409,7 +1409,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]KickAss Torrents[/B] [/COLOR][COLOR deepskyblue] Latinos[/COLOR] [COLOR lightslategray] Recientes [/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]KickAss Torrents[/B] [/COLOR][COLOR skyblue] Latinos[/COLOR] [COLOR lightslategray] Recientes [/COLOR] </title>
 
 
 <link>$doregex[makelist]</link>
@@ -1432,7 +1432,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]O Torrents [/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]O Torrents [/B] [/COLOR][COLOR skyblue] VO[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/otorrents.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1443,7 +1443,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]ShAaNiG Torrents [/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ShAaNiG Torrents [/B] [/COLOR][COLOR skyblue] VO[/COLOR] </title>
 <link>$doregex[makelist3]</link> 
 <thumbnail> </thumbnail>  
 <regex>
@@ -1497,7 +1497,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]YIFY MOVIES [/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]YIFY MOVIES [/B] [/COLOR][COLOR skyblue] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/yify.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1507,7 +1507,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]YIFY [/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]YIFY [/B] [/COLOR][COLOR skyblue] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/yify2.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1517,7 +1517,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]Torrent RARBG [/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Torrent RARBG [/B] [/COLOR][COLOR skyblue] VO[/COLOR] [COLOR lightslategray][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/rarbg.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1562,7 +1562,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]CINE RETRO [/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] [COLOR lightslategray]Most Popular[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]CINE RETRO [/B] [/COLOR][COLOR skyblue] VO[/COLOR] [COLOR lightslategray]Most Popular[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <thumbnail> </thumbnail>  
 
@@ -1609,7 +1609,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]kosmikaPlaylist [/B] [/COLOR][COLOR deepskyblue] [/COLOR] [COLOR lightslategray][/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]kosmikaPlaylist [/B] [/COLOR][COLOR skyblue] [/COLOR] [COLOR lightslategray][/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/kosmiko.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -1627,12 +1627,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]KingMovie [/B] [/COLOR][COLOR deepskyblue] VO[/COLOR] [COLOR lightslategray]by Year[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]KingMovie [/B] [/COLOR][COLOR skyblue] VO[/COLOR] [COLOR lightslategray]by Year[/COLOR] </title>
 <link>$doregex[makelist3]</link>
 <regex>
 <name>makelist3</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist3.param2][/COLOR] </title>
+<title>[COLOR skyblue][makelist3.param2][/COLOR] </title>
 <link>$doregex[makelist2]</link>
 ]]></listrepeat>
 <expres>href="(20.*?)">(.*?)<</expres>
@@ -1646,7 +1646,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist2.param2][/COLOR] </title>
+<title>[COLOR skyblue][makelist2.param2][/COLOR] </title>
 <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>href="(.*?)">(.*?)<</expres>
@@ -1659,7 +1659,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepdeepskyblue][makelist.param2][/COLOR] </title>
+<title>[COLOR deepskyblue][makelist.param2][/COLOR] </title>
 <link>http://dl1.kingmovie.co/Movie/[makelist3.param1][makelist2.param1][makelist.param1]</link>
 ]]></listrepeat>
 <expres>href="(.*?)">(.*?)<</expres>
@@ -1775,7 +1775,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepdeepskyblue][B]TRAILERS [/B] [/COLOR][COLOR deepskyblue] PELICULAS[/COLOR] [COLOR lightslategray]Disney[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]TRAILERS [/B] [/COLOR][COLOR skyblue] PELICULAS[/COLOR] [COLOR lightslategray]Disney[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -1888,7 +1888,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/user/Disney
 <regex>
   <name>makelist3</name>
   <listrepeat><![CDATA[
-        <title>[COLOR deepskyblue][makelist3.param2][/COLOR]</title>
+        <title>[COLOR skyblue][makelist3.param2][/COLOR]</title>
         <link>$doregex[makelist]</link>
         ]]></listrepeat>
 <expres>Series:"(.*?)" name:"(.*?)" imdb:"(.*?)";</expres>
