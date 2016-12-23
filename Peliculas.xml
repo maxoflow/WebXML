@@ -658,85 +658,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>    [COLOR deepskyblue][B]PelisRey[/B] [/COLOR][COLOR white]Audio Latino[/COLOR] Beta</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>$doregex[id]</link>
-
-<regex>
-<name>id</name>
-<expres>file:"(.*?)"</expres>
-<page>http://www.spruto.tv/$doregex[link]</page>
-<referer>http://www.spruto.tv</referer>
-<agent>iPhone</agent>
-</regex>
-
-<regex>
-<name>link</name>
-<expres>http://www.spruto.tv/(.*?)"</expres>
-<page>[makelist.param4]</page>
-<referer>http://www.spruto.tv</referer>
-<agent>iPhone</agent>
-</regex>
-
-<thumbnail>[makelist.param1]</thumbnail>
-<fanart>[makelist.param1]</fanart>
-
-]]></listrepeat>
-
-<expres>class="poster"[\w\W\s]{0,8}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,32}href="(.*?)"</expres>
-<page>http://www.peliculasrey.com/idioma/latino/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-  
-<item>
-<title>    [COLOR deepskyblue][B]PeliAdicto[/B] [/COLOR][COLOR white]Estrenos[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[makelist2.param2] [COLOR lightslategray](Calidad [makelist2.param5])[/COLOR]</title>
-    <link>$doregex[makelist]</link>
- <thumbnail>http://pelisadicto.com[makelist2.param3]</thumbnail>
-<fanart>http://pelisadicto.com[makelist2.param3]</fanart>    
-]]></listrepeat>
-<expres>href="(.*?)"[\w\W\s]{0,8}Ver(.*?)Online[\w\W\s]{0,129}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"[\w\W\s]{0,45}calidad">(.*?)<</expres>
-<page>http://pelisadicto.com/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR skyblue][makelist2.param2]  [COLOR lightslategray](streaminto [makelist.param1])  [/COLOR] [/COLOR]</title>
-<link>$doregex[id]</link>
- <regex>
- <name>id</name>
- <expres>file: "(.*?)",</expres>
- <page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	
- <referer>http://streamin.to</referer>
- </regex>
-<thumbnail>http://pelisadicto.com[makelist2.param3]</thumbnail>
-<fanart>http://pelisadicto.com[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>http://streamin.to/(.*?)\?1"</expres>
-<page>http://pelisadicto.com[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 
 
@@ -803,7 +724,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
   <item>
-<title>    [COLOR deepskyblue][B]ZPeliculas[/B] [/COLOR][COLOR white] Castellano[/COLOR] </title>
+<title>    [COLOR deepskyblue][B]ZPeliculas[/B] [/COLOR][COLOR white] Castellano No Funciona[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/zpeliculas.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -813,7 +734,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  <item>
-<title>    [COLOR deepskyblue][B]EliteTorrent[/B] [/COLOR][COLOR white] Castellano[/COLOR] </title>
+<title>    [COLOR deepskyblue][B]EliteTorrent[/B] [/COLOR][COLOR white] Castellano No Funciona quasar hasta aqui[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/elite.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -825,20 +746,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+
 <item>
-<title>    [COLOR deepskyblue][B]CineTux.COM[/B] [/COLOR][COLOR white][/COLOR] </title>
+<title>[COLOR red][B]Youtube Movies[/B][/COLOR] [COLOR white]Audio Latino[][/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/cinetux.xml</externallink>
+<externallink>http://adryanlist.org/adryan/youtubemovies.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
 <thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
+<info></info>
 </item>
 
 
 
 
-
 <item>
-<title>    [COLOR deepskyblue][B]Youtube[/B] [/COLOR][COLOR white]Peliculas[/COLOR] </title>
+<title>    [COLOR deepskyblue][B]Youtube Peliculas[/B] [/COLOR][COLOR white]Audiop Latino[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -851,179 +777,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red][B]YOUTUBE[/B][/COLOR] [COLOR white][][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/youtubemovies.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-
-
-<item>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [COLOR white][AlienMovies][V.O. Subtituladas][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/pelialien.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR skyblue][B]Solo Estrenos [/B][/COLOR][COLOR yellow]HD[/COLOR] [COLOR white][JessMax][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [Latino]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/peliculas.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR] [Castellano]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/peliculaspa.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]Recien Actualizadas[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/p_actuales.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]Mas Vistas[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/movies_populares.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B]INFANTILES[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/p_infantiles.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>Mexicanas [Audio Latino]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/series/p_mex.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>Ultimas Agregadas [Audio Español & Latino]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/ultimas.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://cdn1.iconfinder.com/data/icons/devices-media-circle-style/48/film_strip-512.png</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>Audio Castellano</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/p_esp.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-
-
-
- <item>
-<title>    [COLOR deepskyblue][B]Kickass Torrents[/B] [/COLOR][COLOR white] Castellano[/COLOR] [COLOR lightslategray] Recientes[/COLOR] </title>
-<link>$doregex[showPages]</link> 
-<thumbnail> </thumbnail>  
-
-<regex>
-<name>showPages</name>
-<listrepeat><![CDATA[
-   <title>[COLOR skyblue]Pagina# [showPages.param1][/COLOR]</title>
-    <link>$doregex[makelist]</link>
-       
-]]></listrepeat>
-<expres>([0-9]+),?</expres>
-<page>$doregex[getPageNumbers]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>getPageNumbers</name>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):
-  frompage,topage=re.findall( "results ([0-9]+)-([0-9]+)",page_data)[0]
-  frompage=int(frompage)
-  topage=int(topage)
-  print range(frompage,topage)
-  return range(frompage,topage)
-]]></expres>
-<page>https://kat.cr/usearch/castellano%20category%3Amovies/1/?field=time_add&amp;sorder=desc</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://kat.cr/movies/</referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR lightblue][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:[makelist.param1]</link>
-
-</regex>
-]]></listrepeat>
-<expres>href="magnet:(.*?)"[\w\W]*?class="cellMainLink">(.*?)<</expres>
-<page>https://kat.cr/usearch/castellano%20category%3Amovies/[showPages.param1]/?field=time_add&sorder=desc</page>	
-<referer>https://kat.cr/usearch/castellano%20category%3Amovies/[showPages.param1]/?field=time_add&sorder=desc</referer>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-</regex>
-</item>
-
-
-
-
 
 
 
