@@ -87,59 +87,6 @@
 
  
 
-
-
-<item>
-<title>[COLOR skyblue][B]Peliculas [/B][/COLOR] [COLOR coral][B]2011-2015[/B] [/COLOR][COLOR deepskyblue](Audio Original) [/COLOR][COLOR gray][hay que agregar subtitulos][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/my.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://s26.postimg.org/kju79znjd/Peliculas.png</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>[COLOR cyan]•[/COLOR][COLOR yellow]  ** S T A R  [/COLOR] [COLOR gold] W A R S  ** [/COLOR] [COLOR gray][seccion especial SAGA COMPLETA][/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/starwars.xml</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR orange][B]MOVIE[COLOR green]MEX[/COLOR][/B][/COLOR] [COLOR lightblue][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/streamex.xml</externallink>
-<fanart>https://pbs.twimg.com/media/CTQTVZEVEAAcZxV.jpg:large</fanart>
-<thumbnail>https://pbs.twimg.com/media/CTQTVZEVEAAcZxV.jpg:large</thumbnail>
-<info></info>
-</item>
-
-		
-
-
-
-
-
-
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -151,7 +98,7 @@
  
  
  <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]WATCHFREE[/B]  [/COLOR][COLOR skyblue]New Releases VO[/COLOR] </title>
+<title>    [COLOR deepskyblue][B]WATCHFREE[/B]  [/COLOR][COLOR white]VO[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -195,7 +142,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PrimeWire[/B]  [/COLOR][COLOR skyblue]Featured VO[/COLOR] </title>
+<title>    [COLOR deepskyblue][B]Prime Wire[/B]  [/COLOR][COLOR white]VO[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -262,7 +209,7 @@
  
  
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PELIS24[/B]  [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
+<title>    [COLOR deepskyblue][B]Pelis24[/B]  [/COLOR][COLOR white]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -356,15 +303,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
-
-
  
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]HDFull.TV[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
+<title>    [COLOR deepskyblue][B]HDFull.TV[/B] [/COLOR][COLOR white]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <externallink>http://adryanlist.org/adryan/hdfull.xml</externallink>
 </item>
