@@ -23,8 +23,7 @@
 
 
 <tem>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR]  [COLOR deepskyblue]Audio Latino[/COLOR]  </title>
-<link>$doregex[makelist2]</link>
+<title>    [COLOR deepskyblue][B]Estrenos[/B][/COLOR]  [COLOR white]Audio Latino[/COLOR]  </title>
 
 <regex>
 <name>makelist2</name>
