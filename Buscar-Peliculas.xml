@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]    [COLOR gray]en Gnula.nu[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en Gnula.nu[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
    <name>makelist</name>
@@ -59,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR][COLOR skyblue]en HDFULL.tv[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en HDFULL.tv[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
    <name>makelist</name>
@@ -119,7 +119,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]PelisMagnet[/COLOR][COLOR lightslategray] Audio Castellano[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en PelisMagnet[/COLOR][COLOR lightslategray] Audio Castellano[/COLOR] </title>
 <link>$doregex[makelist]</link>
 
 
@@ -162,7 +162,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]en PRIMEWIRE[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en PrimeWire[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -240,7 +240,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  <item>
-<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]en YourBitorrent[/COLOR]</title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en YourBitorrent[/COLOR]</title>
 <link>$doregex[makelist]</link> 
 <thumbnail> </thumbnail> 
 
@@ -270,12 +270,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-
 </item>
 
 
+
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]SEARCH[/B] [/COLOR][COLOR skyblue]at WatchFree[/COLOR]</title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en WatchFree[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 
@@ -338,7 +338,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]Torrent VO[/COLOR][COLOR lightslategray] Pulsar requerido[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en Torrent VO[/COLOR][COLOR lightslategray] Pulsar Requerido[/COLOR] </title>
 
 <link>$doregex[makelist]</link>
 
@@ -380,8 +380,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>	
 
 
+
 <item>
-[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]en ExtraTorrent[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en ExtraTorrent[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -416,20 +417,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>[COLOR deepskyblue][B]Buscar[/B][COLOR skyblue]TorrentKing[/COLOR][COLOR lightslategray] VO[/COLOR] </title>
+<title>[COLOR deepskyblue][B]Buscar[/B][/COLOR]        [COLOR gray]en TorrentKing[/COLOR][COLOR lightslategray] VO[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
